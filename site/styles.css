@@ -105,3 +105,8 @@ footer p { margin: 0 0 1rem; }
   .doors li, .preview, .note { border: 2px solid CanvasText; }
   header nav a[aria-current="page"], header nav a.in-section { border-bottom-color: CanvasText; }
 }
+
+/* Text and a picture side by side on wide screens; the picture follows the text on narrow ones. */
+.beside { display: grid; gap: 1.5rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr)); align-items: start; }
+.beside figure { margin: 0; }
+.news-list h3 a { color: var(--teal); }

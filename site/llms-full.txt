@@ -8,13 +8,7 @@ Canonical page: https://tka.unremarkable.me/
 
 > **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
 
-A member trying out smart glasses at Brew Break, our technology conference.
-
 We are a membership organisation which supports blind and partially sighted people to use technology at home, at work and in education.
-
-We have over 700 members across the UK and internationally, from people just starting out with technology to leading experts in assistive and accessible technology. Professionals and family members are welcome too, as associate members.
-
-It is free to join, so there has never been a better time to get involved, learn more about technology and have a say in the future of the organisation.
 
 ## What can we help you with?
 
@@ -22,13 +16,23 @@ It is free to join, so there has never been a better time to get involved, learn
 - [Free one-to-one training](https://tka.unremarkable.me/supporting-you/training/)Up to five hours, for work, volunteering or study.
 - [Join for free](https://tka.unremarkable.me/membership/)Full membership if you are blind or partially sighted, associate membership if you support us.
 - [Come to an event](https://tka.unremarkable.me/events/)Kettle Chat every month, masterclass webinars and Brew Break.
-- [Find a service](https://tka.unremarkable.me/resources/)Our directory of organisations, trainers, suppliers and grants.
+- [Find a service](https://tka.unremarkable.me/resources/directory/)Our directory of organisations, trainers, suppliers and grants.
+
+## Over 700 members
+
+Our members are across the UK and internationally, from people just starting out with technology to leading experts in assistive and accessible technology. Professionals and family members are welcome too, as associate members.
+
+It is free to join, so there has never been a better time to get involved, learn more about technology and have a say in the future of the organisation.
+
+[About membership](https://tka.unremarkable.me/membership/)
+
+A member trying out smart glasses at Brew Break, our technology conference.
 
 ## Latest news
 
-- Open Hands Technology Trust has become part of TKA 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees. "The resources which are coming from OHTT will enable us to kick-start a number of new developments, and we are delighted to be able to build on OHTT's legacy."
-- Masterclass Series: Using JAWS with Microsoft Office 26 October 2026 A new Masterclass Series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook. You can watch the recording of Session 1. Session 2 was on 4 November, and Session 3 is on 2 December.
-- TKA welcomes a new team member 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
+- [Open Hands Technology Trust has become part of TKA](https://tka.unremarkable.me/news/open-hands-technology-trust-joins/) 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees.
+- [Masterclass Series: Using JAWS with Microsoft Office](https://tka.unremarkable.me/news/masterclass-series-jaws-with-microsoft-office/) 26 October 2026 A new series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook.
+- [TKA welcomes a new team member](https://tka.unremarkable.me/news/new-community-development-lead/) 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
 
 [All news](https://tka.unremarkable.me/news/)
 
@@ -214,11 +218,11 @@ Canonical page: https://tka.unremarkable.me/news/
 
 > **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
 
-- Open Hands Technology Trust has become part of TKA 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees. "The resources which are coming from OHTT will enable us to kick-start a number of new developments, and we are delighted to be able to build on OHTT's legacy."
-- Masterclass Series: Using JAWS with Microsoft Office 26 October 2026 A new Masterclass Series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook. You can watch the recording of Session 1. Session 2 was on 4 November, and Session 3 is on 2 December.
-- TKA welcomes a new team member 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
-- Grant secured to develop digital skills for employment 31 July 2026 We and a Scottish sight loss charity have been given a grant to develop a Digital Skills Framework, and a national case for support, to help people build the skills they need for today's workplace.
-- Sector launches training videos for professionals 13 July 2026 Organisations in the technology group of The Sight Loss Alliance have developed training for professionals in the sight loss sector. The four-part pilot introduces mainstream and specialist technology for people who are blind or partially sighted, and the recordings are now available.
+- [Open Hands Technology Trust has become part of TKA](https://tka.unremarkable.me/news/open-hands-technology-trust-joins/) 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees.
+- [Masterclass Series: Using JAWS with Microsoft Office](https://tka.unremarkable.me/news/masterclass-series-jaws-with-microsoft-office/) 26 October 2026 A new series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook.
+- [TKA welcomes a new team member](https://tka.unremarkable.me/news/new-community-development-lead/) 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
+- [Grant secured to develop digital skills for employment](https://tka.unremarkable.me/news/grant-for-digital-skills-for-employment/) 31 July 2026 A grant to develop a Digital Skills Framework, with a Scottish sight loss charity.
+- [Sector launches training videos for professionals](https://tka.unremarkable.me/news/training-videos-for-professionals/) 13 July 2026 A four-part introduction to technology for people working in the sight loss sector.
 
 
 ---
@@ -3312,3 +3316,88 @@ We pride ourselves on listening to every individual’s specific requirements &a
 These details have not been checked since they were copied from the old directory.
 
 [Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Open Hands Technology Trust has become part of TKA
+
+Canonical page: https://tka.unremarkable.me/news/open-hands-technology-trust-joins/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+5 November 2026
+
+Open Hands Technology Trust (OHTT) became part of TKA on 30 October 2026.
+
+"We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees. "The resources which are coming from OHTT will enable us to kick-start a number of new developments, and we are delighted to be able to build on OHTT's legacy."
+
+OHTT's device scheme has now closed. If you would like advice on using technology, or on organisations that provide free equipment and grants for it, we can help: see [Equipment and funding](https://tka.unremarkable.me/supporting-you/equipment-and-funding/).
+
+[All news](https://tka.unremarkable.me/news/)
+
+
+---
+
+# Masterclass Series: Using JAWS with Microsoft Office
+
+Canonical page: https://tka.unremarkable.me/news/masterclass-series-jaws-with-microsoft-office/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+26 October 2026
+
+We have started a new Masterclass Series, an introduction to using the JAWS screen reader with Microsoft Word, Excel and Outlook.
+
+The recording of Session 1 is available. Session 2 was on 4 November, and Session 3 is on 2 December.
+
+Details of each session are emailed to members. [Joining is free](https://tka.unremarkable.me/membership/).
+
+[All news](https://tka.unremarkable.me/news/)
+
+
+---
+
+# TKA welcomes a new team member
+
+Canonical page: https://tka.unremarkable.me/news/new-community-development-lead/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+23 October 2026
+
+TKA is pleased to announce that Priya Lennox has recently joined the organisation in the new role of Community Development Lead.
+
+[All news](https://tka.unremarkable.me/news/)
+
+
+---
+
+# Grant secured to develop digital skills for employment
+
+Canonical page: https://tka.unremarkable.me/news/grant-for-digital-skills-for-employment/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+31 July 2026
+
+We and a Scottish sight loss charity have been given a grant to develop a Digital Skills Framework, and a national case for support, to help people build the skills they need for today's workplace.
+
+[All news](https://tka.unremarkable.me/news/)
+
+
+---
+
+# Sector launches training videos for professionals
+
+Canonical page: https://tka.unremarkable.me/news/training-videos-for-professionals/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+13 July 2026
+
+Organisations in the technology group of The Sight Loss Alliance have come together to develop training for professionals working in the sight loss sector.
+
+The four-part pilot introduces mainstream and specialist technology for people who are blind or partially sighted, and the session recordings are now available.
+
+[All news](https://tka.unremarkable.me/news/)

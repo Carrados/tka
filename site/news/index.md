@@ -17,11 +17,11 @@ Menu:
 - [Donate](https://tka.unremarkable.me/donate/)
 - [About us](https://tka.unremarkable.me/about-us/)
 
-- Open Hands Technology Trust has become part of TKA 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees. "The resources which are coming from OHTT will enable us to kick-start a number of new developments, and we are delighted to be able to build on OHTT's legacy."
-- Masterclass Series: Using JAWS with Microsoft Office 26 October 2026 A new Masterclass Series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook. You can watch the recording of Session 1. Session 2 was on 4 November, and Session 3 is on 2 December.
-- TKA welcomes a new team member 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
-- Grant secured to develop digital skills for employment 31 July 2026 We and a Scottish sight loss charity have been given a grant to develop a Digital Skills Framework, and a national case for support, to help people build the skills they need for today's workplace.
-- Sector launches training videos for professionals 13 July 2026 Organisations in the technology group of The Sight Loss Alliance have developed training for professionals in the sight loss sector. The four-part pilot introduces mainstream and specialist technology for people who are blind or partially sighted, and the recordings are now available.
+- [Open Hands Technology Trust has become part of TKA](https://tka.unremarkable.me/news/open-hands-technology-trust-joins/) 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees.
+- [Masterclass Series: Using JAWS with Microsoft Office](https://tka.unremarkable.me/news/masterclass-series-jaws-with-microsoft-office/) 26 October 2026 A new series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook.
+- [TKA welcomes a new team member](https://tka.unremarkable.me/news/new-community-development-lead/) 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
+- [Grant secured to develop digital skills for employment](https://tka.unremarkable.me/news/grant-for-digital-skills-for-employment/) 31 July 2026 A grant to develop a Digital Skills Framework, with a Scottish sight loss charity.
+- [Sector launches training videos for professionals](https://tka.unremarkable.me/news/training-videos-for-professionals/) 13 July 2026 A four-part introduction to technology for people working in the sight loss sector.
 
 ---
 

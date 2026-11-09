@@ -1,17 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <!-- An older man in a checked shirt at a conference, smiling, wearing smart glasses and bone-conduction earphones. -->
+  <defs>
+    <pattern id="check" width="28" height="28" patternUnits="userSpaceOnUse">
+      <rect width="28" height="28" fill="#205b7e"/>
+      <rect width="14" height="28" fill="#2f6f95"/>
+      <rect width="28" height="14" fill="#2f6f95" opacity="0.7"/>
+      <rect width="14" height="14" fill="#bfe6ef" opacity="0.55"/>
+    </pattern>
+  </defs>
   <rect width="640" height="400" fill="#e8f4f3"/>
-  <rect x="40" y="40" width="560" height="120" rx="8" fill="#0f4948"/>
-  <g fill="#efcb37"><circle cx="90" cy="100" r="10"/><circle cx="550" cy="100" r="10"/></g>
-  <g fill="#bfe6ef"><rect x="130" y="88" width="300" height="10" rx="5"/><rect x="130" y="108" width="200" height="8" rx="4"/></g>
-  <rect x="0" y="330" width="640" height="70" fill="#125a59"/>
-  <path d="M230 400 C 230 300, 410 300, 410 400 Z" fill="#205b7e"/>
-  <path d="M300 300 L320 340 L340 300 Z" fill="#ffffff"/>
-  <rect x="306" y="250" width="28" height="40" fill="#8d5524"/>
-  <ellipse cx="320" cy="215" rx="58" ry="66" fill="#a0662f"/>
-  <path d="M262 200 C 262 140, 378 140, 378 200 C 370 170, 270 170, 262 200 Z" fill="#2b2b2b"/>
-  <g fill="#131313"><rect x="270" y="200" width="44" height="26" rx="8"/><rect x="326" y="200" width="44" height="26" rx="8"/><rect x="312" y="207" width="16" height="6"/><rect x="250" y="206" width="22" height="6"/><rect x="368" y="206" width="22" height="6"/></g>
-  <circle cx="368" cy="206" r="3" fill="#efcb37"/>
-  <path d="M262 215 C 252 222, 252 240, 262 246" fill="none" stroke="#efcb37" stroke-width="5" stroke-linecap="round"/>
-  <path d="M378 215 C 388 222, 388 240, 378 246" fill="none" stroke="#efcb37" stroke-width="5" stroke-linecap="round"/>
-  <path d="M292 248 C 305 264, 335 264, 348 248" fill="none" stroke="#5a2d0c" stroke-width="5" stroke-linecap="round"/>
+  <rect x="30" y="30" width="580" height="110" rx="8" fill="#0f4948"/>
+  <g fill="#efcb37"><circle cx="78" cy="85" r="10"/><circle cx="562" cy="85" r="10"/></g>
+  <g fill="#bfe6ef"><rect x="118" y="72" width="300" height="10" rx="5"/><rect x="118" y="92" width="200" height="8" rx="4"/></g>
+  <rect x="0" y="340" width="640" height="60" fill="#125a59"/>
+  <path d="M190 400 C 190 300, 450 300, 450 400 Z" fill="url(#check)"/>
+  <path d="M290 300 L320 345 L350 300 Z" fill="#e8f4f3"/>
+  <path d="M290 300 L320 345 L300 352 L280 306 Z M350 300 L320 345 L340 352 L360 306 Z" fill="url(#check)"/>
+  <rect x="302" y="250" width="36" height="52" rx="10" fill="#e8b48f"/>
+  <ellipse cx="320" cy="205" rx="60" ry="70" fill="#f0c4a0"/>
+  <ellipse cx="260" cy="212" rx="10" ry="16" fill="#e8b48f"/>
+  <ellipse cx="380" cy="212" rx="10" ry="16" fill="#e8b48f"/>
+  <path d="M262 190 C 258 150, 280 128, 300 132 C 285 145, 280 165, 278 190 Z" fill="#c9c9c9"/>
+  <path d="M378 190 C 382 150, 360 128, 340 132 C 355 145, 360 165, 362 190 Z" fill="#c9c9c9"/>
+  <rect x="270" y="190" width="44" height="30" rx="9" fill="#3a4a5a" stroke="#131313" stroke-width="6"/>
+  <rect x="326" y="190" width="44" height="30" rx="9" fill="#3a4a5a" stroke="#131313" stroke-width="6"/>
+  <rect x="312" y="198" width="16" height="6" fill="#131313"/>
+  <rect x="250" y="196" width="22" height="7" fill="#131313"/>
+  <rect x="368" y="196" width="22" height="7" fill="#131313"/>
+  <circle cx="276" cy="194" r="3" fill="#efcb37"/>
+  <path d="M258 232 C 250 270, 390 270, 382 232" fill="none" stroke="#131313" stroke-width="5"/>
+  <rect x="252" y="214" width="12" height="20" rx="5" fill="#131313"/>
+  <rect x="376" y="214" width="12" height="20" rx="5" fill="#131313"/>
+  <path d="M290 238 C 302 258, 338 258, 350 238" fill="#ffffff" stroke="#7a3b1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M282 232 C 280 240, 282 246, 286 250 M358 232 C 360 240, 358 246, 354 250" fill="none" stroke="#d29a74" stroke-width="3" stroke-linecap="round"/>
 </svg>

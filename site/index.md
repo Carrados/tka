@@ -17,13 +17,7 @@ Menu:
 - [Donate](https://tka.unremarkable.me/donate/)
 - [About us](https://tka.unremarkable.me/about-us/)
 
-A member trying out smart glasses at Brew Break, our technology conference.
-
 We are a membership organisation which supports blind and partially sighted people to use technology at home, at work and in education.
-
-We have over 700 members across the UK and internationally, from people just starting out with technology to leading experts in assistive and accessible technology. Professionals and family members are welcome too, as associate members.
-
-It is free to join, so there has never been a better time to get involved, learn more about technology and have a say in the future of the organisation.
 
 ## What can we help you with?
 
@@ -31,13 +25,23 @@ It is free to join, so there has never been a better time to get involved, learn
 - [Free one-to-one training](https://tka.unremarkable.me/supporting-you/training/)Up to five hours, for work, volunteering or study.
 - [Join for free](https://tka.unremarkable.me/membership/)Full membership if you are blind or partially sighted, associate membership if you support us.
 - [Come to an event](https://tka.unremarkable.me/events/)Kettle Chat every month, masterclass webinars and Brew Break.
-- [Find a service](https://tka.unremarkable.me/resources/)Our directory of organisations, trainers, suppliers and grants.
+- [Find a service](https://tka.unremarkable.me/resources/directory/)Our directory of organisations, trainers, suppliers and grants.
+
+## Over 700 members
+
+Our members are across the UK and internationally, from people just starting out with technology to leading experts in assistive and accessible technology. Professionals and family members are welcome too, as associate members.
+
+It is free to join, so there has never been a better time to get involved, learn more about technology and have a say in the future of the organisation.
+
+[About membership](https://tka.unremarkable.me/membership/)
+
+A member trying out smart glasses at Brew Break, our technology conference.
 
 ## Latest news
 
-- Open Hands Technology Trust has become part of TKA 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees. "The resources which are coming from OHTT will enable us to kick-start a number of new developments, and we are delighted to be able to build on OHTT's legacy."
-- Masterclass Series: Using JAWS with Microsoft Office 26 October 2026 A new Masterclass Series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook. You can watch the recording of Session 1. Session 2 was on 4 November, and Session 3 is on 2 December.
-- TKA welcomes a new team member 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
+- [Open Hands Technology Trust has become part of TKA](https://tka.unremarkable.me/news/open-hands-technology-trust-joins/) 5 November 2026 "We have ambitious plans for the future," said Morgan Ashby, TKA Chair of Trustees.
+- [Masterclass Series: Using JAWS with Microsoft Office](https://tka.unremarkable.me/news/masterclass-series-jaws-with-microsoft-office/) 26 October 2026 A new series introduces the JAWS screen reader with Microsoft Word, Excel and Outlook.
+- [TKA welcomes a new team member](https://tka.unremarkable.me/news/new-community-development-lead/) 23 October 2026 Priya Lennox has joined us in the new role of Community Development Lead.
 
 [All news](https://tka.unremarkable.me/news/)
 

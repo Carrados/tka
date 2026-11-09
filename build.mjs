@@ -5,6 +5,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, copyFileSync, existsSyn
 import { dirname, join } from 'node:path';
 import { settings as S, PREVIEW } from './settings.mjs';
 import { directoryPages } from './directory.mjs';
+import { storyList, storyPages } from './news.mjs';
 
 const OUT = 'site';
 const ZIC_URL = 'https://zeroinformationcasualty.org/';
@@ -20,6 +21,9 @@ function fill(text) {
 }
 // The phone number: a tap-to-call link only when there is a real line behind it.
 S.PHONE_HTML = S.PHONE_LINK ? `<a href="tel:${S.PHONE_LINK}">${S.PHONE}</a>` : S.PHONE;
+// News lists, built from news.mjs: the latest three on the home page, all of them on the News page.
+S.NEWS_LATEST = storyList(fill, 3);
+S.NEWS_ALL = storyList(fill);
 const read = p => fill(readFileSync(p, 'utf8'));
 
 const pages = [
@@ -53,6 +57,8 @@ const pages = [
 // The directory: generated from data/directory.json. Only its front door is listed in llms.txt.
 const directory = directoryPages(fill);
 for (const p of directory.pages) pages.push({ title: `${p.h1}: ${S.NAME}`, quiet: p.path !== '/resources/directory/', ...p });
+// A page for each news story. The News page itself is listed in llms.txt; the stories are in llms-full.txt.
+for (const p of storyPages(fill)) pages.push({ title: `${p.h1}: ${S.NAME}`, quiet: true, ...p });
 
 const listed = pages.filter(p => !p.hidden);
 // Accessibility statement is first in the menu, on every site Unremarkable builds. The rest keep their order.
