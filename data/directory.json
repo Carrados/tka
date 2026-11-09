@@ -1,0 +1,1566 @@
+{
+  "typeNames": {
+    "advice-service": "Advice services",
+    "online-resources": "Online resources",
+    "professional-bodies": "Professional bodies",
+    "trainers": "Trainers",
+    "retailers": "Retailers",
+    "events": "Events",
+    "research": "Research",
+    "grants": "Grants",
+    "music": "Music",
+    "coding-and-computing": "Coding and computing",
+    "children-young-people": "Children and young people",
+    "support-at-home": "Support at home",
+    "products": "Products",
+    "touch-typing-software": "Touch-typing software"
+  },
+  "entries": [
+    {
+      "slug": "aat-solutions-expert-assistive-technology-training",
+      "name": "AAT Solutions: Expert Assistive Technology Training",
+      "description": [
+        "At AAT Solutions, we specialize in helping visually impaired individuals use assistive technology confidently and effectively. As a certified trainer who is blind, I bring a unique perspective and personal experience that greatly enhance our training.",
+        "Personalized Training: We offer training sessions tailored to your needs. Our focus includes key tools like JAWS, NVDA, ZoomText, and Dragon NaturallySpeaking. We make sure you can use these tools easily in your everyday life, whether at home or work.",
+        "Unique Advantage: My personal experience as a blind individual helps me understand the real challenges of using assistive technology. This allows me to offer practical and empathetic support, helping you overcome obstacles and build confidence with tailored strategies.",
+        "Broad Device Training: Besides assistive technologies, we also provide training on popular platforms like Windows, macOS, iOS, and Android. This helps you become comfortable with various types of technology, improving your overall digital skills and readiness.",
+        "Hands-On Learning: Our sessions focus on practical, hands-on learning. You’ll practice using your new skills in real-life situations, making it easier to apply what you’ve learned effectively.",
+        "Ongoing Support: We are dedicated to your success. We offer continuous support and encouragement, helping you build confidence and address any challenges you may face as you use your new skills."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "http://www.aatsolutions.uk",
+      "email": "info@aatsolutions.uk",
+      "phone": "0333 091 3876",
+      "checked": ""
+    },
+    {
+      "slug": "abilitynet-information-and-advice",
+      "name": "AbilityNet",
+      "description": [
+        "AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.",
+        "We’ve been helping older people and disabled people of any age with their technology for 25 years. Could we help you or someone you know?",
+        "- We have a network of more than 450 friendly tech volunteers who can help you or someone you are supporting. They can come to your home, or help you on the phone.",
+        "- If you are older or disabled, or if you support someone that is, you can call our helpline for independent advice from a technology expert.",
+        "- If you're over 65 years of age and looking to build your digital skills, we offer free digital skills sessions in areas in and around London, Birmingham, Manchester, Edinburgh, and Cardiff.",
+        "- Our free information resources provide expert information about disability and technology."
+      ],
+      "types": [
+        "advice-service",
+        "online-resources",
+        "support-at-home"
+      ],
+      "needs": [
+        "advice",
+        "learn",
+        "home"
+      ],
+      "website": "https://abilitynet.org.uk/free-tech-support-and-info",
+      "email": "enquiries@abilitynet.org.uk",
+      "phone": "0300 180 0028",
+      "checked": ""
+    },
+    {
+      "slug": "access-on",
+      "name": "Access On",
+      "description": [
+        "Access On is the technology podcast of the National Federation of the Blind in the US and is hosted by Jonathan Mosen. It features the latest technology news, product demonstrations, reviews and interviews about the fast-changing world of accessible technology for blind and low-vision users, from screen reading software, smartphone apps to AI tools, Braille displays and more.",
+        "The podcast also includes listener contributions and feedback."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://accesson.pinecast.co/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "access-tech-vip",
+      "name": "Access Tech VIP",
+      "description": [
+        "Access Tech VIP is led by Adrian Tamasan, a blind assistive technology trainer with more than 25 years of experience using screen readers across Windows, macOS, iOS, Android and specialist audio workflows.",
+        "Training can be provided on screen reader basics and advanced navigation techniques, email, web browsing, managing files, and accessibility on tablets and smartphones.",
+        "Adrian can provide face to face training in England and internationally for one to one online training, in English or Romanian."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "http://www.accesstech.vip/",
+      "email": "adrian.tamasan@accesstech.vip",
+      "phone": "07788241125",
+      "checked": ""
+    },
+    {
+      "slug": "accessible-android",
+      "name": "Accessible Android",
+      "description": [
+        "This website provides tips, how to guides, app reviews and podcasts on using Android on smartphones and tablets with the Talkback screen reader, Braille displays and other accessibility features."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://accessibleandroid.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "afb-american-foundation-for-the-blind-access-world",
+      "name": "AFB (American Foundation for the Blind): Access World",
+      "description": [
+        "Produced by American Foundation for the Blind, Access World is \"a trusted source of information for the intersection of disability and technology. Published quarterly, view our honest commentary, expert insights, and trending discussions in AccessWorld\""
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.afb.org/aw",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "alternate-visions-coaching-avc",
+      "name": "Alternate Visions Coaching (AVC)",
+      "description": [
+        "AVC specialise in sight loss, assistive technology training, coaching for living with sight loss, back to work skills & confidence building.",
+        "AVC specialises in delivering training on VoiceOver for Apple products. VoiceOver is a built-in screen reader found on all modern Apple devices. It gives Apple users full accessibility to all of the features of their device, without the need to purchase additional software.",
+        "AVC also offers training to users of Dolphin GuideConnect and Dolphin SuperNova. These are software packages that can be installed on most modern Windows 10 tablets, Desktop and Laptop computers. They enable visually impaired and blind individuals to use computers by utilising magnification, colour contrast, screen reading software or in some cases, a combination of all of those features.",
+        "Training in the use of these assistive technologies can be delivered to individuals or groups and is tailored to your individual needs. Training can be given in the comfort of the client’s own home on their own device, or if the client is a company/organisation, it can be delivered on their premises.",
+        "AVC understands that individuals may feel uncomfortable receiving strangers into their home, so offers remote training by telephone or video calling services as an alternative."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "http://alternatevisionscoaching.org",
+      "email": "alternatevisionscoaching@gmail.com",
+      "phone": "07801 446624",
+      "checked": ""
+    },
+    {
+      "slug": "apple-accessibility-pages",
+      "name": "Apple Accessibility Pages",
+      "description": [
+        "The Apple website has a really helpful section on accessibility features for people with little or no sight."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.apple.com/uk/accessibility/vision/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "apple-accessibility-you-tube-channel",
+      "name": "Apple Accessibility YouTube Channel",
+      "description": [
+        "This collection of videos looks at using your iPhone without seeing the screen, adapting gestures to your physical needs, and more. Discover how the accessibility features built into your Apple devices can help you do more."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://youtube.com/playlist?list=PLIl2EzNYri0cLtSlZowttih25VnSvWITu&#038;si=zNY3wjjR1ZnR8cej",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "applevis",
+      "name": "AppleVis",
+      "description": [
+        "AppleVis is the go-to resource for blind and low vision users of Apple technologies. With an active, engaged user base and a vast collective understanding of accessibility on Apple's platforms, members of our community support each other in accessing the maximum potential of Apple hardware, software, and services.",
+        "The AppleVis Newsletter is an occasional newsletter featuring news, announcements and updates from the AppleVis website.",
+        "The AppleVis podcast concentrates on all things Apple, primarily with VoiceOver. It includes demonstrations of apps and iOS features as well as news from Apple (new hardware and software releases, sales figures and much more). A must listen if you use an iPhone or iPad with VoiceOver."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.applevis.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "aspire-consultancy",
+      "name": "Aspire Consultancy",
+      "description": [
+        "Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people. We also sell products that are specifically designed to improve your quality of life at work, at study or in the home that help you fully realise your full potential. We serve corporate, educational and private clients across the UK.",
+        "Our training service includes training on mainstream software packages, internet and e-mail solutions. We also supply desktop and laptop computer systems tailored to the needs of the individual.",
+        "Packages supported include: JAWS, J-Say, J-Dictate, NVDA, Dolphin GuideConnect and Supernova, ZoomText and Zoomtext Fusion, and the Apple Operating System iOS.",
+        "Training is provided remotely online, by telephone or face-to-face."
+      ],
+      "types": [
+        "retailers",
+        "trainers"
+      ],
+      "needs": [
+        "buy",
+        "learn"
+      ],
+      "website": "http://www.aspire-consultancy.co.uk",
+      "email": "info@aspire-consultancy.co.uk",
+      "phone": "01904 762788",
+      "checked": ""
+    },
+    {
+      "slug": "azabat-touch-typing-software",
+      "name": "Azabat Touch Typing Software",
+      "description": [
+        "The Azabat Touch Typing Tutors are software programmes designed specifically to help blind and partially sighted people to learn to touch type.",
+        "There are Beginners and Advanced versions. They cost £30 each or £50 as a set."
+      ],
+      "types": [
+        "touch-typing-software"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "http://www.azabat.co.uk/typing.html",
+      "email": "steve@azabat.co.uk",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "blatchington-court-trust-grant-guidelines",
+      "name": "Blatchington Court Trust: Grant Guidelines",
+      "description": [
+        "Applications will be considered for children and young people who are registered or are registrable as blind (SSI) or partially sighted (SI) up to and including the age of 29 years and who reside permanently in Sussex. All items supplied through our grant scheme are for home use only (not for school or college), unless there has been a special arrangement between the Trust and the local Authority’s teams of qualified Teachers for Visual Impairment (QTVI’s).All applications must be supported by a QTVI or another professional if the applicant is over 16."
+      ],
+      "types": [
+        "grants"
+      ],
+      "needs": [
+        "pay"
+      ],
+      "website": "https://www.blatchingtoncourt.org.uk/benefits-and-grants/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "blind-aid",
+      "name": "Blind Aid",
+      "description": [
+        "Living with blindness or visual impairment brings many challenges to everyday life.",
+        "Grants are available to visually impaired Londoners on low incomes for essential items to help maintain vital independence.",
+        "BlindAid grants are:",
+        "-",
+        "Subject to criteria, and considered by our grant committee",
+        "- Typically up to £400",
+        "- Applied for on behalf of the recipient by Social Services, Sensory Teams or other Charities/statutory services.",
+        "Grants can be used in many ways, including but not limited to:",
+        "- Equipment and gadgets, including colour detectors, talking microwaves etc.",
+        "- White Goods",
+        "- Accessible computers/laptops",
+        "- Domestic items",
+        "Please be aware that we can only accept grant applications made by an employee of a statutory organisation or registered charity."
+      ],
+      "types": [
+        "grants"
+      ],
+      "needs": [
+        "pay"
+      ],
+      "website": "https://blindaid.org.uk/our-services/grants/",
+      "email": "enquiries@blindaid.org.uk",
+      "phone": "020 7403 6184",
+      "checked": ""
+    },
+    {
+      "slug": "blind-android-users",
+      "name": "Blind Android Users",
+      "description": [
+        "The team at Blind Android Users strive to make Android understandable, thus demystifying the claim by some who continue to perpetuate the myth among unsuspecting blind folks that Android isn’t usable by the blind.",
+        "For this reason, Blind Android Users exists to set the record straight and provide tutorials (in both audio form) via our weekly podcast where we go through what Android is all about and how to use it as a blind or visually impaired person.",
+        "Android is the world’s biggest mobile platform and at Blind Android Users, we intend to make it possible for blind and visually impaired people to fully take advantage of the platform."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://blindandroidusers.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "braillecast-podcast-connecting-the-dots",
+      "name": "BrailleCast podcast: Connecting the Dots",
+      "description": [
+        "The BrailleCast podcast aims to showcase the value of Braille and provide Braillists with resources to help spread the word about Braille. BrailleCast highlights the many ways Braille touches our lives and offers a platform to share ways we can broaden Braille’s appeal, often through the use of technology such as Braille displays and notetakers or by connecting these devices to smartphones, computers and tablets."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.braillecast.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "code-jumper",
+      "name": "Code Jumper",
+      "description": [
+        "Code Jumper™ is an incredible innovation that teaches students who are blind or visually impaired computer coding. By putting the block code tactually in your hands, all students can learn together in an inclusive setting. Originally designed by Microsoft® and developed by APH, this educational toy bridges the skills gap and opens up the world of coding to every student.",
+        "Children not only learn basic programming concepts, such as sequence, iteration, selection, and variables, but will also be encouraged to think computationally, such as solving the same challenge in multiple ways.",
+        "Most important, any teacher can facilitate Code Jumper lessons without prior computer science experience, and Code Jumper is inclusive of all children across the vision spectrum.",
+        "APH is pleased to announce that we will be partnering with HumanWare to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.",
+        "We are also pleased to partner with the following organizations in the promotion and sale of Code Jumper internationally:",
+        "- Australia: Vision Australia Vision Australia: Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: Vision Store",
+        "- Canada: CNIB Foundation: CNIB",
+        "- UK: The Royal National Institute of Blind People (RNIB) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their online shop."
+      ],
+      "types": [
+        "coding-and-computing"
+      ],
+      "needs": [
+        "work"
+      ],
+      "website": "https://codejumper.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "computer-room-services",
+      "name": "Computer Room Services",
+      "description": [
+        "We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.",
+        "We do not run specific courses, instead we try to tailor the training to your needs. Training can be done over the telephone or over Zoom or Microsoft Teams and can also be recorded for you to keep.",
+        "We train by the hour, a minimum of one hour must be taken, and then notes are emailed or sent in your preferred format at the end of the lesson. There are no contracts – you can take as few or as many lessons as you wish. Home visits can be arranged.",
+        "We are also able to remotely connect to your PC, so that we can see, and show you, exactly what to do when training."
+      ],
+      "types": [
+        "retailers",
+        "support-at-home",
+        "trainers"
+      ],
+      "needs": [
+        "buy",
+        "home",
+        "advice",
+        "learn"
+      ],
+      "website": "http://www.comproom.co.uk",
+      "email": "steve@comproom.co.uk",
+      "phone": "01438 742 286",
+      "checked": ""
+    },
+    {
+      "slug": "connect-by-tech-service-from-the-macular-society",
+      "name": "Connect by Tech Service from the Macular Society",
+      "description": [
+        "The Macular Society’s Connect by Tech service offers one-to-one telephone support with the technology people use around their home. Their volunteers can help Macular Society members make the most of their tech, such as Smartphones, Tablets, Laptops and Computers, Smart speakers and others."
+      ],
+      "types": [
+        "advice-service"
+      ],
+      "needs": [
+        "advice"
+      ],
+      "website": "https://www.macularsociety.org/support/daily-life/connect/",
+      "email": "techtalk@macularsociety.org",
+      "phone": "0300 3030 111",
+      "checked": ""
+    },
+    {
+      "slug": "connect-to-success-technology-and-employment-support-for-disabled-people",
+      "name": "Connect to Success: Technology and Employment Support for Disabled People",
+      "description": [
+        "The Government should improve employment opportunities for disabled jobseekers by taking advantage of modern assistive and accessible technology.",
+        "Cross-party think tank Policy Connect and the All-Party Parliamentary Group for Assistive and Accessible Technology’s latest report, ‘Connect to Success: Technology and Employment Support for Disabled People’, examines the contribution of employment support services for disabled job seekers, and shows how these services can become more effective by providing support for their clients to use assistive and accessible technology (ATech) to overcome barriers to employment.",
+        "Rates of economic inactivity have proved persistently higher among disabled and neurodivergent people, with only 54.4% of working age disabled people in employment compared to 81.9% of non-disabled people. The situation is particularly acute for people with learning disabilities, with employment rates that are estimated to be between 4.8% and 26.7%.",
+        "The Get Britain Working White Paper has outlined the new Government’s plans to increase economic activity, with a long-term target of an 80% employment rate and 2.1 million more people in work. This can only be achieved if more disabled people are able to find and thrive in employment.",
+        "The report argues that government’s employment support reforms – including the creation of the ‘Connect to Work’ scheme that will support an estimated 100,000 disabled people over 2026-27 – offer a once-in-a generation opportunity to incorporate ATech into the design of these new and reformed services.",
+        "ATech is already a valued and common form of workplace adjustment, and as Connect to Success outlines, employment support services will prove most effective at breaking down barriers to work if they build access to ATech into their programmes for developing disabled clients’ employability skills and confidence.",
+        "Connect to Success sets out three recommendations for the Government to improve access to employment for disabled jobseekers by incorporating ATech into employment services:",
+        "- ATech should be part of the everyday delivery of the new jobs and careers service and be incorporated into local Get Britain Working Plans, including local Connect to Work schemes. Employment support clients should be helped to explore what ATech is right for them and begin using the technology, gaining skills and confidence with it, even before they secure paid work.",
+        "- Government should partner with the tech and disability sectors to establish a national Centre for ATech, whose role would include (i) providing strategic guidance to employment support service leaders and (ii) upskilling frontline professionals.",
+        "- Special Educational Needs and Disabilities (SEND) and post-16 essential skills provision should recognise ATech as a core employability and life skill for disabled people. ATech should be incorporated in all relevant standards and frameworks related to preparation for adulthood (PfA) SEND provision, and within any proposed National Standards for Personal, Social and Employability Qualifications.",
+        "“Connect to Success is a vital and timely contribution to ongoing discussions about employment and the need to ensure more people can enter and thrive in work. The report convincingly outlines the case for reforming employment support services with greater incorporation of technology to break down persistent barriers to employment for disabled people. Assistive and accessible technology (ATech) is already a valued and common form of workplace adjustment, and I hope very much the Government will seize the opportunity of its new Connect to Work scheme to expand access to this technology. By reducing barriers to accessing ATech and developing skills and confidence in its use, employment support services will be better placed to help their disabled clients secure paid work and build successful careers. It’s fantastic that Sir Stephen has made time during the Parliamentary Recess to address this launch event, and I look forward to working with colleagues in Parliament and the wider sector to help ensure ATech becomes an integral part of employment support delivery.” – Lord Shinkwin, All-Party Parliamentary Group for Assistive and Accessible Technology (APPGAT).",
+        "Download (docx 384.31 KB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "csun-assistive-technology-conference",
+      "name": "CSUN Assistive Technology Conference",
+      "description": [
+        "Whether you're a long-time attendee or joining us for the first time, the CSUN Assistive Technology Conference stands as the pinnacle gathering in its field. Celebrating four decades of excellence, this conference is renowned as the premier forum for exploring the latest in technology and accessibility for persons with disabilities.",
+        "Since its inception, California State University, Northridge's Center on Disabilities has proudly hosted this event, drawing researchers, educators, practitioners, and exhibitors from across the globe. Together, we foster an environment where knowledge, innovation, and best practices converge to advance the cause of inclusion.",
+        "Join us in Anaheim, California for an unforgettable week packed with Pre-Conference Workshops, a dynamic Keynote Address Program, engaging Featured Presentations, enriching General Sessions, and vibrant Sponsor Showcase Suites. Explore the latest solutions and services in the Exhibit Hall and take advantage of our expanding networking opportunities and community-building activities."
+      ],
+      "types": [
+        "events"
+      ],
+      "needs": [
+        "meet"
+      ],
+      "website": "https://conference.csun.at/event/2c5d8c51-6441-44c0-b361-131ff9544dd5/summary",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "dateurope",
+      "name": "DATEurope",
+      "description": [
+        "DATEurope is the recently founded European Industry Association for Digital Assistive Technology. Our vision is to enable access to digital assistive technology for all. The association represents the DAT industry with its developers, manufacturers, distributors, and service providers throughout Europe in the broadest geographical sense. Our mission is to unite this specialised industry to influence legislation, raise awareness, and to achieve sustainability, growth, and commerce. The specific challenges within Europe, such as different languages, funding systems, cultures and legislation has helped to grow our membership to more than 70 companies, from sole proprietors to large corporate organisations. Our membership continues to grow in both number and diversity."
+      ],
+      "types": [
+        "professional-bodies"
+      ],
+      "needs": [
+        "work"
+      ],
+      "website": "https://dateurope.com/",
+      "email": "info@dateurope.com",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "dolphin-computer-access",
+      "name": "Dolphin Computer Access",
+      "description": [
+        "Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments. This includes screen readers for people who are blind, magnification and audio products for people who have partial sight and low vision and also apps to access audio and digital books on a wide range of platforms."
+      ],
+      "types": [
+        "retailers",
+        "trainers"
+      ],
+      "needs": [
+        "buy",
+        "learn"
+      ],
+      "website": "https://yourdolphin.com/",
+      "email": "info@yourdolphin.com",
+      "phone": "+44 (0)1905 754 577",
+      "checked": ""
+    },
+    {
+      "slug": "doorway-online-touch-typing-website",
+      "name": "Doorway Online Touch Typing website",
+      "description": [
+        "Doorway will take you from your first lesson, using the home keys right through to the most advanced level. You can customise the lessons to make them more accessible, with font size, contrast and speech output options."
+      ],
+      "types": [
+        "touch-typing-software"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.doorwayonline.org.uk/typing/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "double-tap-on-air",
+      "name": "Double Tap",
+      "description": [
+        "This is presented by Stephen Scott and Shaun Preece, formerly of RNIB Tech Talk. It’s humorous, informative and up-to-date with technology news."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://doubletaponair.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "employment-facts-and-stats-2020-report",
+      "name": "Employment Facts and Stats 2020 Report",
+      "description": [
+        "This document by RNIB sets out the key facts, stats and trends on the employment situation of blind and partially sighted people.",
+        "Some of the key findings include:",
+        "There is a significant employment gap between blind and partially sighted people and the general population. The employment rate is 76% in the general population, 51% amongst the disabled population excluding sight loss and 27% for people registered blind and partially sighted.",
+        "Several factors influence the likelihood of being in work: age; educational attainment; severity of sight loss; additional disabilities and general health.",
+        "Registered blind and partially sighted people with a degree or higher still only have the same chance of getting a job as someone with no qualifications in the general public.",
+        "The age at which someone experiences sight loss influences the challenges they face, either in entry to the job market or job retention. People born blind or who lost their sight in childhood are less likely to ever enter the labour market, with 76% of this group ever having a job compared to 96% of people who lost their sight over the age of 30. However, it is very likely other factors influence this such as additional disabilities.",
+        "Published 2020.",
+        "Download (docx 82.79 KB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "enabler-project-tackling-unemployment-for-blind-and-partially-sighted-people",
+      "name": "ENABLER Project: Tackling unemployment for blind and partially sighted people",
+      "description": [
+        "Executive summary",
+        "What we did",
+        "Between 2010 and 2013, RNIB and the University of Birmingham carried out a three-year, action-based research project to help improve the employment prospects of blind and partially sighted people. Working alongside a group of employment specialists and approximately 100 blind and partially sighted people, we designed and tested:",
+        "• a standard assessment model that has increased our understanding of",
+        "the skills, aspirations and barriers to employment of blind and partially",
+        "sighted people",
+        "• innovative support strategies for those furthest from the labour market, which has helped inform how we deliver services for blind and partially sighted people seeking work.",
+        "Why we did it",
+        "Blind and partially sighted people are significantly less likely to be in paid employment than the general population or other disabled people. Only one in three registered blind and partially sighted people of working age is in paid employment. They are nearly five times more likely than the general population to have had no paid work for five years.",
+        "Blind and partially sighted people need specialist support on their journey towards employment. In addition to more common barriers, such as long term unemployment or low literacy and numeracy levels, blind and partially sighted job seekers have specific needs related to their sight loss.",
+        "What we found",
+        "We identified key factors that determine a blind or partially sighted person’s distance from the labour market, and whether they are ready for work.",
+        "Examples of those factors include:",
+        "• being able to self-advocate to employers, explaining what workplace adjustments will be required to carry out particular roles",
+        "• confidence and competence using computers adapted with appropriate assistive technology software",
+        "• confidence and ability to travel independently using public transport",
+        "• access to information via a preferred format of braille, large print, audio or electronic information.",
+        "We have shown that blind and partially sighted people furthest from the labour market require intensive support and specialist interventions in key areas.",
+        "These include:",
+        "• developing assistive technology skills",
+        "• developing mobility skills",
+        "• skills to communicate needs and associated adjustments to employers",
+        "• making the most of residual vision",
+        "• a pre-employment programme, designed to meet the complex needs of blind",
+        "and partially sighted people.",
+        "What we produced",
+        "We have developed a comprehensive employment assessment toolkit that takes account of the specific needs of blind and partially sighted job seekers.",
+        "It supports employment advisers and their clients to design interventions that help blind and partially sighted people on their path towards employment.",
+        "The employment assessment toolkit enables employment advisers, who work with blind and partially sighted people to gain a clear understanding of their clients’ aspirations in relation to employment, and what types of support and development are required. It can be used by any provider working in the welfare to work industry that supports blind and partially sighted people.",
+        "Trials of the employment assessment toolkit and innovative support strategies provided evidence of the effectiveness of a holistic and specialist employment service for people with sight loss. The toolkit was proven to be an important part of such a service and helps employment advisors, clients and managers to:",
+        "• establish a profile of each client’s particular skills and barriers",
+        "• identify and design effective interventions which are sensitive to the complex needs and circumstances of people with sight loss",
+        "• plan a tailored pre-employment programme",
+        "• establish a baseline, which can be compared with a reassessment following intervention",
+        "• record evidence of measurable success towards paid employment",
+        "• acknowledge and celebrate other meaningful outcomes such as greater independence, or contribution and participation through voluntary work",
+        "• gather information about the range and number of clients being supported at different levels of need.",
+        "The new employment assessment toolkit is helping the RNIB group of charities to re-model the way it delivers pre-employment support with blind and partially sighted people. Designed to assess the particular issues faced by blind and partially sighted people, it serves as a diagnostic tool and is useful for planning the steps required to progress towards work. The RNIB group of charities is embedding the employment assessment toolkit as part of our support to working-age people. Our use of this standardised assessment model means that our pre-employment support for blind and partially sighted people will be even more closely aligned to the specific needs of those we support.",
+        "Download (pdf 1.03 MB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "eyes-on-success-assistive-technology-podcast",
+      "name": "Eyes on Success: Assistive Technology Podcast",
+      "description": [
+        "Eyes On Success is a weekly podcast and radio program dedicated to empowering the visually impaired community. Since January 2011, the hosts Nancy and Peter Torpey have been providing valuable advice, inspiring personal stories, and news on the latest in technology and accessibility."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.eyesonsuccess.net/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "facebook-group-jaws-screen-reader-users",
+      "name": "Facebook Group: JAWS Screen Reader Users",
+      "description": [
+        "This group is for the discussion of the Jaws screen reader. This can include, but is not limited to, questions and experiences."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.facebook.com/share/nBixJA97c5iC4XLM/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "facebook-nvda-screen-reader-users",
+      "name": "Facebook Group: NVDA screen reader users",
+      "description": [
+        "This group provides NVDA users different things, add-ons, NVDA versions, discussions, and sharing opinions. NVDA was created by people, and they called NVAccess. NVDA is a screen reader for blind and visually impaired people, it helps them to brows their computers smoothly, reading bookx using this screen reader with synthesizers - text to speach survice (TTS).",
+        "As well as this NVDA supports many languages, including Arabic, Spanish, English, Chinese and another languages. I would advise you to visit their website to know about them if you are a new NVDA user.",
+        "http://www.nvaccess.org/"
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.facebook.com/share/DzNBWotjUXHpRRxN/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "freedom-scientific-training-podcast",
+      "name": "Freedom Scientific Training Podcast",
+      "description": [
+        "Would you like to download Freedom Scientific’s audio training content on your smart phone or mobile device? Want the convenience of listening to the step by step instructional demos we provide on your Amazon Echo or Google Home device? The Freedom Scientific Training podcast places hours of free audio training content right at your fingertips. You can listen to free lessons on a variety of topics ranging from basic Windows 10 to Advanced tasks in Microsoft Excel."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.freedomscientific.com/training/podcast/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "gardners-trust-for-the-blind",
+      "name": "Gardner's Trust for the Blind",
+      "description": [
+        "The Gardner's Trust for the Blind provides financial assistance to registered blind and partially sighted individuals in the UK.",
+        "It awards one-off grants towards education, training and household items.",
+        "The Trust may also provide grants towards a pension.",
+        "Individuals should apply directly to the Trust in writing enclosing confirmation of their disability from a 3rd party.",
+        "The Gardners Trust for the Blind, Suite 1, Unit 2, Stansted Courtyard, Takeley, Parsonage Road, Essex CM22 6PU."
+      ],
+      "types": [
+        "grants"
+      ],
+      "needs": [
+        "pay"
+      ],
+      "website": "",
+      "email": "gardners@smithfield-accountants.co.uk",
+      "phone": "020 7253 3757",
+      "checked": ""
+    },
+    {
+      "slug": "gary-eady-computer-training",
+      "name": "Gary Eady Computer Training",
+      "description": [
+        "Gary has more than 25 years knowledge and experience at working with blind and partially sighted people. He provides training and support in the use of Windows 10, Microsoft Office applications (Word, Excel, Outlook and PowerPoint), web browsers such as Microsoft Edge and Google Chrome, all in conjunction with screen reading technology. He is an expert in the use and configuration of JAWS and has extensive knowledge and understanding of how to use applications using keyboard commands.",
+        "Gary is also able to provide training and support in the use of an Apple iPhone/iPad in conjunction with the VoiceOver screen reader. Gary has a great sense of humour and uses it to make his training session enjoyable!"
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "",
+      "email": "eady.towerz@gmail.com",
+      "phone": "07771 953866",
+      "checked": ""
+    },
+    {
+      "slug": "guide-dogs-tech-4-all",
+      "name": "Guide Dogs: Tech for All",
+      "description": [
+        "At Guide Dogs we believe all children with a vision impairment should have access to technology. Our Tech for All service provides families with the technology they need. This includes Apple iPads, specialist technology and software or our sensory toy bundles to use outside of school (while stocks last). Our expert team can also provide personalised advice about technology to families."
+      ],
+      "types": [
+        "advice-service",
+        "children-young-people",
+        "grants"
+      ],
+      "needs": [
+        "advice",
+        "young",
+        "pay"
+      ],
+      "website": "https://www.guidedogs.org.uk/tech-for-all/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "hartgen-consultancy",
+      "name": "Hartgen Consultancy",
+      "description": [
+        "At Hartgen Consultancy we believe in providing visually impaired people with the best possible service and support. Whether you are a user of the JAWS for Windows screen-reader who needs some training at home, an employer of a blind person who would like to ensure an application is accessible, or you would like a screen-reading product to make your life easier, we’re Hartgen Consultancy and we can help!",
+        "Popular products include: J-Say, J-Dictate, Leasey, StationPlaylist Studio Accessible Broadcasting, JAWS for Windows Training Courses, Zoom Professional and Microsoft Teams Scripts."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.hartgenconsultancy.com",
+      "email": "brian@hartgenconsultancy.com",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "henshaws-knowledge-village-assistive-technology",
+      "name": "Henshaws: Knowledge Village - Assistive Technology",
+      "description": [
+        "Assistive Technology is a game changer for people with sight loss and, with the right training and practice, can restore independence. Here are some of Henshaw's top picks of the best Assistive technology and apps out there."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.henshaws.org.uk/hints-and-tips-category/technology/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "humanware",
+      "name": "Humanware",
+      "description": [
+        "For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.",
+        "We offer a wide range of innovative products for which training will be provided by our specialist trainers via Skype, telephone and Teamviewer."
+      ],
+      "types": [
+        "retailers",
+        "trainers"
+      ],
+      "needs": [
+        "buy",
+        "learn"
+      ],
+      "website": "https://www.humanware.com",
+      "email": "eu.support@humanware.com",
+      "phone": "01933 415800 (Option 2)",
+      "checked": ""
+    },
+    {
+      "slug": "in-touch-on-bbc-radio-4",
+      "name": "In Touch on BBC Radio 4",
+      "description": [
+        "The BBC programme In Touch provides news, views and information for people who are blind or partially sighted, and includes features on technology."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.bbc.co.uk/programmes/b006qxww",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "justin-macleod",
+      "name": "Justin Macleod",
+      "description": [
+        "I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design. I offer a free consultation where prospective students and I can get a feel for one another and where I can find out what previous experience the student has and what their audio aspirations are so we can go over a possible lesson plan. I use this time to find out the student's preferred learning style as well.",
+        "My lessons include, where applicable and if the student wishes, recordings of the lessons; the setting and evaluation of exercises so that they can practice what they've learned between lessons; between lesson support in case they encounter any problems or have questions; and supplementary notes or audio demonstrations of concepts they would like reinforced or to explore further."
+      ],
+      "types": [
+        "music",
+        "trainers"
+      ],
+      "needs": [
+        "music",
+        "learn"
+      ],
+      "website": "",
+      "email": "justinmacleod@hotmail.com",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "macaccessibility-roundtable-podcast",
+      "name": "Macaccessibility Roundtable podcast",
+      "description": [
+        "The Maccessibility website and podcast is devoted to connecting and providing easy access to the best resources for blind, visually impaired, and other disability groups using Apple products. It is maintained by a dedicated group of visually impaired volunteers, who are all Apple enthusiasts."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://maccessibility.net/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "microsoft-accessibility-tools-for-vision",
+      "name": "Microsoft Accessibility Tools for Vision",
+      "description": [
+        "This page lists sight-related accessibility tools to help all Microsoft Windows and Microsoft 365 users. We offer support for people who are blind, people with low vision, and people with a vision disability, such as colour blindness"
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://support.microsoft.com/en-gb/topic/accessibility-tools-for-vision-b3c57606-e0af-46d2-97b4-fa6b5fba4fa1",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "mystic-access",
+      "name": "Mystic Access",
+      "description": [
+        "Mystic Access provides online audio documentation and tutorials for purchase on accessible products, software and services for the blind and visually impaired."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://mysticaccess.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "national-braille-press-computers-technology",
+      "name": "National Braille Press: Computers & Technology",
+      "description": [
+        "The National Braille Press is in the USA and which, despite its name, produces books in Braille, eBraille, DAISY, a navigable audio format and MS Word. For example, it contains books on windows keyboard shortcuts, iPhones and Android devices."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://shop.nbp.org/collections/computers-technology",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "natsip-directory",
+      "name": "NatSIP Advisors",
+      "description": [
+        "NatSIP, the National Sensory Impairment Partnership is a partnership of organisations working together to improve outcomes for children and young people with sensory impairment. This includes children and young people who are deaf or have a hearing impairment, multi-sensory or vision impairment.",
+        "The NatSIP 'Find an Advisor' Directory contains listings of individual advisers and the services they offer."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.natsip.org.uk/find-an-advisor-directory",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "optelec",
+      "name": "Optelec",
+      "description": [
+        "We are one of the UK’s largest and leaders in manufacturing Low Vision Technology for all areas of sight loss.",
+        "Our services are personal to your needs, whether it be magnification, reading machines, optics or software.",
+        "We have Low vision specialists all throughout the UK and Ireland who can offer free home demonstrations on our products."
+      ],
+      "types": [
+        "retailers"
+      ],
+      "needs": [
+        "buy"
+      ],
+      "website": "https://lowvisionshop.co.uk/",
+      "email": "sarahk@optelec.co.uk",
+      "phone": "0800 145 6115",
+      "checked": ""
+    },
+    {
+      "slug": "pamtrad-uk",
+      "name": "Pamtrad UK",
+      "description": [
+        "Pamtrad UK are a provider of a wide range of specialist equipment, from electronic magnifiers and text to speech systems to computer access software."
+      ],
+      "types": [
+        "retailers"
+      ],
+      "needs": [
+        "buy"
+      ],
+      "website": "https://pamtrad.co.uk/",
+      "email": "info@pamtrad.co.uk",
+      "phone": "0115 9816636",
+      "checked": ""
+    },
+    {
+      "slug": "personaleyes",
+      "name": "Personaleyes",
+      "description": [
+        "Davinder Kullar from Personaleyes offers tailored training, support and coaching to blind and partially sighted people on a range of technology, such as computers, smart phones, tablets through to smart speakers and everyday living solutions. This is done in a supportive manner to enable people to be effective with the tools they own and they offer them quality and value to their life.",
+        "Examples of accessibility training includes",
+        "• Screen readers such as Windows Narrator, NVDA and JAWS on desktop",
+        "• Voiceover iOS and talkback on Android for smart phones and tablets",
+        "• Low vision adaptations such as Magnification on desktops, smart phones and tablets",
+        "• Advice on everyday living devices and options on acquiring them, such as in home kitchen and other tasks.",
+        "Accessibility consultancy is offered on aspects from website user testing for access needs, assessing physical environments and low vision training to people that interact with blind and partially sighted individuals, such as professionals through to friends and families. This is to ensure the best interactions occur and people feel comfortable with the knowledge and skills for the situations, environments and tools they need access to.",
+        "Coaching is provided with my personal years of living with a health condition and utilising a range of knowledge and experience to provide a space to go through situations, options/ approaches and support the action to implement them. Coaching is aimed to develop the person to where they would like to be in life."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "",
+      "email": "info@personaleyes.org",
+      "phone": "07887252977",
+      "checked": ""
+    },
+    {
+      "slug": "powell-family-foundation",
+      "name": "The Powell Family Foundation (TPFF)",
+      "description": [
+        "The aim of The Powell Family Foundation is to support vision impaired children, young people and adults aged 25 and under, to improve their emotional and physical well-being, increase their knowledge and skills, and support their independence through the provision of grants to individuals and charitable organisations."
+      ],
+      "types": [
+        "grants"
+      ],
+      "needs": [
+        "pay"
+      ],
+      "website": "https://tpff.org.uk/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "professional-vision-services",
+      "name": "Professional Vision Services",
+      "description": [
+        "Professional Vision Services was incorporated in 1990 by Philippa Wisbey - Managing Director and owner, importing the Magnilink brand of video magnifiers and reading machines from Low Vision International (LVI) into the UK. We are one of the oldest companies within the Visual Impairment field today.",
+        "Professional Vision Services own a substantial amount of LVI and therefore are in the unique position in the UK of designing and manufacturing products for the visually impaired market. To name one; The Magnilink Student Addition - which won the prestigious education BETT award and is still the only visually impaired product to win this award. Other products such as the Magnilink ZIP evolved from customer consultations and their requests.",
+        "All products can be demonstrated free of charge on site throughout the UK by qualified experienced staff. We can offer full installation and training on all products.",
+        "Professional Vision Services has a vast experience of the Employment and Education marketplace and can create bespoke solutions for every situation."
+      ],
+      "types": [
+        "retailers"
+      ],
+      "needs": [
+        "buy"
+      ],
+      "website": "https://professional-vision-services.co.uk/",
+      "email": "sales@professional-vision-services.co.uk",
+      "phone": "01462 420751",
+      "checked": ""
+    },
+    {
+      "slug": "rayban",
+      "name": "Ray-Ban Meta Glasses",
+      "description": [
+        "Useful links:",
+        "{{SHORT}}'s knowledgebase article",
+        "Meta's Ray-Ban page",
+        "Ray-ban's page"
+      ],
+      "types": [
+        "products"
+      ],
+      "needs": [
+        "buy"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "rnib-grants",
+      "name": "RNIB: Grants",
+      "description": [
+        "RNIB offer grants to registered blind or partially sighted people for useful technology that can help them live independently."
+      ],
+      "types": [
+        "grants"
+      ],
+      "needs": [
+        "pay"
+      ],
+      "website": "https://www.rnib.org.uk/living-with-sight-loss/money-and-benefits/benefits-concessions-and-grants/grants-from-rnib/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "rnib-music-advisory-service",
+      "name": "RNIB: Music Advisory Service",
+      "description": [
+        "The RNIB Music Advisory Service supports people with sight loss in any aspect of making music."
+      ],
+      "types": [
+        "music"
+      ],
+      "needs": [
+        "music"
+      ],
+      "website": "",
+      "email": "mas@rnib.org.uk",
+      "phone": "0303 123 9999",
+      "checked": ""
+    },
+    {
+      "slug": "rnib-tech-talk-podcast",
+      "name": "RNIB: Tech Talk Podcast",
+      "description": [
+        "Tech Talk is a podcast and radio show for blind and partially sighted people who are interested in accessible technology. Find out about the latest products from specialist equipment to off the shelf solutions."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://audioboom.com/channels/4813993-rnib-tech-talk",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "rnib-technology-for-independent-learning",
+      "name": "RNIB: Technology for Independent Learning",
+      "description": [
+        "The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.",
+        "The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the Curriculum Framework for Children and Young People with Vision Impairment (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this."
+      ],
+      "types": [
+        "advice-service",
+        "children-young-people",
+        "online-resources"
+      ],
+      "needs": [
+        "advice",
+        "young",
+        "learn"
+      ],
+      "website": "https://www.rnib.org.uk/professionals/health-social-care-education-professionals/education-professionals/technology-and-independent-learning/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "rnib-technology-for-life-team",
+      "name": "RNIB: Digital Skills Team",
+      "description": [
+        "RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.",
+        "We offer a variety of means of support, including group and one-to-one training, technology help in the home and community education.",
+        "RNIB’s Digital Skills Team work alongside many others to ensure technology support is available for blind and partially sighted people across the UK; we support, encourage and enable local and national partners, professionals, and the community to deliver technology support around the country."
+      ],
+      "types": [
+        "advice-service",
+        "children-young-people",
+        "online-resources",
+        "retailers",
+        "support-at-home"
+      ],
+      "needs": [
+        "advice",
+        "young",
+        "learn",
+        "buy",
+        "home"
+      ],
+      "website": "https://www.rnib.org.uk/living-with-sight-loss/assistive-aids-and-technology/technology-support-and-training/technology-support-we-offer/",
+      "email": "helpline@rnib.org.uk",
+      "phone": "0303 123 9999",
+      "checked": ""
+    },
+    {
+      "slug": "royal-society-for-blind-children-assistive-technology",
+      "name": "Royal Society for Blind Children: Assistive Technology",
+      "description": [
+        "For Children and Young People up to the age of 25, this charity can arrange a one to one session for you and your family with their Assistive Technology Officer.",
+        "Sessions can take place at their Life Without Limits Centre in London or delivered online. All sessions last between 60 and 90 minutes and can be arranged at a convenient date and time."
+      ],
+      "types": [
+        "children-young-people"
+      ],
+      "needs": [
+        "young"
+      ],
+      "website": "https://www.rsbc.org.uk/pages/assistive-technology",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "see-my-skills-breaking-the-cycle-of-unemployment-for-blind-and-partially-sighted-people",
+      "name": "See My Skills: Breaking the cycle of unemployment for blind and partially sighted people",
+      "description": [
+        "This report by The Vision Foundation sets out a roadmap to ensure that everyone, sighted or blind, has the chance to enjoy the independence, purpose and meaning that employment can bring.",
+        "“Blind and partially sighted people do the vast majority of the jobs that sighted people do. They might do them a little differently – using specialist technology or admin support – but they do them successfully ” says Dr Olivia Curno, Chief Executive, Vision Foundation. In my role I’ve worked alongside blind or partially sighted politicians, journalists, lawyers, presenters, teachers, fundraisers, professors, artists, authors, actors, bankers, CEOs, entrepreneurs and chefs. But these success stories are far too few. In fact, if you’re a blind adult of working age in the UK, there is only a 1 in 4 chance that you’re working. That means that over 300,000 blind and partially sighted people are currently excluded from the workplace.",
+        "The lack of understanding about visual impairment by employers and Jobcentre Plus staff are major barriers to employment. The research highlighted the importance of working with employers and service providers to educate them to overcome negative attitudes.",
+        "The research also highlighted the importance of individual assessments to identify the support required and bespoke programmes to enable their participation in the labour market. This might include, for example, support to develop key skills (such as mobility and orientation or computer skills), counselling to help in acceptance of their visual impairment or support to develop self- advocacy skills.",
+        "Published July 2021.",
+        "Download (pdf 1,010.83 KB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "sight-city",
+      "name": "Sight City",
+      "description": [
+        "SightCity Frankfurt claims to be the world’s largest trade fair for aids and solutions for the blind and visually impaired. Every year, Kap Europa in Frankfurt becomes an international center for innovation, inclusion and progress. As a hybrid event, SightCity combines digital and on-site formats, providing a first-class platform for experts, those affected and interested parties."
+      ],
+      "types": [
+        "events"
+      ],
+      "needs": [
+        "meet"
+      ],
+      "website": "https://sightcity.net/en/home/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "sight-for-surry-technology-training-resources",
+      "name": "Sight for Surrey Technology Training Resources",
+      "description": [
+        "Please find below a link which takes you to the ICT Handouts and Tutorials page of the Sight For Surrey website. Here, you will find a wide range of documents, many of which pertain to JAWS with Office applications and VoiceOver on an iPhone."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://sightforsurrey.org.uk/get-help/vision-impairment/technology-and-equipment/ict-handouts-tutorials/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "sight-loss-and-technology-briefing-report-2024",
+      "name": "Sight Loss and Technology Briefing Report, 2024",
+      "description": [
+        "This briefing has been produced and published on behalf of the technology group of {{ALLIANCE}}, which {{SHORT}} is part of. It brings together existing evidence on the role and uptake of technology and digital by blind and partially sighted people. Details of the sector partners can be found at the end of the briefing.",
+        "Download (pdf 1.05 MB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "https://www.rnib.org.uk/professionals/health-social-care-education-professionals/knowledge-and-research-hub/reports-and-insight/sight-loss-and-technology/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "sight-sound-technology",
+      "name": "Sight & Sound Technology",
+      "description": [
+        "Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.",
+        "We are experts in supplying and supporting assistive technology – software and hardware – designed for use by those with sight loss, to help them in keep independence and help in their everyday lives, be that work, education, round the home or out and about.",
+        "We provide training in sessions of 1, 2 or 3 hour blocks, depending upon location and the individual’s requirement. We are considerate of pace and IT experience and tailor the sessions to fit the user, incorporating their everyday needs into the design of the sessions.",
+        "Some examples of the assistive technology we train on are:",
+        "- Computer software for the visually impaired such as JAWS, ZoomText, Fusion and Supernova",
+        "- Braille and Blindness technology such as Notetakers, Braille displays and Braille learning devices such as Mountbatten",
+        "- The latest technology for low vision such as OrCam, Envision glasses.",
+        "We are expert in training for any age, from School right up to those happily retired!"
+      ],
+      "types": [
+        "retailers",
+        "trainers"
+      ],
+      "needs": [
+        "buy",
+        "learn"
+      ],
+      "website": "https://www.sightandsound.co.uk",
+      "email": "info@sightandsound.co.uk",
+      "phone": "01604 798070",
+      "checked": ""
+    },
+    {
+      "slug": "sight-tech-global",
+      "name": "Sight Tech Global",
+      "description": [
+        "Sight Tech Global is a world-wide, virtual conference dedicated to highlighting technology's power to transform lives for people living with vision loss around the world by bringing together the pioneers who are applying the latest technology advances to barrier-free navigation, human interaction, and low-friction access to information for people who are blind or visually impaired."
+      ],
+      "types": [
+        "events"
+      ],
+      "needs": [
+        "meet"
+      ],
+      "website": "https://sighttechglobal.com/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "sight-village",
+      "name": "Sight Village",
+      "description": [
+        "Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’. Each year thousands of people visit our events to find out at first hand the latest technology, products and support services available including:",
+        "- Audio equipment and services",
+        "- Braille equipment and services",
+        "- CCTV / Magnification",
+        "- Computers",
+        "- Daily living equipment",
+        "- Education and training",
+        "- Information and support services",
+        "- Leisure services",
+        "- Low vision aids",
+        "- Mobility aids",
+        "- Peripherals",
+        "- Screen enlargers / readers"
+      ],
+      "types": [
+        "events"
+      ],
+      "needs": [
+        "meet"
+      ],
+      "website": "https://www.qac.ac.uk/exhibitions.htm",
+      "email": "sv@qac.ac.uk",
+      "phone": "0121 803 5313",
+      "checked": ""
+    },
+    {
+      "slug": "sound-without-sight",
+      "name": "Sound Without Sight",
+      "description": [
+        "Sound Without Sight is a new non-profit initiative, aimed at supporting sight-impaired people in the fields of audio and music. We will showcase blind and partially sighted talent, highlight how accessibility barriers can be overcome, combine collective knowledge, and challenge stereotypes.",
+        "We will support the blind and partially sighted community to access:",
+        "- Audio production: recording, editing, mixing, etc.",
+        "- Music notation: reading and composing, obtaining accessible scores, screen access technologies, etc.",
+        "- Performance: instrumental, vocal, speech; individual or group; beginner or professional."
+      ],
+      "types": [
+        "music"
+      ],
+      "needs": [
+        "music"
+      ],
+      "website": "https://soundwithoutsight.org/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "taira-technology",
+      "name": "Taira Technology",
+      "description": [
+        "Taira Technology is a family run business that helps blind and visually impaired individuals and organisations with every aspect of technology. We offer many products and services to assist people living with sight loss.",
+        "We are pleased to offer technical support, training and a health check service to solve any problems you may have with your computer/device (where necessary). Many problems can be solved remotely over the phone/internet in the comfort of your own home.",
+        "Some examples of tasks we can help with include assistance with using a new program or device, or helping you to complete common tasks that require sighted assistance, such as online shopping, learning how to use a new device and much more! We can provide training on Windows, MacOS, Android, iOS and Linux platforms. We have jaws and NVDA accredited trainers in house. If you are thinking of starting a website, we can also offer training on WordPress, Drupal and various online content management systems. Please don’t hesitate to contact us. We are very friendly and approachable."
+      ],
+      "types": [
+        "trainers"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "http://www.tairatech.com",
+      "email": "contact@tairatech.com",
+      "phone": "0343 2897501",
+      "checked": ""
+    },
+    {
+      "slug": "talent-and-technology-report",
+      "name": "Talent and Technology Report",
+      "description": [
+        "The report was produced by Policy Connect on behalf of the The All-Party Parliamentary Group for Assistive Technology. It recognises the enormous potential of assistive technology to ensure access to work for disabled people. “The inquiry has seen first-hand its powerful benefits, with examples including a visually-impaired person using a screen reader to access a recruiting site, a person with Muscular Dystrophy using a mouth stick to navigate an application form, and an autistic person using a specialised app to help them travel to an interview.",
+        "Unfortunately, it has also heard difficult stories of disabled people unable to look for and obtain work, due to inaccessible technologies, poor digital practices by organisations, and a lack of skills. Disabled people are repeatedly shut out of the very schemes designed to offer a starting point in careers, such as apprenticeships or employment support through the job centre.",
+        "The pandemic has changed the way we work and thereby shone an even brighter light on existing digital inequalities. Urgent action is required to ensure the future world of work is accessible to all.",
+        "It is against this background that this report makes recommendations to government, education providers and employers – on how to ensure the world of work is accessible to everyone.",
+        "1. The Government should appoint and empower a National Assistive Technology Champion.",
+        "2A. Education providers should ensure careers education, information, advice and guidance (CEIAG) and disability support and guidance is joined-up so that education leavers know how to access AT and support to enable their transition into employment.",
+        "2B. The DfE should produce and promote guidance and resources for education providers on assistive technology and workplaces and preparing for employment.",
+        "3. The DfE and DWP should collaborate to ensure that disabled people on work placements/traineeships/apprenticeships are able to use assistive technology from Day One of their placements.",
+        "4A. The government should take advantage of existing JobCentre Plus (JCP) structures to identify and remove digital barriers to employment for JCP customers.",
+        "4B. The DWP should recognise digital access as a key enabler of employment for all customers, including those who are disabled.",
+        "5A. The government should improve targeting of disability support schemes to employers and employees who need them most.",
+        "5B. The government should take advantage of existing networks, such as Disability Confident, to skill up employers on digital accessibility and inclusive recruitment practices",
+        "5C. Employers should ensure their recruitment and on-boarding practices are digitally accessible and inclusive by following guidance produced by Disability Confident Leaders.",
+        "6. The government should measure the success of Access to Work’s grants according to the impact on customers.”",
+        "Published July 2021",
+        "Download (pdf 1.11 MB)"
+      ],
+      "types": [
+        "research"
+      ],
+      "needs": [
+        "research"
+      ],
+      "website": "",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "talking-technology-with-vi-labs",
+      "name": "Talking Technology with VI Labs",
+      "description": [
+        "This podcast focuses on technology that supports people who are blind and visually impaired. Our panel of IT Trainers and guest panellists discuss all the latest in mainstream and inclusive technology in a fun and informative manner. V I Labs is the technology function within Vision Ireland, the national sight loss agency in Ireland."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.buzzsprout.com/981793",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "tech-selector-hosted-by-guide-dogs",
+      "name": "Tech Selector - hosted by Guide Dogs",
+      "description": [
+        "Technology is a huge part of our everyday lives. But sometimes it can be hard to know where to start or which product is best. The Tech selector is here to help you identify the right mainstream and assistive tech for you. Our reviews have been created by experts from across the sight loss sector so you can find technology to suit your budget, skill level and your own vision impairment."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.guidedogs.org.uk/getting-support/information-and-advice/how-can-technology-help-me/tech-selector/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "techshare-pro",
+      "name": "TechShare Pro",
+      "description": [
+        "AbilityNet’s annual TechShare Pro conference gathers the community of people who are creating a digital world accessible to all:",
+        "Accessibility professionals and digital inclusion specialists.",
+        "People with disabilities from all walks of life.",
+        "Global tech companies and other businesses.",
+        "Accessibility champions and allies",
+        "Decision-makers and influencers in business,",
+        "government, and NGOs. ​​",
+        "Panellists and delegated from UK, Europe, US, Africa, Asia and Australasia."
+      ],
+      "types": [
+        "events"
+      ],
+      "needs": [
+        "meet"
+      ],
+      "website": "https://abilitynet.org.uk/techsharepro",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "tek-talk-by-accessible-world",
+      "name": "Tek Talk by Accessible World",
+      "description": [
+        "For well over 20 years, Tek Talk has hosted weekly audio presentations on new software, products and tools for blind and visually impaired people across the world."
+      ],
+      "types": [
+        "online-resources"
+      ],
+      "needs": [
+        "learn"
+      ],
+      "website": "https://www.accessibleworld.org/series/tektalk/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "thomas-pocklington-trust-education-technology",
+      "name": "Thomas Pocklington Trust: Education Technology",
+      "description": [
+        "Whether you’re at school, college or university, technology plays a vital role in your education. As a blind or partially sighted student, the right tech can transform the way you access your learning and super-charge your ability to thrive, not just in your studies, but also in your future career.",
+        "Knowing what technology is out there, how it can help you and how to use it can be a game-changer; empowering you to learn in a way which is easier, more productive and works for you. This will help you to be more independent, able to overcome the challenges ahead and get to where you want to be in your life.",
+        "The good news is, there is a lot of great tech out there which can help. These products, tools and features are often known as accessible or assistive technology.",
+        "We understand it can be difficult to know where to start, what tech is right for you and how to get using it. But there’s no need to worry, we have put together a range of helpful guides and resources to help!",
+        "The important thing to remember is, exploring and trying out new technology can often take a little getting used to. Learning how the tech works and putting in some practice can make all the difference. So, have an open mind and give things a go!"
+      ],
+      "types": [
+        "advice-service",
+        "children-young-people",
+        "online-resources"
+      ],
+      "needs": [
+        "advice",
+        "young",
+        "learn"
+      ],
+      "website": "https://www.pocklington.org.uk/education/technology-education/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "tripletaptech",
+      "name": "TripleTapTech",
+      "description": [
+        "TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology. We believe that technology should be accessible to everyone, and we’re committed to helping you harness its power to enhance your independence and quality of life. They can provide one to to one training online or over the phone, through their helpline or via pre-arranged home visits."
+      ],
+      "types": [
+        "advice-service",
+        "support-at-home"
+      ],
+      "needs": [
+        "advice",
+        "home"
+      ],
+      "website": "https://tripletaptech.org/",
+      "email": "Info@TripleTapTech.org",
+      "phone": "0780 5353 149",
+      "checked": ""
+    },
+    {
+      "slug": "ukaaf-uk-association-for-accessible-formats",
+      "name": "UKAAF (UK Association for Accessible Formats)",
+      "description": [
+        "{{SHORT}} is a Sponsoring Member of UKAAF, the industry association that sets standards and promotes best practice for accessible documents in the UK.",
+        "They help organisations understand how to meet the needs of customers and clients with print impairments, and how to source and provide quality accessible documents."
+      ],
+      "types": [
+        "professional-bodies"
+      ],
+      "needs": [
+        "work"
+      ],
+      "website": "https://www.ukaaf.org/",
+      "email": "",
+      "phone": "",
+      "checked": ""
+    },
+    {
+      "slug": "victa-grant-scheme-for-children-and-young-adults",
+      "name": "VICTA grant scheme for children and young adults",
+      "description": [
+        "For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use."
+      ],
+      "types": [
+        "children-young-people",
+        "grants"
+      ],
+      "needs": [
+        "young",
+        "pay"
+      ],
+      "website": "https://www.victa.org.uk/grants/",
+      "email": "grants@victa.org.uk",
+      "phone": "01908 240 831",
+      "checked": ""
+    },
+    {
+      "slug": "visably",
+      "name": "Visably",
+      "description": [
+        "This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free. They also provide support, tips and guides to make the most out of technology and access to information."
+      ],
+      "types": [
+        "advice-service",
+        "children-young-people",
+        "products"
+      ],
+      "needs": [
+        "advice",
+        "young",
+        "buy"
+      ],
+      "website": "https://www.visably.org.uk/",
+      "email": "hello@visably.org.uk",
+      "phone": "01622754757",
+      "checked": ""
+    },
+    {
+      "slug": "visionaid-technologies",
+      "name": "VisionAid Technologies",
+      "description": [
+        "VisionAid Technologies Ltd is a family owned & run business who have been providing solutions to assist partially sighted & blind people since 1996.",
+        "We have grown to become one of the largest specialist low vision & blindness product suppliers in the UK. Our range of over 1,000 products are carefully tested & selected from over 100 manufacturers around the world.",
+        "We pride ourselves on listening to every individual’s specific requirements & understand selecting the best product can seem a daunting task. That’s where our team's 175 years of combined experience, expert advice & completely free, no obligation in-person demonstrations may help, wherever you are located in the UK (free demonstrations are available on most products)."
+      ],
+      "types": [
+        "retailers"
+      ],
+      "needs": [
+        "buy"
+      ],
+      "website": "https://www.visionaid.co.uk/",
+      "email": "info@visionaid.co.uk",
+      "phone": "0800 0025555",
+      "checked": ""
+    }
+  ],
+  "needNames": {
+    "learn": "Learn to use technology",
+    "advice": "Get advice",
+    "home": "Get help at home",
+    "buy": "Buy equipment or software",
+    "pay": "Find a grant to pay for it",
+    "young": "Help a child or young person",
+    "work": "Work or study in technology",
+    "meet": "Go to an event",
+    "music": "Make music",
+    "research": "Read research and reports"
+  }
+}

@@ -4,6 +4,7 @@
 import { readFileSync, writeFileSync, mkdirSync, rmSync, copyFileSync, existsSync, readdirSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { settings as S, PREVIEW } from './settings.mjs';
+import { directoryPages } from './directory.mjs';
 
 const OUT = 'site';
 const ZIC_URL = 'https://zeroinformationcasualty.org/';
@@ -49,15 +50,20 @@ const pages = [
     description: 'There is no page at this address.' },
 ].map(p => ({ title: p.title || `${p.h1}: ${S.NAME}`, ...p }));
 
+// The directory: generated from data/directory.json. Only its front door is listed in llms.txt.
+const directory = directoryPages(fill);
+for (const p of directory.pages) pages.push({ title: `${p.h1}: ${S.NAME}`, quiet: p.path !== '/resources/directory/', ...p });
+
 const listed = pages.filter(p => !p.hidden);
 // Accessibility statement is first in the menu, on every site Unremarkable builds. The rest keep their order.
 const menu = [...listed.filter(p => p.path === '/accessibility/'), ...listed.filter(p => p.nav && p.path !== '/accessibility/')];
 
 const PREVIEW_TEXT = `This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.`;
-const previewHtml = PREVIEW ? `<aside class="preview" aria-label="Preview">
+// A plain note, not a landmark: as a landmark, NVDA said "Preview" twice (listening test, 9 November 2026).
+const previewHtml = PREVIEW ? `<div class="preview">
 <p><strong>Preview</strong><br>
 ${PREVIEW_TEXT}</p>
-</aside>
+</div>
 ` : '';
 const previewMd = PREVIEW ? `> **Preview.** ${PREVIEW_TEXT}\n\n` : '';
 
@@ -73,7 +79,8 @@ function layout(p, main) {
   const nav = menu.map(m => {
     const here = m.path === p.path;
     const inSection = !here && m.path !== '/' && section && m.path === `/${section}/`;
-    return `<li><a href="${m.path}"${here ? ' aria-current="page"' : inSection ? ' class="in-section"' : ''}>${m.nav}</a></li>`;
+    // The page you are on is named in the menu but is not a link to itself (rulebook rule 2).
+    return here ? `<li><a aria-current="page">${m.nav}</a></li>` : `<li><a href="${m.path}"${inSection ? ' class="in-section"' : ''}>${m.nav}</a></li>`;
   }).join('\n');
   return `<!doctype html>
 <html lang="en-GB">
@@ -193,7 +200,7 @@ write('_headers', `/*
 
 const mirrors = [];
 for (const p of pages) {
-  const main = read(`src/${p.src}.html`);
+  const main = p.html ?? read(`src/${p.src}.html`);
   write(p.file || `${p.path}index.html`, layout(p, main));
   if (p.hidden) continue;
   mirrors.push(`# ${p.h1}\n\nCanonical page: ${S.ORIGIN}${p.path}\n\n${previewMd}${toMarkdown(main)}\n`);
@@ -209,13 +216,14 @@ While this is a preview, it is not indexed for search and not offered for traini
 
 ## Pages
 
-${listed.map(p => `- [${p.h1}](${S.ORIGIN}${p.path}): ${p.description} Markdown: ${S.ORIGIN}${p.path}index.md`).join('\n')}
+${listed.filter(p => !p.quiet).map(p => `- [${p.h1}](${S.ORIGIN}${p.path}): ${p.description} Markdown: ${S.ORIGIN}${p.path}index.md`).join('\n')}
 
 ## Optional
 
 - [Full text of the site](${S.ORIGIN}/llms-full.txt): every page in one Markdown file.
 - [Zero Information Casualty v1.7](${ZIC_URL}): the specification this site is built to.
 `);
+write('resources/directory/directory.json', directory.json);
 write('llms-full.txt', `# ${S.NAME}: full text\n\n${previewMd}` + mirrors.join('\n\n---\n\n'));
 
 // Private while it is a preview: sent agents are welcome, search and training crawlers are not.

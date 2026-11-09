@@ -35,17 +35,24 @@ It is built to [Zero Information Casualty version 1.7](https://zeroinformationca
 
 ## What has been checked
 
-9 November 2026: the build checks that no placeholder is left unfilled, and every text colour was measured.
+- **9 November 2026, the home page, heard with NVDA 2026.3.1**, reading from top to bottom and moving through it with Tab, by someone who uses a screen reader every day. Headings, lists, landmarks, the drawing and its caption, and the order of the links were all as intended. Two problems were found, and both are fixed (below).
+- **9 November 2026:** the build checks that no placeholder is left unfilled, and every text colour was measured.
 
 ## Not yet checked
 
-- Listening to every kind of page with a screen reader. This happens before the site goes live, and the results will be written here with dates.
+- Listening to every other kind of page with a screen reader: the inside pages, the directory and its entries. The results will be written here with dates.
+- VoiceOver on iPhone and Mac.
 - Phone widths with text enlarged.
 - Windows High Contrast.
 
+## Found and fixed
+
+- **9 November 2026: a link to the page you were on.** In the menu, the current page was a link to itself, so NVDA said "same page link, current page, Home". It is now named as the current page, but is no longer a link.
+- **9 November 2026: "Preview" said twice.** The preview note was a landmark named Preview that began with the word Preview, so NVDA read the word twice. It is now a plain note.
+
 ## Known issues
 
-None known yet. Until it has been heard, this site makes no claim beyond how it is built.
+None known. Only the home page has been heard so far, so this site makes no claim about the other pages beyond how they are built.
 
 ## Reporting a problem
 

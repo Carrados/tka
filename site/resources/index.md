@@ -44,7 +44,7 @@ Organisations and resources that help visually impaired people get the most out 
 - Touch-typing software
 - Trainers
 
-In the finished site, each kind has its own page listing every organisation in it.
+[Directory of services](https://tka.unremarkable.me/resources/directory/): by what you want to do, by kind of organisation, or A to Z.
 
 ---
 

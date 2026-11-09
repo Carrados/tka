@@ -171,7 +171,7 @@ Organisations and resources that help visually impaired people get the most out 
 - Touch-typing software
 - Trainers
 
-In the finished site, each kind has its own page listing every organisation in it.
+[Directory of services](https://tka.unremarkable.me/resources/directory/): by what you want to do, by kind of organisation, or A to Z.
 
 
 ---
@@ -365,18 +365,2946 @@ It is built to [Zero Information Casualty version 1.7](https://zeroinformationca
 
 ## What has been checked
 
-9 November 2026: the build checks that no placeholder is left unfilled, and every text colour was measured.
+- **9 November 2026, the home page, heard with NVDA 2026.3.1**, reading from top to bottom and moving through it with Tab, by someone who uses a screen reader every day. Headings, lists, landmarks, the drawing and its caption, and the order of the links were all as intended. Two problems were found, and both are fixed (below).
+- **9 November 2026:** the build checks that no placeholder is left unfilled, and every text colour was measured.
 
 ## Not yet checked
 
-- Listening to every kind of page with a screen reader. This happens before the site goes live, and the results will be written here with dates.
+- Listening to every other kind of page with a screen reader: the inside pages, the directory and its entries. The results will be written here with dates.
+- VoiceOver on iPhone and Mac.
 - Phone widths with text enlarged.
 - Windows High Contrast.
 
+## Found and fixed
+
+- **9 November 2026: a link to the page you were on.** In the menu, the current page was a link to itself, so NVDA said "same page link, current page, Home". It is now named as the current page, but is no longer a link.
+- **9 November 2026: "Preview" said twice.** The preview note was a landmark named Preview that began with the word Preview, so NVDA read the word twice. It is now a plain note.
+
 ## Known issues
 
-None known yet. Until it has been heard, this site makes no claim beyond how it is built.
+None known. Only the home page has been heard so far, so this site makes no claim about the other pages beyond how they are built.
 
 ## Reporting a problem
 
 Every page ends with "Fix something on this page", which opens a short form that already knows which page you were on. It doesn't ask who you are.
+
+
+---
+
+# Directory of services
+
+Canonical page: https://tka.unremarkable.me/resources/directory/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Organisations and resources that help blind and partially sighted people get the most out of technology.
+
+76 entries, listed by what you want to do. Many appear under more than one heading.
+
+## What do you want to do?
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)44 entries
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)9 entries
+- [Get help at home](https://tka.unremarkable.me/resources/directory/home/)4 entries
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)12 entries
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)7 entries
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)7 entries
+- [Work or study in technology](https://tka.unremarkable.me/resources/directory/work/)3 entries
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)5 entries
+- [Make music](https://tka.unremarkable.me/resources/directory/music/)3 entries
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)6 entries
+
+## Other ways to look
+
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+- [The whole directory as data](https://tka.unremarkable.me/resources/directory/directory.json), for agents and anyone who wants to use it
+
+## Suggest an organisation
+
+Know an organisation that should be here, or found one that has changed? Use "Fix something on this page" at the foot of any directory page, and tell us.
+
+
+---
+
+# Learn to use technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/learn/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+44 entries, A to Z.
+
+- [AAT Solutions: Expert Assistive Technology Training](https://tka.unremarkable.me/resources/directory/aat-solutions-expert-assistive-technology-training/) At AAT Solutions, we specialize in helping visually impaired individuals use assistive technology confidently and effectively.
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Access On](https://tka.unremarkable.me/resources/directory/access-on/) Access On is the technology podcast of the National Federation of the Blind in the US and is hosted by Jonathan Mosen.
+- [Access Tech VIP](https://tka.unremarkable.me/resources/directory/access-tech-vip/) Access Tech VIP is led by Adrian Tamasan, a blind assistive technology trainer with more than 25 years of experience using screen readers across Windows, macOS, iOS, Android and specialist audio workflows.
+- [Accessible Android](https://tka.unremarkable.me/resources/directory/accessible-android/) This website provides tips, how to guides, app reviews and podcasts on using Android on smartphones and tablets with the Talkback screen reader, Braille displays and other accessibility features.
+- [AFB (American Foundation for the Blind): Access World](https://tka.unremarkable.me/resources/directory/afb-american-foundation-for-the-blind-access-world/) Produced by American Foundation for the Blind, Access World is &quot;a trusted source of information for the intersection of disability and technology.
+- [Alternate Visions Coaching (AVC)](https://tka.unremarkable.me/resources/directory/alternate-visions-coaching-avc/) AVC specialise in sight loss, assistive technology training, coaching for living with sight loss, back to work skills &amp; confidence building.
+- [Apple Accessibility Pages](https://tka.unremarkable.me/resources/directory/apple-accessibility-pages/) The Apple website has a really helpful section on accessibility features for people with little or no sight.
+- [Apple Accessibility YouTube Channel](https://tka.unremarkable.me/resources/directory/apple-accessibility-you-tube-channel/) This collection of videos looks at using your iPhone without seeing the screen, adapting gestures to your physical needs, and more.
+- [AppleVis](https://tka.unremarkable.me/resources/directory/applevis/) AppleVis is the go-to resource for blind and low vision users of Apple technologies.
+- [Aspire Consultancy](https://tka.unremarkable.me/resources/directory/aspire-consultancy/) Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people.
+- [Azabat Touch Typing Software](https://tka.unremarkable.me/resources/directory/azabat-touch-typing-software/) The Azabat Touch Typing Tutors are software programmes designed specifically to help blind and partially sighted people to learn to touch type.
+- [Blind Android Users](https://tka.unremarkable.me/resources/directory/blind-android-users/) The team at Blind Android Users strive to make Android understandable, thus demystifying the claim by some who continue to perpetuate the myth among unsuspecting blind folks that Android isn’t usable by the blind.
+- [BrailleCast podcast: Connecting the Dots](https://tka.unremarkable.me/resources/directory/braillecast-podcast-connecting-the-dots/) The BrailleCast podcast aims to showcase the value of Braille and provide Braillists with resources to help spread the word about Braille.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Dolphin Computer Access](https://tka.unremarkable.me/resources/directory/dolphin-computer-access/) Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments.
+- [Doorway Online Touch Typing website](https://tka.unremarkable.me/resources/directory/doorway-online-touch-typing-website/) Doorway will take you from your first lesson, using the home keys right through to the most advanced level.
+- [Double Tap](https://tka.unremarkable.me/resources/directory/double-tap-on-air/) This is presented by Stephen Scott and Shaun Preece, formerly of RNIB Tech Talk.
+- [Eyes on Success: Assistive Technology Podcast](https://tka.unremarkable.me/resources/directory/eyes-on-success-assistive-technology-podcast/) Eyes On Success is a weekly podcast and radio program dedicated to empowering the visually impaired community.
+- [Facebook Group: JAWS Screen Reader Users](https://tka.unremarkable.me/resources/directory/facebook-group-jaws-screen-reader-users/) This group is for the discussion of the Jaws screen reader.
+- [Facebook Group: NVDA screen reader users](https://tka.unremarkable.me/resources/directory/facebook-nvda-screen-reader-users/) This group provides NVDA users different things, add-ons, NVDA versions, discussions, and sharing opinions.
+- [Freedom Scientific Training Podcast](https://tka.unremarkable.me/resources/directory/freedom-scientific-training-podcast/) Would you like to download Freedom Scientific’s audio training content on your smart phone or mobile device?
+- [Gary Eady Computer Training](https://tka.unremarkable.me/resources/directory/gary-eady-computer-training/) Gary has more than 25 years knowledge and experience at working with blind and partially sighted people.
+- [Hartgen Consultancy](https://tka.unremarkable.me/resources/directory/hartgen-consultancy/) At Hartgen Consultancy we believe in providing visually impaired people with the best possible service and support.
+- [Henshaws: Knowledge Village - Assistive Technology](https://tka.unremarkable.me/resources/directory/henshaws-knowledge-village-assistive-technology/) Assistive Technology is a game changer for people with sight loss and, with the right training and practice, can restore independence.
+- [Humanware](https://tka.unremarkable.me/resources/directory/humanware/) For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+- [In Touch on BBC Radio 4](https://tka.unremarkable.me/resources/directory/in-touch-on-bbc-radio-4/) The BBC programme In Touch provides news, views and information for people who are blind or partially sighted, and includes features on technology.
+- [Justin Macleod](https://tka.unremarkable.me/resources/directory/justin-macleod/) I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design.
+- [Macaccessibility Roundtable podcast](https://tka.unremarkable.me/resources/directory/macaccessibility-roundtable-podcast/) The Maccessibility website and podcast is devoted to connecting and providing easy access to the best resources for blind, visually impaired, and other disability groups using Apple products.
+- [Microsoft Accessibility Tools for Vision](https://tka.unremarkable.me/resources/directory/microsoft-accessibility-tools-for-vision/) This page lists sight-related accessibility tools to help all Microsoft Windows and Microsoft 365 users.
+- [Mystic Access](https://tka.unremarkable.me/resources/directory/mystic-access/) Mystic Access provides online audio documentation and tutorials for purchase on accessible products, software and services for the blind and visually impaired.
+- [National Braille Press: Computers &amp; Technology](https://tka.unremarkable.me/resources/directory/national-braille-press-computers-technology/) The National Braille Press is in the USA and which, despite its name, produces books in Braille, eBraille, DAISY, a navigable audio format and MS Word.
+- [NatSIP Advisors](https://tka.unremarkable.me/resources/directory/natsip-directory/) NatSIP, the National Sensory Impairment Partnership is a partnership of organisations working together to improve outcomes for children and young people with sensory impairment.
+- [Personaleyes](https://tka.unremarkable.me/resources/directory/personaleyes/) Davinder Kullar from Personaleyes offers tailored training, support and coaching to blind and partially sighted people on a range of technology, such as computers, smart phones, tablets through to smart speakers and everyday living solutions.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Tech Talk Podcast](https://tka.unremarkable.me/resources/directory/rnib-tech-talk-podcast/) Tech Talk is a podcast and radio show for blind and partially sighted people who are interested in accessible technology.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Sight &amp; Sound Technology](https://tka.unremarkable.me/resources/directory/sight-sound-technology/) Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+- [Sight for Surrey Technology Training Resources](https://tka.unremarkable.me/resources/directory/sight-for-surry-technology-training-resources/) Please find below a link which takes you to the ICT Handouts and Tutorials page of the Sight For Surrey website.
+- [Taira Technology](https://tka.unremarkable.me/resources/directory/taira-technology/) Taira Technology is a family run business that helps blind and visually impaired individuals and organisations with every aspect of technology.
+- [Talking Technology with VI Labs](https://tka.unremarkable.me/resources/directory/talking-technology-with-vi-labs/) This podcast focuses on technology that supports people who are blind and visually impaired.
+- [Tech Selector - hosted by Guide Dogs](https://tka.unremarkable.me/resources/directory/tech-selector-hosted-by-guide-dogs/) Technology is a huge part of our everyday lives.
+- [Tek Talk by Accessible World](https://tka.unremarkable.me/resources/directory/tek-talk-by-accessible-world/) For well over 20 years, Tek Talk has hosted weekly audio presentations on new software, products and tools for blind and visually impaired people across the world.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Get advice
+
+Canonical page: https://tka.unremarkable.me/resources/directory/advice/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+9 entries, A to Z.
+
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Connect by Tech Service from the Macular Society](https://tka.unremarkable.me/resources/directory/connect-by-tech-service-from-the-macular-society/) The Macular Society’s Connect by Tech service offers one-to-one telephone support with the technology people use around their home.
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+- [TripleTapTech](https://tka.unremarkable.me/resources/directory/tripletaptech/) TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Get help at home
+
+Canonical page: https://tka.unremarkable.me/resources/directory/home/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+4 entries, A to Z.
+
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [TripleTapTech](https://tka.unremarkable.me/resources/directory/tripletaptech/) TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Buy equipment or software
+
+Canonical page: https://tka.unremarkable.me/resources/directory/buy/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+12 entries, A to Z.
+
+- [Aspire Consultancy](https://tka.unremarkable.me/resources/directory/aspire-consultancy/) Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Dolphin Computer Access](https://tka.unremarkable.me/resources/directory/dolphin-computer-access/) Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments.
+- [Humanware](https://tka.unremarkable.me/resources/directory/humanware/) For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+- [Optelec](https://tka.unremarkable.me/resources/directory/optelec/) We are one of the UK’s largest and leaders in manufacturing Low Vision Technology for all areas of sight loss.
+- [Pamtrad UK](https://tka.unremarkable.me/resources/directory/pamtrad-uk/) Pamtrad UK are a provider of a wide range of specialist equipment, from electronic magnifiers and text to speech systems to computer access software.
+- [Professional Vision Services](https://tka.unremarkable.me/resources/directory/professional-vision-services/) Professional Vision Services was incorporated in 1990 by Philippa Wisbey - Managing Director and owner, importing the Magnilink brand of video magnifiers and reading machines from Low Vision International (LVI) into the UK.
+- [Ray-Ban Meta Glasses](https://tka.unremarkable.me/resources/directory/rayban/) Useful links:
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [Sight &amp; Sound Technology](https://tka.unremarkable.me/resources/directory/sight-sound-technology/) Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+- [VisionAid Technologies](https://tka.unremarkable.me/resources/directory/visionaid-technologies/) VisionAid Technologies Ltd is a family owned &amp; run business who have been providing solutions to assist partially sighted &amp; blind people since 1996.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Find a grant to pay for it
+
+Canonical page: https://tka.unremarkable.me/resources/directory/pay/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+7 entries, A to Z.
+
+- [Blatchington Court Trust: Grant Guidelines](https://tka.unremarkable.me/resources/directory/blatchington-court-trust-grant-guidelines/) Applications will be considered for children and young people who are registered or are registrable as blind (SSI) or partially sighted (SI) up to and including the age of 29 years and who reside permanently in Sussex.
+- [Blind Aid](https://tka.unremarkable.me/resources/directory/blind-aid/) Living with blindness or visual impairment brings many challenges to everyday life.
+- [Gardner's Trust for the Blind](https://tka.unremarkable.me/resources/directory/gardners-trust-for-the-blind/) The Gardner's Trust for the Blind provides financial assistance to registered blind and partially sighted individuals in the UK.
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Grants](https://tka.unremarkable.me/resources/directory/rnib-grants/) RNIB offer grants to registered blind or partially sighted people for useful technology that can help them live independently.
+- [The Powell Family Foundation (TPFF)](https://tka.unremarkable.me/resources/directory/powell-family-foundation/) The aim of The Powell Family Foundation is to support vision impaired children, young people and adults aged 25 and under, to improve their emotional and physical well-being, increase their knowledge and skills, and support their independence through the provision of grants to individuals and charitable organisations.
+- [VICTA grant scheme for children and young adults](https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/) For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Help a child or young person
+
+Canonical page: https://tka.unremarkable.me/resources/directory/young/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+7 entries, A to Z.
+
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Royal Society for Blind Children: Assistive Technology](https://tka.unremarkable.me/resources/directory/royal-society-for-blind-children-assistive-technology/) For Children and Young People up to the age of 25, this charity can arrange a one to one session for you and your family with their Assistive Technology Officer.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+- [VICTA grant scheme for children and young adults](https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/) For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Work or study in technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/work/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+3 entries, A to Z.
+
+- [Code Jumper](https://tka.unremarkable.me/resources/directory/code-jumper/) Code Jumper™ is an incredible innovation that teaches students who are blind or visually impaired computer coding.
+- [DATEurope](https://tka.unremarkable.me/resources/directory/dateurope/) DATEurope is the recently founded European Industry Association for Digital Assistive Technology.
+- [UKAAF (UK Association for Accessible Formats)](https://tka.unremarkable.me/resources/directory/ukaaf-uk-association-for-accessible-formats/) TKA is a Sponsoring Member of UKAAF, the industry association that sets standards and promotes best practice for accessible documents in the UK.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Go to an event
+
+Canonical page: https://tka.unremarkable.me/resources/directory/meet/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+5 entries, A to Z.
+
+- [CSUN Assistive Technology Conference](https://tka.unremarkable.me/resources/directory/csun-assistive-technology-conference/) Whether you're a long-time attendee or joining us for the first time, the CSUN Assistive Technology Conference stands as the pinnacle gathering in its field.
+- [Sight City](https://tka.unremarkable.me/resources/directory/sight-city/) SightCity Frankfurt claims to be the world’s largest trade fair for aids and solutions for the blind and visually impaired.
+- [Sight Tech Global](https://tka.unremarkable.me/resources/directory/sight-tech-global/) Sight Tech Global is a world-wide, virtual conference dedicated to highlighting technology's power to transform lives for people living with vision loss around the world by bringing together the pioneers who are applying the latest technology advances to barrier-free navigation, human interaction, and low-friction access to information for people who are blind or visually impaired.
+- [Sight Village](https://tka.unremarkable.me/resources/directory/sight-village/) Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’.
+- [TechShare Pro](https://tka.unremarkable.me/resources/directory/techshare-pro/) AbilityNet’s annual TechShare Pro conference gathers the community of people who are creating a digital world accessible to all:
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Make music
+
+Canonical page: https://tka.unremarkable.me/resources/directory/music/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+3 entries, A to Z.
+
+- [Justin Macleod](https://tka.unremarkable.me/resources/directory/justin-macleod/) I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design.
+- [RNIB: Music Advisory Service](https://tka.unremarkable.me/resources/directory/rnib-music-advisory-service/) The RNIB Music Advisory Service supports people with sight loss in any aspect of making music.
+- [Sound Without Sight](https://tka.unremarkable.me/resources/directory/sound-without-sight/) Sound Without Sight is a new non-profit initiative, aimed at supporting sight-impaired people in the fields of audio and music.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# Read research and reports
+
+Canonical page: https://tka.unremarkable.me/resources/directory/research/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+6 entries, A to Z.
+
+- [Connect to Success: Technology and Employment Support for Disabled People](https://tka.unremarkable.me/resources/directory/connect-to-success-technology-and-employment-support-for-disabled-people/) The Government should improve employment opportunities for disabled jobseekers by taking advantage of modern assistive and accessible technology.
+- [Employment Facts and Stats 2020 Report](https://tka.unremarkable.me/resources/directory/employment-facts-and-stats-2020-report/) This document by RNIB sets out the key facts, stats and trends on the employment situation of blind and partially sighted people.
+- [ENABLER Project: Tackling unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/enabler-project-tackling-unemployment-for-blind-and-partially-sighted-people/) Executive summary
+- [See My Skills: Breaking the cycle of unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/see-my-skills-breaking-the-cycle-of-unemployment-for-blind-and-partially-sighted-people/) This report by The Vision Foundation sets out a roadmap to ensure that everyone, sighted or blind, has the chance to enjoy the independence, purpose and meaning that employment can bring.
+- [Sight Loss and Technology Briefing Report, 2024](https://tka.unremarkable.me/resources/directory/sight-loss-and-technology-briefing-report-2024/) This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of.
+- [Talent and Technology Report](https://tka.unremarkable.me/resources/directory/talent-and-technology-report/) The report was produced by Policy Connect on behalf of the The All-Party Parliamentary Group for Assistive Technology.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# By kind of organisation
+
+Canonical page: https://tka.unremarkable.me/resources/directory/kinds/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Jump to a kind:
+
+- [Advice services](#advice-service)
+- [Children and young people](#children-young-people)
+- [Coding and computing](#coding-and-computing)
+- [Events](#events)
+- [Grants](#grants)
+- [Music](#music)
+- [Online resources](#online-resources)
+- [Products](#products)
+- [Professional bodies](#professional-bodies)
+- [Research](#research)
+- [Retailers](#retailers)
+- [Support at home](#support-at-home)
+- [Touch-typing software](#touch-typing-software)
+- [Trainers](#trainers)
+
+## Advice services
+
+8 entries
+
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Connect by Tech Service from the Macular Society](https://tka.unremarkable.me/resources/directory/connect-by-tech-service-from-the-macular-society/) The Macular Society’s Connect by Tech service offers one-to-one telephone support with the technology people use around their home.
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+- [TripleTapTech](https://tka.unremarkable.me/resources/directory/tripletaptech/) TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+
+## Children and young people
+
+7 entries
+
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Royal Society for Blind Children: Assistive Technology](https://tka.unremarkable.me/resources/directory/royal-society-for-blind-children-assistive-technology/) For Children and Young People up to the age of 25, this charity can arrange a one to one session for you and your family with their Assistive Technology Officer.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+- [VICTA grant scheme for children and young adults](https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/) For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+
+## Coding and computing
+
+1 entry
+
+- [Code Jumper](https://tka.unremarkable.me/resources/directory/code-jumper/) Code Jumper™ is an incredible innovation that teaches students who are blind or visually impaired computer coding.
+
+## Events
+
+5 entries
+
+- [CSUN Assistive Technology Conference](https://tka.unremarkable.me/resources/directory/csun-assistive-technology-conference/) Whether you're a long-time attendee or joining us for the first time, the CSUN Assistive Technology Conference stands as the pinnacle gathering in its field.
+- [Sight City](https://tka.unremarkable.me/resources/directory/sight-city/) SightCity Frankfurt claims to be the world’s largest trade fair for aids and solutions for the blind and visually impaired.
+- [Sight Tech Global](https://tka.unremarkable.me/resources/directory/sight-tech-global/) Sight Tech Global is a world-wide, virtual conference dedicated to highlighting technology's power to transform lives for people living with vision loss around the world by bringing together the pioneers who are applying the latest technology advances to barrier-free navigation, human interaction, and low-friction access to information for people who are blind or visually impaired.
+- [Sight Village](https://tka.unremarkable.me/resources/directory/sight-village/) Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’.
+- [TechShare Pro](https://tka.unremarkable.me/resources/directory/techshare-pro/) AbilityNet’s annual TechShare Pro conference gathers the community of people who are creating a digital world accessible to all:
+
+## Grants
+
+7 entries
+
+- [Blatchington Court Trust: Grant Guidelines](https://tka.unremarkable.me/resources/directory/blatchington-court-trust-grant-guidelines/) Applications will be considered for children and young people who are registered or are registrable as blind (SSI) or partially sighted (SI) up to and including the age of 29 years and who reside permanently in Sussex.
+- [Blind Aid](https://tka.unremarkable.me/resources/directory/blind-aid/) Living with blindness or visual impairment brings many challenges to everyday life.
+- [Gardner's Trust for the Blind](https://tka.unremarkable.me/resources/directory/gardners-trust-for-the-blind/) The Gardner's Trust for the Blind provides financial assistance to registered blind and partially sighted individuals in the UK.
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [RNIB: Grants](https://tka.unremarkable.me/resources/directory/rnib-grants/) RNIB offer grants to registered blind or partially sighted people for useful technology that can help them live independently.
+- [The Powell Family Foundation (TPFF)](https://tka.unremarkable.me/resources/directory/powell-family-foundation/) The aim of The Powell Family Foundation is to support vision impaired children, young people and adults aged 25 and under, to improve their emotional and physical well-being, increase their knowledge and skills, and support their independence through the provision of grants to individuals and charitable organisations.
+- [VICTA grant scheme for children and young adults](https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/) For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+
+## Music
+
+3 entries
+
+- [Justin Macleod](https://tka.unremarkable.me/resources/directory/justin-macleod/) I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design.
+- [RNIB: Music Advisory Service](https://tka.unremarkable.me/resources/directory/rnib-music-advisory-service/) The RNIB Music Advisory Service supports people with sight loss in any aspect of making music.
+- [Sound Without Sight](https://tka.unremarkable.me/resources/directory/sound-without-sight/) Sound Without Sight is a new non-profit initiative, aimed at supporting sight-impaired people in the fields of audio and music.
+
+## Online resources
+
+28 entries
+
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Access On](https://tka.unremarkable.me/resources/directory/access-on/) Access On is the technology podcast of the National Federation of the Blind in the US and is hosted by Jonathan Mosen.
+- [Accessible Android](https://tka.unremarkable.me/resources/directory/accessible-android/) This website provides tips, how to guides, app reviews and podcasts on using Android on smartphones and tablets with the Talkback screen reader, Braille displays and other accessibility features.
+- [AFB (American Foundation for the Blind): Access World](https://tka.unremarkable.me/resources/directory/afb-american-foundation-for-the-blind-access-world/) Produced by American Foundation for the Blind, Access World is &quot;a trusted source of information for the intersection of disability and technology.
+- [Apple Accessibility Pages](https://tka.unremarkable.me/resources/directory/apple-accessibility-pages/) The Apple website has a really helpful section on accessibility features for people with little or no sight.
+- [Apple Accessibility YouTube Channel](https://tka.unremarkable.me/resources/directory/apple-accessibility-you-tube-channel/) This collection of videos looks at using your iPhone without seeing the screen, adapting gestures to your physical needs, and more.
+- [AppleVis](https://tka.unremarkable.me/resources/directory/applevis/) AppleVis is the go-to resource for blind and low vision users of Apple technologies.
+- [Blind Android Users](https://tka.unremarkable.me/resources/directory/blind-android-users/) The team at Blind Android Users strive to make Android understandable, thus demystifying the claim by some who continue to perpetuate the myth among unsuspecting blind folks that Android isn’t usable by the blind.
+- [BrailleCast podcast: Connecting the Dots](https://tka.unremarkable.me/resources/directory/braillecast-podcast-connecting-the-dots/) The BrailleCast podcast aims to showcase the value of Braille and provide Braillists with resources to help spread the word about Braille.
+- [Double Tap](https://tka.unremarkable.me/resources/directory/double-tap-on-air/) This is presented by Stephen Scott and Shaun Preece, formerly of RNIB Tech Talk.
+- [Eyes on Success: Assistive Technology Podcast](https://tka.unremarkable.me/resources/directory/eyes-on-success-assistive-technology-podcast/) Eyes On Success is a weekly podcast and radio program dedicated to empowering the visually impaired community.
+- [Facebook Group: JAWS Screen Reader Users](https://tka.unremarkable.me/resources/directory/facebook-group-jaws-screen-reader-users/) This group is for the discussion of the Jaws screen reader.
+- [Facebook Group: NVDA screen reader users](https://tka.unremarkable.me/resources/directory/facebook-nvda-screen-reader-users/) This group provides NVDA users different things, add-ons, NVDA versions, discussions, and sharing opinions.
+- [Freedom Scientific Training Podcast](https://tka.unremarkable.me/resources/directory/freedom-scientific-training-podcast/) Would you like to download Freedom Scientific’s audio training content on your smart phone or mobile device?
+- [Henshaws: Knowledge Village - Assistive Technology](https://tka.unremarkable.me/resources/directory/henshaws-knowledge-village-assistive-technology/) Assistive Technology is a game changer for people with sight loss and, with the right training and practice, can restore independence.
+- [In Touch on BBC Radio 4](https://tka.unremarkable.me/resources/directory/in-touch-on-bbc-radio-4/) The BBC programme In Touch provides news, views and information for people who are blind or partially sighted, and includes features on technology.
+- [Macaccessibility Roundtable podcast](https://tka.unremarkable.me/resources/directory/macaccessibility-roundtable-podcast/) The Maccessibility website and podcast is devoted to connecting and providing easy access to the best resources for blind, visually impaired, and other disability groups using Apple products.
+- [Microsoft Accessibility Tools for Vision](https://tka.unremarkable.me/resources/directory/microsoft-accessibility-tools-for-vision/) This page lists sight-related accessibility tools to help all Microsoft Windows and Microsoft 365 users.
+- [Mystic Access](https://tka.unremarkable.me/resources/directory/mystic-access/) Mystic Access provides online audio documentation and tutorials for purchase on accessible products, software and services for the blind and visually impaired.
+- [National Braille Press: Computers &amp; Technology](https://tka.unremarkable.me/resources/directory/national-braille-press-computers-technology/) The National Braille Press is in the USA and which, despite its name, produces books in Braille, eBraille, DAISY, a navigable audio format and MS Word.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Tech Talk Podcast](https://tka.unremarkable.me/resources/directory/rnib-tech-talk-podcast/) Tech Talk is a podcast and radio show for blind and partially sighted people who are interested in accessible technology.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Sight for Surrey Technology Training Resources](https://tka.unremarkable.me/resources/directory/sight-for-surry-technology-training-resources/) Please find below a link which takes you to the ICT Handouts and Tutorials page of the Sight For Surrey website.
+- [Talking Technology with VI Labs](https://tka.unremarkable.me/resources/directory/talking-technology-with-vi-labs/) This podcast focuses on technology that supports people who are blind and visually impaired.
+- [Tech Selector - hosted by Guide Dogs](https://tka.unremarkable.me/resources/directory/tech-selector-hosted-by-guide-dogs/) Technology is a huge part of our everyday lives.
+- [Tek Talk by Accessible World](https://tka.unremarkable.me/resources/directory/tek-talk-by-accessible-world/) For well over 20 years, Tek Talk has hosted weekly audio presentations on new software, products and tools for blind and visually impaired people across the world.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+
+## Products
+
+2 entries
+
+- [Ray-Ban Meta Glasses](https://tka.unremarkable.me/resources/directory/rayban/) Useful links:
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+
+## Professional bodies
+
+2 entries
+
+- [DATEurope](https://tka.unremarkable.me/resources/directory/dateurope/) DATEurope is the recently founded European Industry Association for Digital Assistive Technology.
+- [UKAAF (UK Association for Accessible Formats)](https://tka.unremarkable.me/resources/directory/ukaaf-uk-association-for-accessible-formats/) TKA is a Sponsoring Member of UKAAF, the industry association that sets standards and promotes best practice for accessible documents in the UK.
+
+## Research
+
+6 entries
+
+- [Connect to Success: Technology and Employment Support for Disabled People](https://tka.unremarkable.me/resources/directory/connect-to-success-technology-and-employment-support-for-disabled-people/) The Government should improve employment opportunities for disabled jobseekers by taking advantage of modern assistive and accessible technology.
+- [Employment Facts and Stats 2020 Report](https://tka.unremarkable.me/resources/directory/employment-facts-and-stats-2020-report/) This document by RNIB sets out the key facts, stats and trends on the employment situation of blind and partially sighted people.
+- [ENABLER Project: Tackling unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/enabler-project-tackling-unemployment-for-blind-and-partially-sighted-people/) Executive summary
+- [See My Skills: Breaking the cycle of unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/see-my-skills-breaking-the-cycle-of-unemployment-for-blind-and-partially-sighted-people/) This report by The Vision Foundation sets out a roadmap to ensure that everyone, sighted or blind, has the chance to enjoy the independence, purpose and meaning that employment can bring.
+- [Sight Loss and Technology Briefing Report, 2024](https://tka.unremarkable.me/resources/directory/sight-loss-and-technology-briefing-report-2024/) This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of.
+- [Talent and Technology Report](https://tka.unremarkable.me/resources/directory/talent-and-technology-report/) The report was produced by Policy Connect on behalf of the The All-Party Parliamentary Group for Assistive Technology.
+
+## Retailers
+
+10 entries
+
+- [Aspire Consultancy](https://tka.unremarkable.me/resources/directory/aspire-consultancy/) Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Dolphin Computer Access](https://tka.unremarkable.me/resources/directory/dolphin-computer-access/) Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments.
+- [Humanware](https://tka.unremarkable.me/resources/directory/humanware/) For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+- [Optelec](https://tka.unremarkable.me/resources/directory/optelec/) We are one of the UK’s largest and leaders in manufacturing Low Vision Technology for all areas of sight loss.
+- [Pamtrad UK](https://tka.unremarkable.me/resources/directory/pamtrad-uk/) Pamtrad UK are a provider of a wide range of specialist equipment, from electronic magnifiers and text to speech systems to computer access software.
+- [Professional Vision Services](https://tka.unremarkable.me/resources/directory/professional-vision-services/) Professional Vision Services was incorporated in 1990 by Philippa Wisbey - Managing Director and owner, importing the Magnilink brand of video magnifiers and reading machines from Low Vision International (LVI) into the UK.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [Sight &amp; Sound Technology](https://tka.unremarkable.me/resources/directory/sight-sound-technology/) Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+- [VisionAid Technologies](https://tka.unremarkable.me/resources/directory/visionaid-technologies/) VisionAid Technologies Ltd is a family owned &amp; run business who have been providing solutions to assist partially sighted &amp; blind people since 1996.
+
+## Support at home
+
+4 entries
+
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [TripleTapTech](https://tka.unremarkable.me/resources/directory/tripletaptech/) TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology.
+
+## Touch-typing software
+
+2 entries
+
+- [Azabat Touch Typing Software](https://tka.unremarkable.me/resources/directory/azabat-touch-typing-software/) The Azabat Touch Typing Tutors are software programmes designed specifically to help blind and partially sighted people to learn to touch type.
+- [Doorway Online Touch Typing website](https://tka.unremarkable.me/resources/directory/doorway-online-touch-typing-website/) Doorway will take you from your first lesson, using the home keys right through to the most advanced level.
+
+## Trainers
+
+14 entries
+
+- [AAT Solutions: Expert Assistive Technology Training](https://tka.unremarkable.me/resources/directory/aat-solutions-expert-assistive-technology-training/) At AAT Solutions, we specialize in helping visually impaired individuals use assistive technology confidently and effectively.
+- [Access Tech VIP](https://tka.unremarkable.me/resources/directory/access-tech-vip/) Access Tech VIP is led by Adrian Tamasan, a blind assistive technology trainer with more than 25 years of experience using screen readers across Windows, macOS, iOS, Android and specialist audio workflows.
+- [Alternate Visions Coaching (AVC)](https://tka.unremarkable.me/resources/directory/alternate-visions-coaching-avc/) AVC specialise in sight loss, assistive technology training, coaching for living with sight loss, back to work skills &amp; confidence building.
+- [Aspire Consultancy](https://tka.unremarkable.me/resources/directory/aspire-consultancy/) Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Dolphin Computer Access](https://tka.unremarkable.me/resources/directory/dolphin-computer-access/) Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments.
+- [Gary Eady Computer Training](https://tka.unremarkable.me/resources/directory/gary-eady-computer-training/) Gary has more than 25 years knowledge and experience at working with blind and partially sighted people.
+- [Hartgen Consultancy](https://tka.unremarkable.me/resources/directory/hartgen-consultancy/) At Hartgen Consultancy we believe in providing visually impaired people with the best possible service and support.
+- [Humanware](https://tka.unremarkable.me/resources/directory/humanware/) For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+- [Justin Macleod](https://tka.unremarkable.me/resources/directory/justin-macleod/) I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design.
+- [NatSIP Advisors](https://tka.unremarkable.me/resources/directory/natsip-directory/) NatSIP, the National Sensory Impairment Partnership is a partnership of organisations working together to improve outcomes for children and young people with sensory impairment.
+- [Personaleyes](https://tka.unremarkable.me/resources/directory/personaleyes/) Davinder Kullar from Personaleyes offers tailored training, support and coaching to blind and partially sighted people on a range of technology, such as computers, smart phones, tablets through to smart speakers and everyday living solutions.
+- [Sight &amp; Sound Technology](https://tka.unremarkable.me/resources/directory/sight-sound-technology/) Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+- [Taira Technology](https://tka.unremarkable.me/resources/directory/taira-technology/) Taira Technology is a family run business that helps blind and visually impaired individuals and organisations with every aspect of technology.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# A to Z
+
+Canonical page: https://tka.unremarkable.me/resources/directory/a-to-z/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+All 76 entries.
+
+- [AAT Solutions: Expert Assistive Technology Training](https://tka.unremarkable.me/resources/directory/aat-solutions-expert-assistive-technology-training/) At AAT Solutions, we specialize in helping visually impaired individuals use assistive technology confidently and effectively.
+- [AbilityNet](https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/) AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+- [Access On](https://tka.unremarkable.me/resources/directory/access-on/) Access On is the technology podcast of the National Federation of the Blind in the US and is hosted by Jonathan Mosen.
+- [Access Tech VIP](https://tka.unremarkable.me/resources/directory/access-tech-vip/) Access Tech VIP is led by Adrian Tamasan, a blind assistive technology trainer with more than 25 years of experience using screen readers across Windows, macOS, iOS, Android and specialist audio workflows.
+- [Accessible Android](https://tka.unremarkable.me/resources/directory/accessible-android/) This website provides tips, how to guides, app reviews and podcasts on using Android on smartphones and tablets with the Talkback screen reader, Braille displays and other accessibility features.
+- [AFB (American Foundation for the Blind): Access World](https://tka.unremarkable.me/resources/directory/afb-american-foundation-for-the-blind-access-world/) Produced by American Foundation for the Blind, Access World is &quot;a trusted source of information for the intersection of disability and technology.
+- [Alternate Visions Coaching (AVC)](https://tka.unremarkable.me/resources/directory/alternate-visions-coaching-avc/) AVC specialise in sight loss, assistive technology training, coaching for living with sight loss, back to work skills &amp; confidence building.
+- [Apple Accessibility Pages](https://tka.unremarkable.me/resources/directory/apple-accessibility-pages/) The Apple website has a really helpful section on accessibility features for people with little or no sight.
+- [Apple Accessibility YouTube Channel](https://tka.unremarkable.me/resources/directory/apple-accessibility-you-tube-channel/) This collection of videos looks at using your iPhone without seeing the screen, adapting gestures to your physical needs, and more.
+- [AppleVis](https://tka.unremarkable.me/resources/directory/applevis/) AppleVis is the go-to resource for blind and low vision users of Apple technologies.
+- [Aspire Consultancy](https://tka.unremarkable.me/resources/directory/aspire-consultancy/) Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people.
+- [Azabat Touch Typing Software](https://tka.unremarkable.me/resources/directory/azabat-touch-typing-software/) The Azabat Touch Typing Tutors are software programmes designed specifically to help blind and partially sighted people to learn to touch type.
+- [Blatchington Court Trust: Grant Guidelines](https://tka.unremarkable.me/resources/directory/blatchington-court-trust-grant-guidelines/) Applications will be considered for children and young people who are registered or are registrable as blind (SSI) or partially sighted (SI) up to and including the age of 29 years and who reside permanently in Sussex.
+- [Blind Aid](https://tka.unremarkable.me/resources/directory/blind-aid/) Living with blindness or visual impairment brings many challenges to everyday life.
+- [Blind Android Users](https://tka.unremarkable.me/resources/directory/blind-android-users/) The team at Blind Android Users strive to make Android understandable, thus demystifying the claim by some who continue to perpetuate the myth among unsuspecting blind folks that Android isn’t usable by the blind.
+- [BrailleCast podcast: Connecting the Dots](https://tka.unremarkable.me/resources/directory/braillecast-podcast-connecting-the-dots/) The BrailleCast podcast aims to showcase the value of Braille and provide Braillists with resources to help spread the word about Braille.
+- [Code Jumper](https://tka.unremarkable.me/resources/directory/code-jumper/) Code Jumper™ is an incredible innovation that teaches students who are blind or visually impaired computer coding.
+- [Computer Room Services](https://tka.unremarkable.me/resources/directory/computer-room-services/) We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+- [Connect by Tech Service from the Macular Society](https://tka.unremarkable.me/resources/directory/connect-by-tech-service-from-the-macular-society/) The Macular Society’s Connect by Tech service offers one-to-one telephone support with the technology people use around their home.
+- [Connect to Success: Technology and Employment Support for Disabled People](https://tka.unremarkable.me/resources/directory/connect-to-success-technology-and-employment-support-for-disabled-people/) The Government should improve employment opportunities for disabled jobseekers by taking advantage of modern assistive and accessible technology.
+- [CSUN Assistive Technology Conference](https://tka.unremarkable.me/resources/directory/csun-assistive-technology-conference/) Whether you're a long-time attendee or joining us for the first time, the CSUN Assistive Technology Conference stands as the pinnacle gathering in its field.
+- [DATEurope](https://tka.unremarkable.me/resources/directory/dateurope/) DATEurope is the recently founded European Industry Association for Digital Assistive Technology.
+- [Dolphin Computer Access](https://tka.unremarkable.me/resources/directory/dolphin-computer-access/) Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments.
+- [Doorway Online Touch Typing website](https://tka.unremarkable.me/resources/directory/doorway-online-touch-typing-website/) Doorway will take you from your first lesson, using the home keys right through to the most advanced level.
+- [Double Tap](https://tka.unremarkable.me/resources/directory/double-tap-on-air/) This is presented by Stephen Scott and Shaun Preece, formerly of RNIB Tech Talk.
+- [Employment Facts and Stats 2020 Report](https://tka.unremarkable.me/resources/directory/employment-facts-and-stats-2020-report/) This document by RNIB sets out the key facts, stats and trends on the employment situation of blind and partially sighted people.
+- [ENABLER Project: Tackling unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/enabler-project-tackling-unemployment-for-blind-and-partially-sighted-people/) Executive summary
+- [Eyes on Success: Assistive Technology Podcast](https://tka.unremarkable.me/resources/directory/eyes-on-success-assistive-technology-podcast/) Eyes On Success is a weekly podcast and radio program dedicated to empowering the visually impaired community.
+- [Facebook Group: JAWS Screen Reader Users](https://tka.unremarkable.me/resources/directory/facebook-group-jaws-screen-reader-users/) This group is for the discussion of the Jaws screen reader.
+- [Facebook Group: NVDA screen reader users](https://tka.unremarkable.me/resources/directory/facebook-nvda-screen-reader-users/) This group provides NVDA users different things, add-ons, NVDA versions, discussions, and sharing opinions.
+- [Freedom Scientific Training Podcast](https://tka.unremarkable.me/resources/directory/freedom-scientific-training-podcast/) Would you like to download Freedom Scientific’s audio training content on your smart phone or mobile device?
+- [Gardner's Trust for the Blind](https://tka.unremarkable.me/resources/directory/gardners-trust-for-the-blind/) The Gardner's Trust for the Blind provides financial assistance to registered blind and partially sighted individuals in the UK.
+- [Gary Eady Computer Training](https://tka.unremarkable.me/resources/directory/gary-eady-computer-training/) Gary has more than 25 years knowledge and experience at working with blind and partially sighted people.
+- [Guide Dogs: Tech for All](https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/) At Guide Dogs we believe all children with a vision impairment should have access to technology.
+- [Hartgen Consultancy](https://tka.unremarkable.me/resources/directory/hartgen-consultancy/) At Hartgen Consultancy we believe in providing visually impaired people with the best possible service and support.
+- [Henshaws: Knowledge Village - Assistive Technology](https://tka.unremarkable.me/resources/directory/henshaws-knowledge-village-assistive-technology/) Assistive Technology is a game changer for people with sight loss and, with the right training and practice, can restore independence.
+- [Humanware](https://tka.unremarkable.me/resources/directory/humanware/) For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+- [In Touch on BBC Radio 4](https://tka.unremarkable.me/resources/directory/in-touch-on-bbc-radio-4/) The BBC programme In Touch provides news, views and information for people who are blind or partially sighted, and includes features on technology.
+- [Justin Macleod](https://tka.unremarkable.me/resources/directory/justin-macleod/) I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design.
+- [Macaccessibility Roundtable podcast](https://tka.unremarkable.me/resources/directory/macaccessibility-roundtable-podcast/) The Maccessibility website and podcast is devoted to connecting and providing easy access to the best resources for blind, visually impaired, and other disability groups using Apple products.
+- [Microsoft Accessibility Tools for Vision](https://tka.unremarkable.me/resources/directory/microsoft-accessibility-tools-for-vision/) This page lists sight-related accessibility tools to help all Microsoft Windows and Microsoft 365 users.
+- [Mystic Access](https://tka.unremarkable.me/resources/directory/mystic-access/) Mystic Access provides online audio documentation and tutorials for purchase on accessible products, software and services for the blind and visually impaired.
+- [National Braille Press: Computers &amp; Technology](https://tka.unremarkable.me/resources/directory/national-braille-press-computers-technology/) The National Braille Press is in the USA and which, despite its name, produces books in Braille, eBraille, DAISY, a navigable audio format and MS Word.
+- [NatSIP Advisors](https://tka.unremarkable.me/resources/directory/natsip-directory/) NatSIP, the National Sensory Impairment Partnership is a partnership of organisations working together to improve outcomes for children and young people with sensory impairment.
+- [Optelec](https://tka.unremarkable.me/resources/directory/optelec/) We are one of the UK’s largest and leaders in manufacturing Low Vision Technology for all areas of sight loss.
+- [Pamtrad UK](https://tka.unremarkable.me/resources/directory/pamtrad-uk/) Pamtrad UK are a provider of a wide range of specialist equipment, from electronic magnifiers and text to speech systems to computer access software.
+- [Personaleyes](https://tka.unremarkable.me/resources/directory/personaleyes/) Davinder Kullar from Personaleyes offers tailored training, support and coaching to blind and partially sighted people on a range of technology, such as computers, smart phones, tablets through to smart speakers and everyday living solutions.
+- [Professional Vision Services](https://tka.unremarkable.me/resources/directory/professional-vision-services/) Professional Vision Services was incorporated in 1990 by Philippa Wisbey - Managing Director and owner, importing the Magnilink brand of video magnifiers and reading machines from Low Vision International (LVI) into the UK.
+- [Ray-Ban Meta Glasses](https://tka.unremarkable.me/resources/directory/rayban/) Useful links:
+- [RNIB: Digital Skills Team](https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/) RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+- [RNIB: Grants](https://tka.unremarkable.me/resources/directory/rnib-grants/) RNIB offer grants to registered blind or partially sighted people for useful technology that can help them live independently.
+- [RNIB: Music Advisory Service](https://tka.unremarkable.me/resources/directory/rnib-music-advisory-service/) The RNIB Music Advisory Service supports people with sight loss in any aspect of making music.
+- [RNIB: Tech Talk Podcast](https://tka.unremarkable.me/resources/directory/rnib-tech-talk-podcast/) Tech Talk is a podcast and radio show for blind and partially sighted people who are interested in accessible technology.
+- [RNIB: Technology for Independent Learning](https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/) The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+- [Royal Society for Blind Children: Assistive Technology](https://tka.unremarkable.me/resources/directory/royal-society-for-blind-children-assistive-technology/) For Children and Young People up to the age of 25, this charity can arrange a one to one session for you and your family with their Assistive Technology Officer.
+- [See My Skills: Breaking the cycle of unemployment for blind and partially sighted people](https://tka.unremarkable.me/resources/directory/see-my-skills-breaking-the-cycle-of-unemployment-for-blind-and-partially-sighted-people/) This report by The Vision Foundation sets out a roadmap to ensure that everyone, sighted or blind, has the chance to enjoy the independence, purpose and meaning that employment can bring.
+- [Sight &amp; Sound Technology](https://tka.unremarkable.me/resources/directory/sight-sound-technology/) Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+- [Sight City](https://tka.unremarkable.me/resources/directory/sight-city/) SightCity Frankfurt claims to be the world’s largest trade fair for aids and solutions for the blind and visually impaired.
+- [Sight for Surrey Technology Training Resources](https://tka.unremarkable.me/resources/directory/sight-for-surry-technology-training-resources/) Please find below a link which takes you to the ICT Handouts and Tutorials page of the Sight For Surrey website.
+- [Sight Loss and Technology Briefing Report, 2024](https://tka.unremarkable.me/resources/directory/sight-loss-and-technology-briefing-report-2024/) This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of.
+- [Sight Tech Global](https://tka.unremarkable.me/resources/directory/sight-tech-global/) Sight Tech Global is a world-wide, virtual conference dedicated to highlighting technology's power to transform lives for people living with vision loss around the world by bringing together the pioneers who are applying the latest technology advances to barrier-free navigation, human interaction, and low-friction access to information for people who are blind or visually impaired.
+- [Sight Village](https://tka.unremarkable.me/resources/directory/sight-village/) Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’.
+- [Sound Without Sight](https://tka.unremarkable.me/resources/directory/sound-without-sight/) Sound Without Sight is a new non-profit initiative, aimed at supporting sight-impaired people in the fields of audio and music.
+- [Taira Technology](https://tka.unremarkable.me/resources/directory/taira-technology/) Taira Technology is a family run business that helps blind and visually impaired individuals and organisations with every aspect of technology.
+- [Talent and Technology Report](https://tka.unremarkable.me/resources/directory/talent-and-technology-report/) The report was produced by Policy Connect on behalf of the The All-Party Parliamentary Group for Assistive Technology.
+- [Talking Technology with VI Labs](https://tka.unremarkable.me/resources/directory/talking-technology-with-vi-labs/) This podcast focuses on technology that supports people who are blind and visually impaired.
+- [Tech Selector - hosted by Guide Dogs](https://tka.unremarkable.me/resources/directory/tech-selector-hosted-by-guide-dogs/) Technology is a huge part of our everyday lives.
+- [TechShare Pro](https://tka.unremarkable.me/resources/directory/techshare-pro/) AbilityNet’s annual TechShare Pro conference gathers the community of people who are creating a digital world accessible to all:
+- [Tek Talk by Accessible World](https://tka.unremarkable.me/resources/directory/tek-talk-by-accessible-world/) For well over 20 years, Tek Talk has hosted weekly audio presentations on new software, products and tools for blind and visually impaired people across the world.
+- [The Powell Family Foundation (TPFF)](https://tka.unremarkable.me/resources/directory/powell-family-foundation/) The aim of The Powell Family Foundation is to support vision impaired children, young people and adults aged 25 and under, to improve their emotional and physical well-being, increase their knowledge and skills, and support their independence through the provision of grants to individuals and charitable organisations.
+- [Thomas Pocklington Trust: Education Technology](https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/) Whether you’re at school, college or university, technology plays a vital role in your education.
+- [TripleTapTech](https://tka.unremarkable.me/resources/directory/tripletaptech/) TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology.
+- [UKAAF (UK Association for Accessible Formats)](https://tka.unremarkable.me/resources/directory/ukaaf-uk-association-for-accessible-formats/) TKA is a Sponsoring Member of UKAAF, the industry association that sets standards and promotes best practice for accessible documents in the UK.
+- [VICTA grant scheme for children and young adults](https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/) For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+- [Visably](https://tka.unremarkable.me/resources/directory/visably/) This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free.
+- [VisionAid Technologies](https://tka.unremarkable.me/resources/directory/visionaid-technologies/) VisionAid Technologies Ltd is a family owned &amp; run business who have been providing solutions to assist partially sighted &amp; blind people since 1996.
+
+## Other ways to look
+
+- [By what you want to do](https://tka.unremarkable.me/resources/directory/)
+- [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
+- [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
+
+
+---
+
+# AAT Solutions: Expert Assistive Technology Training
+
+Canonical page: https://tka.unremarkable.me/resources/directory/aat-solutions-expert-assistive-technology-training/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+At AAT Solutions, we specialize in helping visually impaired individuals use assistive technology confidently and effectively. As a certified trainer who is blind, I bring a unique perspective and personal experience that greatly enhance our training.
+
+Personalized Training: We offer training sessions tailored to your needs. Our focus includes key tools like JAWS, NVDA, ZoomText, and Dragon NaturallySpeaking. We make sure you can use these tools easily in your everyday life, whether at home or work.
+
+Unique Advantage: My personal experience as a blind individual helps me understand the real challenges of using assistive technology. This allows me to offer practical and empathetic support, helping you overcome obstacles and build confidence with tailored strategies.
+
+Broad Device Training: Besides assistive technologies, we also provide training on popular platforms like Windows, macOS, iOS, and Android. This helps you become comfortable with various types of technology, improving your overall digital skills and readiness.
+
+Hands-On Learning: Our sessions focus on practical, hands-on learning. You’ll practice using your new skills in real-life situations, making it easier to apply what you’ve learned effectively.
+
+Ongoing Support: We are dedicated to your success. We offer continuous support and encouragement, helping you build confidence and address any challenges you may face as you use your new skills.
+
+## Contact
+
+- Website: [aatsolutions.uk](http://www.aatsolutions.uk)
+- Email: [info@aatsolutions.uk](mailto:info@aatsolutions.uk)
+- Phone: 0333 091 3876
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# AbilityNet
+
+Canonical page: https://tka.unremarkable.me/resources/directory/abilitynet-information-and-advice/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+AbilityNet is a UK-based charity with a global reach - our vision is a digital world accessible to all.
+
+We’ve been helping older people and disabled people of any age with their technology for 25 years. Could we help you or someone you know?
+
+- We have a network of more than 450 friendly tech volunteers who can help you or someone you are supporting. They can come to your home, or help you on the phone.
+
+- If you are older or disabled, or if you support someone that is, you can call our helpline for independent advice from a technology expert.
+
+- If you're over 65 years of age and looking to build your digital skills, we offer free digital skills sessions in areas in and around London, Birmingham, Manchester, Edinburgh, and Cardiff.
+
+- Our free information resources provide expert information about disability and technology.
+
+## Contact
+
+- Website: [abilitynet.org.uk/free-tech-support-and-info](https://abilitynet.org.uk/free-tech-support-and-info)
+- Email: [enquiries@abilitynet.org.uk](mailto:enquiries@abilitynet.org.uk)
+- Phone: 0300 180 0028
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Get help at home](https://tka.unremarkable.me/resources/directory/home/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+- [Support at home](https://tka.unremarkable.me/resources/directory/kinds/#support-at-home)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Access On
+
+Canonical page: https://tka.unremarkable.me/resources/directory/access-on/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Access On is the technology podcast of the National Federation of the Blind in the US and is hosted by Jonathan Mosen. It features the latest technology news, product demonstrations, reviews and interviews about the fast-changing world of accessible technology for blind and low-vision users, from screen reading software, smartphone apps to AI tools, Braille displays and more.
+
+The podcast also includes listener contributions and feedback.
+
+## Contact
+
+- Website: [accesson.pinecast.co](https://accesson.pinecast.co/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Access Tech VIP
+
+Canonical page: https://tka.unremarkable.me/resources/directory/access-tech-vip/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Access Tech VIP is led by Adrian Tamasan, a blind assistive technology trainer with more than 25 years of experience using screen readers across Windows, macOS, iOS, Android and specialist audio workflows.
+
+Training can be provided on screen reader basics and advanced navigation techniques, email, web browsing, managing files, and accessibility on tablets and smartphones.
+
+Adrian can provide face to face training in England and internationally for one to one online training, in English or Romanian.
+
+## Contact
+
+- Website: [accesstech.vip](http://www.accesstech.vip/)
+- Email: [adrian.tamasan@accesstech.vip](mailto:adrian.tamasan@accesstech.vip)
+- Phone: 07788241125
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Accessible Android
+
+Canonical page: https://tka.unremarkable.me/resources/directory/accessible-android/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This website provides tips, how to guides, app reviews and podcasts on using Android on smartphones and tablets with the Talkback screen reader, Braille displays and other accessibility features.
+
+## Contact
+
+- Website: [accessibleandroid.com](https://accessibleandroid.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# AFB (American Foundation for the Blind): Access World
+
+Canonical page: https://tka.unremarkable.me/resources/directory/afb-american-foundation-for-the-blind-access-world/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Produced by American Foundation for the Blind, Access World is &quot;a trusted source of information for the intersection of disability and technology. Published quarterly, view our honest commentary, expert insights, and trending discussions in AccessWorld&quot;
+
+## Contact
+
+- Website: [afb.org/aw](https://www.afb.org/aw)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Alternate Visions Coaching (AVC)
+
+Canonical page: https://tka.unremarkable.me/resources/directory/alternate-visions-coaching-avc/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+AVC specialise in sight loss, assistive technology training, coaching for living with sight loss, back to work skills &amp; confidence building.
+
+AVC specialises in delivering training on VoiceOver for Apple products. VoiceOver is a built-in screen reader found on all modern Apple devices. It gives Apple users full accessibility to all of the features of their device, without the need to purchase additional software.
+
+AVC also offers training to users of Dolphin GuideConnect and Dolphin SuperNova. These are software packages that can be installed on most modern Windows 10 tablets, Desktop and Laptop computers. They enable visually impaired and blind individuals to use computers by utilising magnification, colour contrast, screen reading software or in some cases, a combination of all of those features.
+
+Training in the use of these assistive technologies can be delivered to individuals or groups and is tailored to your individual needs. Training can be given in the comfort of the client’s own home on their own device, or if the client is a company/organisation, it can be delivered on their premises.
+
+AVC understands that individuals may feel uncomfortable receiving strangers into their home, so offers remote training by telephone or video calling services as an alternative.
+
+## Contact
+
+- Website: [alternatevisionscoaching.org](http://alternatevisionscoaching.org)
+- Email: [alternatevisionscoaching@gmail.com](mailto:alternatevisionscoaching@gmail.com)
+- Phone: 07801 446624
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Apple Accessibility Pages
+
+Canonical page: https://tka.unremarkable.me/resources/directory/apple-accessibility-pages/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Apple website has a really helpful section on accessibility features for people with little or no sight.
+
+## Contact
+
+- Website: [apple.com/uk/accessibility/vision](https://www.apple.com/uk/accessibility/vision/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Apple Accessibility YouTube Channel
+
+Canonical page: https://tka.unremarkable.me/resources/directory/apple-accessibility-you-tube-channel/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This collection of videos looks at using your iPhone without seeing the screen, adapting gestures to your physical needs, and more. Discover how the accessibility features built into your Apple devices can help you do more.
+
+## Contact
+
+- Website: [youtube.com/playlist?list=PLIl2EzNYri0cLtSlZowttih25VnSvWITu&amp;#038;si=zNY3wjjR1ZnR8cej](https://youtube.com/playlist?list=PLIl2EzNYri0cLtSlZowttih25VnSvWITu&amp;#038;si=zNY3wjjR1ZnR8cej)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# AppleVis
+
+Canonical page: https://tka.unremarkable.me/resources/directory/applevis/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+AppleVis is the go-to resource for blind and low vision users of Apple technologies. With an active, engaged user base and a vast collective understanding of accessibility on Apple's platforms, members of our community support each other in accessing the maximum potential of Apple hardware, software, and services.
+
+The AppleVis Newsletter is an occasional newsletter featuring news, announcements and updates from the AppleVis website.
+
+The AppleVis podcast concentrates on all things Apple, primarily with VoiceOver. It includes demonstrations of apps and iOS features as well as news from Apple (new hardware and software releases, sales figures and much more). A must listen if you use an iPhone or iPad with VoiceOver.
+
+## Contact
+
+- Website: [applevis.com](https://www.applevis.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Aspire Consultancy
+
+Canonical page: https://tka.unremarkable.me/resources/directory/aspire-consultancy/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Aspire Consultancy is an independent company that provides quality advice, assessment and a training service on all aspects of assistive technology for visually impaired people. We also sell products that are specifically designed to improve your quality of life at work, at study or in the home that help you fully realise your full potential. We serve corporate, educational and private clients across the UK.
+
+Our training service includes training on mainstream software packages, internet and e-mail solutions. We also supply desktop and laptop computer systems tailored to the needs of the individual.
+
+Packages supported include: JAWS, J-Say, J-Dictate, NVDA, Dolphin GuideConnect and Supernova, ZoomText and Zoomtext Fusion, and the Apple Operating System iOS.
+
+Training is provided remotely online, by telephone or face-to-face.
+
+## Contact
+
+- Website: [aspire-consultancy.co.uk](http://www.aspire-consultancy.co.uk)
+- Email: [info@aspire-consultancy.co.uk](mailto:info@aspire-consultancy.co.uk)
+- Phone: 01904 762788
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Azabat Touch Typing Software
+
+Canonical page: https://tka.unremarkable.me/resources/directory/azabat-touch-typing-software/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Azabat Touch Typing Tutors are software programmes designed specifically to help blind and partially sighted people to learn to touch type.
+
+There are Beginners and Advanced versions. They cost £30 each or £50 as a set.
+
+## Contact
+
+- Website: [azabat.co.uk/typing.html](http://www.azabat.co.uk/typing.html)
+- Email: [steve@azabat.co.uk](mailto:steve@azabat.co.uk)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Touch-typing software](https://tka.unremarkable.me/resources/directory/kinds/#touch-typing-software)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Blatchington Court Trust: Grant Guidelines
+
+Canonical page: https://tka.unremarkable.me/resources/directory/blatchington-court-trust-grant-guidelines/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Applications will be considered for children and young people who are registered or are registrable as blind (SSI) or partially sighted (SI) up to and including the age of 29 years and who reside permanently in Sussex. All items supplied through our grant scheme are for home use only (not for school or college), unless there has been a special arrangement between the Trust and the local Authority’s teams of qualified Teachers for Visual Impairment (QTVI’s).All applications must be supported by a QTVI or another professional if the applicant is over 16.
+
+## Contact
+
+- Website: [blatchingtoncourt.org.uk/benefits-and-grants](https://www.blatchingtoncourt.org.uk/benefits-and-grants/)
+
+## Listed under
+
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Blind Aid
+
+Canonical page: https://tka.unremarkable.me/resources/directory/blind-aid/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Living with blindness or visual impairment brings many challenges to everyday life.
+
+Grants are available to visually impaired Londoners on low incomes for essential items to help maintain vital independence.
+
+BlindAid grants are:
+
+-
+
+Subject to criteria, and considered by our grant committee
+
+- Typically up to £400
+
+- Applied for on behalf of the recipient by Social Services, Sensory Teams or other Charities/statutory services.
+
+Grants can be used in many ways, including but not limited to:
+
+- Equipment and gadgets, including colour detectors, talking microwaves etc.
+
+- White Goods
+
+- Accessible computers/laptops
+
+- Domestic items
+
+Please be aware that we can only accept grant applications made by an employee of a statutory organisation or registered charity.
+
+## Contact
+
+- Website: [blindaid.org.uk/our-services/grants](https://blindaid.org.uk/our-services/grants/)
+- Email: [enquiries@blindaid.org.uk](mailto:enquiries@blindaid.org.uk)
+- Phone: 020 7403 6184
+
+## Listed under
+
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Blind Android Users
+
+Canonical page: https://tka.unremarkable.me/resources/directory/blind-android-users/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The team at Blind Android Users strive to make Android understandable, thus demystifying the claim by some who continue to perpetuate the myth among unsuspecting blind folks that Android isn’t usable by the blind.
+
+For this reason, Blind Android Users exists to set the record straight and provide tutorials (in both audio form) via our weekly podcast where we go through what Android is all about and how to use it as a blind or visually impaired person.
+
+Android is the world’s biggest mobile platform and at Blind Android Users, we intend to make it possible for blind and visually impaired people to fully take advantage of the platform.
+
+## Contact
+
+- Website: [blindandroidusers.com](https://blindandroidusers.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# BrailleCast podcast: Connecting the Dots
+
+Canonical page: https://tka.unremarkable.me/resources/directory/braillecast-podcast-connecting-the-dots/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The BrailleCast podcast aims to showcase the value of Braille and provide Braillists with resources to help spread the word about Braille. BrailleCast highlights the many ways Braille touches our lives and offers a platform to share ways we can broaden Braille’s appeal, often through the use of technology such as Braille displays and notetakers or by connecting these devices to smartphones, computers and tablets.
+
+## Contact
+
+- Website: [braillecast.com](https://www.braillecast.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Code Jumper
+
+Canonical page: https://tka.unremarkable.me/resources/directory/code-jumper/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Code Jumper™ is an incredible innovation that teaches students who are blind or visually impaired computer coding. By putting the block code tactually in your hands, all students can learn together in an inclusive setting. Originally designed by Microsoft® and developed by APH, this educational toy bridges the skills gap and opens up the world of coding to every student.
+
+Children not only learn basic programming concepts, such as sequence, iteration, selection, and variables, but will also be encouraged to think computationally, such as solving the same challenge in multiple ways.
+
+Most important, any teacher can facilitate Code Jumper lessons without prior computer science experience, and Code Jumper is inclusive of all children across the vision spectrum.
+
+APH is pleased to announce that we will be partnering with HumanWare to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.
+
+We are also pleased to partner with the following organizations in the promotion and sale of Code Jumper internationally:
+
+- Australia: Vision Australia Vision Australia: Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: Vision Store
+
+- Canada: CNIB Foundation: CNIB
+
+- UK: The Royal National Institute of Blind People (RNIB) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their online shop.
+
+## Contact
+
+- Website: [codejumper.com](https://codejumper.com/)
+
+## Listed under
+
+- [Work or study in technology](https://tka.unremarkable.me/resources/directory/work/)
+- [Coding and computing](https://tka.unremarkable.me/resources/directory/kinds/#coding-and-computing)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Computer Room Services
+
+Canonical page: https://tka.unremarkable.me/resources/directory/computer-room-services/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+We offer training on all the main screen reading packages and also on a wide variety of software including WordPress.
+
+We do not run specific courses, instead we try to tailor the training to your needs. Training can be done over the telephone or over Zoom or Microsoft Teams and can also be recorded for you to keep.
+
+We train by the hour, a minimum of one hour must be taken, and then notes are emailed or sent in your preferred format at the end of the lesson. There are no contracts – you can take as few or as many lessons as you wish. Home visits can be arranged.
+
+We are also able to remotely connect to your PC, so that we can see, and show you, exactly what to do when training.
+
+## Contact
+
+- Website: [comproom.co.uk](http://www.comproom.co.uk)
+- Email: [steve@comproom.co.uk](mailto:steve@comproom.co.uk)
+- Phone: 01438 742 286
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Get help at home](https://tka.unremarkable.me/resources/directory/home/)
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Support at home](https://tka.unremarkable.me/resources/directory/kinds/#support-at-home)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Connect by Tech Service from the Macular Society
+
+Canonical page: https://tka.unremarkable.me/resources/directory/connect-by-tech-service-from-the-macular-society/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Macular Society’s Connect by Tech service offers one-to-one telephone support with the technology people use around their home. Their volunteers can help Macular Society members make the most of their tech, such as Smartphones, Tablets, Laptops and Computers, Smart speakers and others.
+
+## Contact
+
+- Website: [macularsociety.org/support/daily-life/connect](https://www.macularsociety.org/support/daily-life/connect/)
+- Email: [techtalk@macularsociety.org](mailto:techtalk@macularsociety.org)
+- Phone: 0300 3030 111
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Connect to Success: Technology and Employment Support for Disabled People
+
+Canonical page: https://tka.unremarkable.me/resources/directory/connect-to-success-technology-and-employment-support-for-disabled-people/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Government should improve employment opportunities for disabled jobseekers by taking advantage of modern assistive and accessible technology.
+
+Cross-party think tank Policy Connect and the All-Party Parliamentary Group for Assistive and Accessible Technology’s latest report, ‘Connect to Success: Technology and Employment Support for Disabled People’, examines the contribution of employment support services for disabled job seekers, and shows how these services can become more effective by providing support for their clients to use assistive and accessible technology (ATech) to overcome barriers to employment.
+
+Rates of economic inactivity have proved persistently higher among disabled and neurodivergent people, with only 54.4% of working age disabled people in employment compared to 81.9% of non-disabled people. The situation is particularly acute for people with learning disabilities, with employment rates that are estimated to be between 4.8% and 26.7%.
+
+The Get Britain Working White Paper has outlined the new Government’s plans to increase economic activity, with a long-term target of an 80% employment rate and 2.1 million more people in work. This can only be achieved if more disabled people are able to find and thrive in employment.
+
+The report argues that government’s employment support reforms – including the creation of the ‘Connect to Work’ scheme that will support an estimated 100,000 disabled people over 2026-27 – offer a once-in-a generation opportunity to incorporate ATech into the design of these new and reformed services.
+
+ATech is already a valued and common form of workplace adjustment, and as Connect to Success outlines, employment support services will prove most effective at breaking down barriers to work if they build access to ATech into their programmes for developing disabled clients’ employability skills and confidence.
+
+Connect to Success sets out three recommendations for the Government to improve access to employment for disabled jobseekers by incorporating ATech into employment services:
+
+- ATech should be part of the everyday delivery of the new jobs and careers service and be incorporated into local Get Britain Working Plans, including local Connect to Work schemes. Employment support clients should be helped to explore what ATech is right for them and begin using the technology, gaining skills and confidence with it, even before they secure paid work.
+
+- Government should partner with the tech and disability sectors to establish a national Centre for ATech, whose role would include (i) providing strategic guidance to employment support service leaders and (ii) upskilling frontline professionals.
+
+- Special Educational Needs and Disabilities (SEND) and post-16 essential skills provision should recognise ATech as a core employability and life skill for disabled people. ATech should be incorporated in all relevant standards and frameworks related to preparation for adulthood (PfA) SEND provision, and within any proposed National Standards for Personal, Social and Employability Qualifications.
+
+“Connect to Success is a vital and timely contribution to ongoing discussions about employment and the need to ensure more people can enter and thrive in work. The report convincingly outlines the case for reforming employment support services with greater incorporation of technology to break down persistent barriers to employment for disabled people. Assistive and accessible technology (ATech) is already a valued and common form of workplace adjustment, and I hope very much the Government will seize the opportunity of its new Connect to Work scheme to expand access to this technology. By reducing barriers to accessing ATech and developing skills and confidence in its use, employment support services will be better placed to help their disabled clients secure paid work and build successful careers. It’s fantastic that Sir Stephen has made time during the Parliamentary Recess to address this launch event, and I look forward to working with colleagues in Parliament and the wider sector to help ensure ATech becomes an integral part of employment support delivery.” – Lord Shinkwin, All-Party Parliamentary Group for Assistive and Accessible Technology (APPGAT).
+
+Download (docx 384.31 KB)
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# CSUN Assistive Technology Conference
+
+Canonical page: https://tka.unremarkable.me/resources/directory/csun-assistive-technology-conference/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Whether you're a long-time attendee or joining us for the first time, the CSUN Assistive Technology Conference stands as the pinnacle gathering in its field. Celebrating four decades of excellence, this conference is renowned as the premier forum for exploring the latest in technology and accessibility for persons with disabilities.
+
+Since its inception, California State University, Northridge's Center on Disabilities has proudly hosted this event, drawing researchers, educators, practitioners, and exhibitors from across the globe. Together, we foster an environment where knowledge, innovation, and best practices converge to advance the cause of inclusion.
+
+Join us in Anaheim, California for an unforgettable week packed with Pre-Conference Workshops, a dynamic Keynote Address Program, engaging Featured Presentations, enriching General Sessions, and vibrant Sponsor Showcase Suites. Explore the latest solutions and services in the Exhibit Hall and take advantage of our expanding networking opportunities and community-building activities.
+
+## Contact
+
+- Website: [conference.csun.at/event/2c5d8c51-6441-44c0-b361-131ff9544dd5/summary](https://conference.csun.at/event/2c5d8c51-6441-44c0-b361-131ff9544dd5/summary)
+
+## Listed under
+
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)
+- [Events](https://tka.unremarkable.me/resources/directory/kinds/#events)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# DATEurope
+
+Canonical page: https://tka.unremarkable.me/resources/directory/dateurope/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+DATEurope is the recently founded European Industry Association for Digital Assistive Technology. Our vision is to enable access to digital assistive technology for all. The association represents the DAT industry with its developers, manufacturers, distributors, and service providers throughout Europe in the broadest geographical sense. Our mission is to unite this specialised industry to influence legislation, raise awareness, and to achieve sustainability, growth, and commerce. The specific challenges within Europe, such as different languages, funding systems, cultures and legislation has helped to grow our membership to more than 70 companies, from sole proprietors to large corporate organisations. Our membership continues to grow in both number and diversity.
+
+## Contact
+
+- Website: [dateurope.com](https://dateurope.com/)
+- Email: [info@dateurope.com](mailto:info@dateurope.com)
+
+## Listed under
+
+- [Work or study in technology](https://tka.unremarkable.me/resources/directory/work/)
+- [Professional bodies](https://tka.unremarkable.me/resources/directory/kinds/#professional-bodies)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Dolphin Computer Access
+
+Canonical page: https://tka.unremarkable.me/resources/directory/dolphin-computer-access/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Dolphin assistive technology products are designed to improve accessibility and independence on computers, smartphones and tablets for people with a wide range of vision impairments. This includes screen readers for people who are blind, magnification and audio products for people who have partial sight and low vision and also apps to access audio and digital books on a wide range of platforms.
+
+## Contact
+
+- Website: [yourdolphin.com](https://yourdolphin.com/)
+- Email: [info@yourdolphin.com](mailto:info@yourdolphin.com)
+- Phone: +44 (0)1905 754 577
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Doorway Online Touch Typing website
+
+Canonical page: https://tka.unremarkable.me/resources/directory/doorway-online-touch-typing-website/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Doorway will take you from your first lesson, using the home keys right through to the most advanced level. You can customise the lessons to make them more accessible, with font size, contrast and speech output options.
+
+## Contact
+
+- Website: [doorwayonline.org.uk/typing](https://www.doorwayonline.org.uk/typing/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Touch-typing software](https://tka.unremarkable.me/resources/directory/kinds/#touch-typing-software)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Double Tap
+
+Canonical page: https://tka.unremarkable.me/resources/directory/double-tap-on-air/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This is presented by Stephen Scott and Shaun Preece, formerly of RNIB Tech Talk. It’s humorous, informative and up-to-date with technology news.
+
+## Contact
+
+- Website: [doubletaponair.com](https://doubletaponair.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Employment Facts and Stats 2020 Report
+
+Canonical page: https://tka.unremarkable.me/resources/directory/employment-facts-and-stats-2020-report/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This document by RNIB sets out the key facts, stats and trends on the employment situation of blind and partially sighted people.
+
+Some of the key findings include:
+
+There is a significant employment gap between blind and partially sighted people and the general population. The employment rate is 76% in the general population, 51% amongst the disabled population excluding sight loss and 27% for people registered blind and partially sighted.
+
+Several factors influence the likelihood of being in work: age; educational attainment; severity of sight loss; additional disabilities and general health.
+
+Registered blind and partially sighted people with a degree or higher still only have the same chance of getting a job as someone with no qualifications in the general public.
+
+The age at which someone experiences sight loss influences the challenges they face, either in entry to the job market or job retention. People born blind or who lost their sight in childhood are less likely to ever enter the labour market, with 76% of this group ever having a job compared to 96% of people who lost their sight over the age of 30. However, it is very likely other factors influence this such as additional disabilities.
+
+Published 2020.
+
+Download (docx 82.79 KB)
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# ENABLER Project: Tackling unemployment for blind and partially sighted people
+
+Canonical page: https://tka.unremarkable.me/resources/directory/enabler-project-tackling-unemployment-for-blind-and-partially-sighted-people/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Executive summary
+
+What we did
+
+Between 2010 and 2013, RNIB and the University of Birmingham carried out a three-year, action-based research project to help improve the employment prospects of blind and partially sighted people. Working alongside a group of employment specialists and approximately 100 blind and partially sighted people, we designed and tested:
+
+• a standard assessment model that has increased our understanding of
+
+the skills, aspirations and barriers to employment of blind and partially
+
+sighted people
+
+• innovative support strategies for those furthest from the labour market, which has helped inform how we deliver services for blind and partially sighted people seeking work.
+
+Why we did it
+
+Blind and partially sighted people are significantly less likely to be in paid employment than the general population or other disabled people. Only one in three registered blind and partially sighted people of working age is in paid employment. They are nearly five times more likely than the general population to have had no paid work for five years.
+
+Blind and partially sighted people need specialist support on their journey towards employment. In addition to more common barriers, such as long term unemployment or low literacy and numeracy levels, blind and partially sighted job seekers have specific needs related to their sight loss.
+
+What we found
+
+We identified key factors that determine a blind or partially sighted person’s distance from the labour market, and whether they are ready for work.
+
+Examples of those factors include:
+
+• being able to self-advocate to employers, explaining what workplace adjustments will be required to carry out particular roles
+
+• confidence and competence using computers adapted with appropriate assistive technology software
+
+• confidence and ability to travel independently using public transport
+
+• access to information via a preferred format of braille, large print, audio or electronic information.
+
+We have shown that blind and partially sighted people furthest from the labour market require intensive support and specialist interventions in key areas.
+
+These include:
+
+• developing assistive technology skills
+
+• developing mobility skills
+
+• skills to communicate needs and associated adjustments to employers
+
+• making the most of residual vision
+
+• a pre-employment programme, designed to meet the complex needs of blind
+
+and partially sighted people.
+
+What we produced
+
+We have developed a comprehensive employment assessment toolkit that takes account of the specific needs of blind and partially sighted job seekers.
+
+It supports employment advisers and their clients to design interventions that help blind and partially sighted people on their path towards employment.
+
+The employment assessment toolkit enables employment advisers, who work with blind and partially sighted people to gain a clear understanding of their clients’ aspirations in relation to employment, and what types of support and development are required. It can be used by any provider working in the welfare to work industry that supports blind and partially sighted people.
+
+Trials of the employment assessment toolkit and innovative support strategies provided evidence of the effectiveness of a holistic and specialist employment service for people with sight loss. The toolkit was proven to be an important part of such a service and helps employment advisors, clients and managers to:
+
+• establish a profile of each client’s particular skills and barriers
+
+• identify and design effective interventions which are sensitive to the complex needs and circumstances of people with sight loss
+
+• plan a tailored pre-employment programme
+
+• establish a baseline, which can be compared with a reassessment following intervention
+
+• record evidence of measurable success towards paid employment
+
+• acknowledge and celebrate other meaningful outcomes such as greater independence, or contribution and participation through voluntary work
+
+• gather information about the range and number of clients being supported at different levels of need.
+
+The new employment assessment toolkit is helping the RNIB group of charities to re-model the way it delivers pre-employment support with blind and partially sighted people. Designed to assess the particular issues faced by blind and partially sighted people, it serves as a diagnostic tool and is useful for planning the steps required to progress towards work. The RNIB group of charities is embedding the employment assessment toolkit as part of our support to working-age people. Our use of this standardised assessment model means that our pre-employment support for blind and partially sighted people will be even more closely aligned to the specific needs of those we support.
+
+Download (pdf 1.03 MB)
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Eyes on Success: Assistive Technology Podcast
+
+Canonical page: https://tka.unremarkable.me/resources/directory/eyes-on-success-assistive-technology-podcast/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Eyes On Success is a weekly podcast and radio program dedicated to empowering the visually impaired community. Since January 2011, the hosts Nancy and Peter Torpey have been providing valuable advice, inspiring personal stories, and news on the latest in technology and accessibility.
+
+## Contact
+
+- Website: [eyesonsuccess.net](https://www.eyesonsuccess.net/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Facebook Group: JAWS Screen Reader Users
+
+Canonical page: https://tka.unremarkable.me/resources/directory/facebook-group-jaws-screen-reader-users/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This group is for the discussion of the Jaws screen reader. This can include, but is not limited to, questions and experiences.
+
+## Contact
+
+- Website: [facebook.com/share/nBixJA97c5iC4XLM](https://www.facebook.com/share/nBixJA97c5iC4XLM/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Facebook Group: NVDA screen reader users
+
+Canonical page: https://tka.unremarkable.me/resources/directory/facebook-nvda-screen-reader-users/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This group provides NVDA users different things, add-ons, NVDA versions, discussions, and sharing opinions. NVDA was created by people, and they called NVAccess. NVDA is a screen reader for blind and visually impaired people, it helps them to brows their computers smoothly, reading bookx using this screen reader with synthesizers - text to speach survice (TTS).
+
+As well as this NVDA supports many languages, including Arabic, Spanish, English, Chinese and another languages. I would advise you to visit their website to know about them if you are a new NVDA user.
+
+http://www.nvaccess.org/
+
+## Contact
+
+- Website: [facebook.com/share/DzNBWotjUXHpRRxN](https://www.facebook.com/share/DzNBWotjUXHpRRxN/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Freedom Scientific Training Podcast
+
+Canonical page: https://tka.unremarkable.me/resources/directory/freedom-scientific-training-podcast/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Would you like to download Freedom Scientific’s audio training content on your smart phone or mobile device? Want the convenience of listening to the step by step instructional demos we provide on your Amazon Echo or Google Home device? The Freedom Scientific Training podcast places hours of free audio training content right at your fingertips. You can listen to free lessons on a variety of topics ranging from basic Windows 10 to Advanced tasks in Microsoft Excel.
+
+## Contact
+
+- Website: [freedomscientific.com/training/podcast](https://www.freedomscientific.com/training/podcast/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Gardner's Trust for the Blind
+
+Canonical page: https://tka.unremarkable.me/resources/directory/gardners-trust-for-the-blind/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Gardner's Trust for the Blind provides financial assistance to registered blind and partially sighted individuals in the UK.
+
+It awards one-off grants towards education, training and household items.
+
+The Trust may also provide grants towards a pension.
+
+Individuals should apply directly to the Trust in writing enclosing confirmation of their disability from a 3rd party.
+
+The Gardners Trust for the Blind, Suite 1, Unit 2, Stansted Courtyard, Takeley, Parsonage Road, Essex CM22 6PU.
+
+## Contact
+
+- Email: [gardners@smithfield-accountants.co.uk](mailto:gardners@smithfield-accountants.co.uk)
+- Phone: 020 7253 3757
+
+## Listed under
+
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Gary Eady Computer Training
+
+Canonical page: https://tka.unremarkable.me/resources/directory/gary-eady-computer-training/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Gary has more than 25 years knowledge and experience at working with blind and partially sighted people. He provides training and support in the use of Windows 10, Microsoft Office applications (Word, Excel, Outlook and PowerPoint), web browsers such as Microsoft Edge and Google Chrome, all in conjunction with screen reading technology. He is an expert in the use and configuration of JAWS and has extensive knowledge and understanding of how to use applications using keyboard commands.
+
+Gary is also able to provide training and support in the use of an Apple iPhone/iPad in conjunction with the VoiceOver screen reader. Gary has a great sense of humour and uses it to make his training session enjoyable!
+
+## Contact
+
+- Email: [eady.towerz@gmail.com](mailto:eady.towerz@gmail.com)
+- Phone: 07771 953866
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Guide Dogs: Tech for All
+
+Canonical page: https://tka.unremarkable.me/resources/directory/guide-dogs-tech-4-all/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+At Guide Dogs we believe all children with a vision impairment should have access to technology. Our Tech for All service provides families with the technology they need. This includes Apple iPads, specialist technology and software or our sensory toy bundles to use outside of school (while stocks last). Our expert team can also provide personalised advice about technology to families.
+
+## Contact
+
+- Website: [guidedogs.org.uk/tech-for-all](https://www.guidedogs.org.uk/tech-for-all/)
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Hartgen Consultancy
+
+Canonical page: https://tka.unremarkable.me/resources/directory/hartgen-consultancy/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+At Hartgen Consultancy we believe in providing visually impaired people with the best possible service and support. Whether you are a user of the JAWS for Windows screen-reader who needs some training at home, an employer of a blind person who would like to ensure an application is accessible, or you would like a screen-reading product to make your life easier, we’re Hartgen Consultancy and we can help!
+
+Popular products include: J-Say, J-Dictate, Leasey, StationPlaylist Studio Accessible Broadcasting, JAWS for Windows Training Courses, Zoom Professional and Microsoft Teams Scripts.
+
+## Contact
+
+- Website: [hartgenconsultancy.com](https://www.hartgenconsultancy.com)
+- Email: [brian@hartgenconsultancy.com](mailto:brian@hartgenconsultancy.com)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Henshaws: Knowledge Village - Assistive Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/henshaws-knowledge-village-assistive-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Assistive Technology is a game changer for people with sight loss and, with the right training and practice, can restore independence. Here are some of Henshaw's top picks of the best Assistive technology and apps out there.
+
+## Contact
+
+- Website: [henshaws.org.uk/hints-and-tips-category/technology](https://www.henshaws.org.uk/hints-and-tips-category/technology/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Humanware
+
+Canonical page: https://tka.unremarkable.me/resources/directory/humanware/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+For over 30 years, HumanWare’s inspirational vision has resulted in a range of highly intuitive and intelligent solutions that empower people who are blind or with low vision by giving them the independence to participate effectively within a sighted world.
+
+We offer a wide range of innovative products for which training will be provided by our specialist trainers via Skype, telephone and Teamviewer.
+
+## Contact
+
+- Website: [humanware.com](https://www.humanware.com)
+- Email: [eu.support@humanware.com](mailto:eu.support@humanware.com)
+- Phone: 01933 415800 (Option 2)
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# In Touch on BBC Radio 4
+
+Canonical page: https://tka.unremarkable.me/resources/directory/in-touch-on-bbc-radio-4/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The BBC programme In Touch provides news, views and information for people who are blind or partially sighted, and includes features on technology.
+
+## Contact
+
+- Website: [bbc.co.uk/programmes/b006qxww](https://www.bbc.co.uk/programmes/b006qxww)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Justin Macleod
+
+Canonical page: https://tka.unremarkable.me/resources/directory/justin-macleod/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+I have taught students in the areas of audio restoration; mixing; basic mastering, audio fundamentals and concepts; electronic music production; dialogue editing; and sound design. I offer a free consultation where prospective students and I can get a feel for one another and where I can find out what previous experience the student has and what their audio aspirations are so we can go over a possible lesson plan. I use this time to find out the student's preferred learning style as well.
+
+My lessons include, where applicable and if the student wishes, recordings of the lessons; the setting and evaluation of exercises so that they can practice what they've learned between lessons; between lesson support in case they encounter any problems or have questions; and supplementary notes or audio demonstrations of concepts they would like reinforced or to explore further.
+
+## Contact
+
+- Email: [justinmacleod@hotmail.com](mailto:justinmacleod@hotmail.com)
+
+## Listed under
+
+- [Make music](https://tka.unremarkable.me/resources/directory/music/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Music](https://tka.unremarkable.me/resources/directory/kinds/#music)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Macaccessibility Roundtable podcast
+
+Canonical page: https://tka.unremarkable.me/resources/directory/macaccessibility-roundtable-podcast/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The Maccessibility website and podcast is devoted to connecting and providing easy access to the best resources for blind, visually impaired, and other disability groups using Apple products. It is maintained by a dedicated group of visually impaired volunteers, who are all Apple enthusiasts.
+
+## Contact
+
+- Website: [maccessibility.net](https://maccessibility.net/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Microsoft Accessibility Tools for Vision
+
+Canonical page: https://tka.unremarkable.me/resources/directory/microsoft-accessibility-tools-for-vision/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This page lists sight-related accessibility tools to help all Microsoft Windows and Microsoft 365 users. We offer support for people who are blind, people with low vision, and people with a vision disability, such as colour blindness
+
+## Contact
+
+- Website: [support.microsoft.com/en-gb/topic/accessibility-tools-for-vision-b3c57606-e0af-46d2-97b4-fa6b5fba4fa1](https://support.microsoft.com/en-gb/topic/accessibility-tools-for-vision-b3c57606-e0af-46d2-97b4-fa6b5fba4fa1)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Mystic Access
+
+Canonical page: https://tka.unremarkable.me/resources/directory/mystic-access/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Mystic Access provides online audio documentation and tutorials for purchase on accessible products, software and services for the blind and visually impaired.
+
+## Contact
+
+- Website: [mysticaccess.com](https://mysticaccess.com/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# National Braille Press: Computers & Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/national-braille-press-computers-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The National Braille Press is in the USA and which, despite its name, produces books in Braille, eBraille, DAISY, a navigable audio format and MS Word. For example, it contains books on windows keyboard shortcuts, iPhones and Android devices.
+
+## Contact
+
+- Website: [shop.nbp.org/collections/computers-technology](https://shop.nbp.org/collections/computers-technology)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# NatSIP Advisors
+
+Canonical page: https://tka.unremarkable.me/resources/directory/natsip-directory/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+NatSIP, the National Sensory Impairment Partnership is a partnership of organisations working together to improve outcomes for children and young people with sensory impairment. This includes children and young people who are deaf or have a hearing impairment, multi-sensory or vision impairment.
+
+The NatSIP 'Find an Advisor' Directory contains listings of individual advisers and the services they offer.
+
+## Contact
+
+- Website: [natsip.org.uk/find-an-advisor-directory](https://www.natsip.org.uk/find-an-advisor-directory)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Optelec
+
+Canonical page: https://tka.unremarkable.me/resources/directory/optelec/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+We are one of the UK’s largest and leaders in manufacturing Low Vision Technology for all areas of sight loss.
+
+Our services are personal to your needs, whether it be magnification, reading machines, optics or software.
+
+We have Low vision specialists all throughout the UK and Ireland who can offer free home demonstrations on our products.
+
+## Contact
+
+- Website: [lowvisionshop.co.uk](https://lowvisionshop.co.uk/)
+- Email: [sarahk@optelec.co.uk](mailto:sarahk@optelec.co.uk)
+- Phone: 0800 145 6115
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Pamtrad UK
+
+Canonical page: https://tka.unremarkable.me/resources/directory/pamtrad-uk/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Pamtrad UK are a provider of a wide range of specialist equipment, from electronic magnifiers and text to speech systems to computer access software.
+
+## Contact
+
+- Website: [pamtrad.co.uk](https://pamtrad.co.uk/)
+- Email: [info@pamtrad.co.uk](mailto:info@pamtrad.co.uk)
+- Phone: 0115 9816636
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Personaleyes
+
+Canonical page: https://tka.unremarkable.me/resources/directory/personaleyes/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Davinder Kullar from Personaleyes offers tailored training, support and coaching to blind and partially sighted people on a range of technology, such as computers, smart phones, tablets through to smart speakers and everyday living solutions. This is done in a supportive manner to enable people to be effective with the tools they own and they offer them quality and value to their life.
+
+Examples of accessibility training includes
+
+• Screen readers such as Windows Narrator, NVDA and JAWS on desktop
+
+• Voiceover iOS and talkback on Android for smart phones and tablets
+
+• Low vision adaptations such as Magnification on desktops, smart phones and tablets
+
+• Advice on everyday living devices and options on acquiring them, such as in home kitchen and other tasks.
+
+Accessibility consultancy is offered on aspects from website user testing for access needs, assessing physical environments and low vision training to people that interact with blind and partially sighted individuals, such as professionals through to friends and families. This is to ensure the best interactions occur and people feel comfortable with the knowledge and skills for the situations, environments and tools they need access to.
+
+Coaching is provided with my personal years of living with a health condition and utilising a range of knowledge and experience to provide a space to go through situations, options/ approaches and support the action to implement them. Coaching is aimed to develop the person to where they would like to be in life.
+
+## Contact
+
+- Email: [info@personaleyes.org](mailto:info@personaleyes.org)
+- Phone: 07887252977
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Professional Vision Services
+
+Canonical page: https://tka.unremarkable.me/resources/directory/professional-vision-services/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Professional Vision Services was incorporated in 1990 by Philippa Wisbey - Managing Director and owner, importing the Magnilink brand of video magnifiers and reading machines from Low Vision International (LVI) into the UK. We are one of the oldest companies within the Visual Impairment field today.
+
+Professional Vision Services own a substantial amount of LVI and therefore are in the unique position in the UK of designing and manufacturing products for the visually impaired market. To name one; The Magnilink Student Addition - which won the prestigious education BETT award and is still the only visually impaired product to win this award. Other products such as the Magnilink ZIP evolved from customer consultations and their requests.
+
+All products can be demonstrated free of charge on site throughout the UK by qualified experienced staff. We can offer full installation and training on all products.
+
+Professional Vision Services has a vast experience of the Employment and Education marketplace and can create bespoke solutions for every situation.
+
+## Contact
+
+- Website: [professional-vision-services.co.uk](https://professional-vision-services.co.uk/)
+- Email: [sales@professional-vision-services.co.uk](mailto:sales@professional-vision-services.co.uk)
+- Phone: 01462 420751
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Ray-Ban Meta Glasses
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rayban/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Useful links:
+
+TKA's knowledgebase article
+
+Meta's Ray-Ban page
+
+Ray-ban's page
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Products](https://tka.unremarkable.me/resources/directory/kinds/#products)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# RNIB: Digital Skills Team
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rnib-technology-for-life-team/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+RNIB's Digital Skills team can help with all kinds of requests including information, advice and guidance over the phone, over email or with a volunteer.
+
+We offer a variety of means of support, including group and one-to-one training, technology help in the home and community education.
+
+RNIB’s Digital Skills Team work alongside many others to ensure technology support is available for blind and partially sighted people across the UK; we support, encourage and enable local and national partners, professionals, and the community to deliver technology support around the country.
+
+## Contact
+
+- Website: [rnib.org.uk/living-with-sight-loss/assistive-aids-and-technology/technology-support-and-training/technology-support-we-offer](https://www.rnib.org.uk/living-with-sight-loss/assistive-aids-and-technology/technology-support-and-training/technology-support-we-offer/)
+- Email: [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk)
+- Phone: 0303 123 9999
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Get help at home](https://tka.unremarkable.me/resources/directory/home/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Support at home](https://tka.unremarkable.me/resources/directory/kinds/#support-at-home)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# RNIB: Grants
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rnib-grants/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+RNIB offer grants to registered blind or partially sighted people for useful technology that can help them live independently.
+
+## Contact
+
+- Website: [rnib.org.uk/living-with-sight-loss/money-and-benefits/benefits-concessions-and-grants/grants-from-rnib](https://www.rnib.org.uk/living-with-sight-loss/money-and-benefits/benefits-concessions-and-grants/grants-from-rnib/)
+
+## Listed under
+
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# RNIB: Music Advisory Service
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rnib-music-advisory-service/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The RNIB Music Advisory Service supports people with sight loss in any aspect of making music.
+
+## Contact
+
+- Email: [mas@rnib.org.uk](mailto:mas@rnib.org.uk)
+- Phone: 0303 123 9999
+
+## Listed under
+
+- [Make music](https://tka.unremarkable.me/resources/directory/music/)
+- [Music](https://tka.unremarkable.me/resources/directory/kinds/#music)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# RNIB: Tech Talk Podcast
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rnib-tech-talk-podcast/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Tech Talk is a podcast and radio show for blind and partially sighted people who are interested in accessible technology. Find out about the latest products from specialist equipment to off the shelf solutions.
+
+## Contact
+
+- Website: [audioboom.com/channels/4813993-rnib-tech-talk](https://audioboom.com/channels/4813993-rnib-tech-talk)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# RNIB: Technology for Independent Learning
+
+Canonical page: https://tka.unremarkable.me/resources/directory/rnib-technology-for-independent-learning/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
+
+The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the Curriculum Framework for Children and Young People with Vision Impairment (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this.
+
+## Contact
+
+- Website: [rnib.org.uk/professionals/health-social-care-education-professionals/education-professionals/technology-and-independent-learning](https://www.rnib.org.uk/professionals/health-social-care-education-professionals/education-professionals/technology-and-independent-learning/)
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Royal Society for Blind Children: Assistive Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/royal-society-for-blind-children-assistive-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+For Children and Young People up to the age of 25, this charity can arrange a one to one session for you and your family with their Assistive Technology Officer.
+
+Sessions can take place at their Life Without Limits Centre in London or delivered online. All sessions last between 60 and 90 minutes and can be arranged at a convenient date and time.
+
+## Contact
+
+- Website: [rsbc.org.uk/pages/assistive-technology](https://www.rsbc.org.uk/pages/assistive-technology)
+
+## Listed under
+
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# See My Skills: Breaking the cycle of unemployment for blind and partially sighted people
+
+Canonical page: https://tka.unremarkable.me/resources/directory/see-my-skills-breaking-the-cycle-of-unemployment-for-blind-and-partially-sighted-people/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This report by The Vision Foundation sets out a roadmap to ensure that everyone, sighted or blind, has the chance to enjoy the independence, purpose and meaning that employment can bring.
+
+“Blind and partially sighted people do the vast majority of the jobs that sighted people do. They might do them a little differently – using specialist technology or admin support – but they do them successfully ” says Dr Olivia Curno, Chief Executive, Vision Foundation. In my role I’ve worked alongside blind or partially sighted politicians, journalists, lawyers, presenters, teachers, fundraisers, professors, artists, authors, actors, bankers, CEOs, entrepreneurs and chefs. But these success stories are far too few. In fact, if you’re a blind adult of working age in the UK, there is only a 1 in 4 chance that you’re working. That means that over 300,000 blind and partially sighted people are currently excluded from the workplace.
+
+The lack of understanding about visual impairment by employers and Jobcentre Plus staff are major barriers to employment. The research highlighted the importance of working with employers and service providers to educate them to overcome negative attitudes.
+
+The research also highlighted the importance of individual assessments to identify the support required and bespoke programmes to enable their participation in the labour market. This might include, for example, support to develop key skills (such as mobility and orientation or computer skills), counselling to help in acceptance of their visual impairment or support to develop self- advocacy skills.
+
+Published July 2021.
+
+Download (pdf 1,010.83 KB)
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight & Sound Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-sound-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Sight and Sound Technology is an accredited training provider with resources across the UK and Ireland.
+
+We are experts in supplying and supporting assistive technology – software and hardware – designed for use by those with sight loss, to help them in keep independence and help in their everyday lives, be that work, education, round the home or out and about.
+
+We provide training in sessions of 1, 2 or 3 hour blocks, depending upon location and the individual’s requirement. We are considerate of pace and IT experience and tailor the sessions to fit the user, incorporating their everyday needs into the design of the sessions.
+
+Some examples of the assistive technology we train on are:
+
+- Computer software for the visually impaired such as JAWS, ZoomText, Fusion and Supernova
+
+- Braille and Blindness technology such as Notetakers, Braille displays and Braille learning devices such as Mountbatten
+
+- The latest technology for low vision such as OrCam, Envision glasses.
+
+We are expert in training for any age, from School right up to those happily retired!
+
+## Contact
+
+- Website: [sightandsound.co.uk](https://www.sightandsound.co.uk)
+- Email: [info@sightandsound.co.uk](mailto:info@sightandsound.co.uk)
+- Phone: 01604 798070
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight City
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-city/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+SightCity Frankfurt claims to be the world’s largest trade fair for aids and solutions for the blind and visually impaired. Every year, Kap Europa in Frankfurt becomes an international center for innovation, inclusion and progress. As a hybrid event, SightCity combines digital and on-site formats, providing a first-class platform for experts, those affected and interested parties.
+
+## Contact
+
+- Website: [sightcity.net/en/home](https://sightcity.net/en/home/)
+
+## Listed under
+
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)
+- [Events](https://tka.unremarkable.me/resources/directory/kinds/#events)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight for Surrey Technology Training Resources
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-for-surry-technology-training-resources/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Please find below a link which takes you to the ICT Handouts and Tutorials page of the Sight For Surrey website. Here, you will find a wide range of documents, many of which pertain to JAWS with Office applications and VoiceOver on an iPhone.
+
+## Contact
+
+- Website: [sightforsurrey.org.uk/get-help/vision-impairment/technology-and-equipment/ict-handouts-tutorials](https://sightforsurrey.org.uk/get-help/vision-impairment/technology-and-equipment/ict-handouts-tutorials/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight Loss and Technology Briefing Report, 2024
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-loss-and-technology-briefing-report-2024/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of. It brings together existing evidence on the role and uptake of technology and digital by blind and partially sighted people. Details of the sector partners can be found at the end of the briefing.
+
+Download (pdf 1.05 MB)
+
+## Contact
+
+- Website: [rnib.org.uk/professionals/health-social-care-education-professionals/knowledge-and-research-hub/reports-and-insight/sight-loss-and-technology](https://www.rnib.org.uk/professionals/health-social-care-education-professionals/knowledge-and-research-hub/reports-and-insight/sight-loss-and-technology/)
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight Tech Global
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-tech-global/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Sight Tech Global is a world-wide, virtual conference dedicated to highlighting technology's power to transform lives for people living with vision loss around the world by bringing together the pioneers who are applying the latest technology advances to barrier-free navigation, human interaction, and low-friction access to information for people who are blind or visually impaired.
+
+## Contact
+
+- Website: [sighttechglobal.com](https://sighttechglobal.com/)
+
+## Listed under
+
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)
+- [Events](https://tka.unremarkable.me/resources/directory/kinds/#events)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sight Village
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sight-village/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’. Each year thousands of people visit our events to find out at first hand the latest technology, products and support services available including:
+
+- Audio equipment and services
+
+- Braille equipment and services
+
+- CCTV / Magnification
+
+- Computers
+
+- Daily living equipment
+
+- Education and training
+
+- Information and support services
+
+- Leisure services
+
+- Low vision aids
+
+- Mobility aids
+
+- Peripherals
+
+- Screen enlargers / readers
+
+## Contact
+
+- Website: [qac.ac.uk/exhibitions.htm](https://www.qac.ac.uk/exhibitions.htm)
+- Email: [sv@qac.ac.uk](mailto:sv@qac.ac.uk)
+- Phone: 0121 803 5313
+
+## Listed under
+
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)
+- [Events](https://tka.unremarkable.me/resources/directory/kinds/#events)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Sound Without Sight
+
+Canonical page: https://tka.unremarkable.me/resources/directory/sound-without-sight/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Sound Without Sight is a new non-profit initiative, aimed at supporting sight-impaired people in the fields of audio and music. We will showcase blind and partially sighted talent, highlight how accessibility barriers can be overcome, combine collective knowledge, and challenge stereotypes.
+
+We will support the blind and partially sighted community to access:
+
+- Audio production: recording, editing, mixing, etc.
+
+- Music notation: reading and composing, obtaining accessible scores, screen access technologies, etc.
+
+- Performance: instrumental, vocal, speech; individual or group; beginner or professional.
+
+## Contact
+
+- Website: [soundwithoutsight.org](https://soundwithoutsight.org/)
+
+## Listed under
+
+- [Make music](https://tka.unremarkable.me/resources/directory/music/)
+- [Music](https://tka.unremarkable.me/resources/directory/kinds/#music)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Taira Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/taira-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Taira Technology is a family run business that helps blind and visually impaired individuals and organisations with every aspect of technology. We offer many products and services to assist people living with sight loss.
+
+We are pleased to offer technical support, training and a health check service to solve any problems you may have with your computer/device (where necessary). Many problems can be solved remotely over the phone/internet in the comfort of your own home.
+
+Some examples of tasks we can help with include assistance with using a new program or device, or helping you to complete common tasks that require sighted assistance, such as online shopping, learning how to use a new device and much more! We can provide training on Windows, MacOS, Android, iOS and Linux platforms. We have jaws and NVDA accredited trainers in house. If you are thinking of starting a website, we can also offer training on WordPress, Drupal and various online content management systems. Please don’t hesitate to contact us. We are very friendly and approachable.
+
+## Contact
+
+- Website: [tairatech.com](http://www.tairatech.com)
+- Email: [contact@tairatech.com](mailto:contact@tairatech.com)
+- Phone: 0343 2897501
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Trainers](https://tka.unremarkable.me/resources/directory/kinds/#trainers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Talent and Technology Report
+
+Canonical page: https://tka.unremarkable.me/resources/directory/talent-and-technology-report/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The report was produced by Policy Connect on behalf of the The All-Party Parliamentary Group for Assistive Technology. It recognises the enormous potential of assistive technology to ensure access to work for disabled people. “The inquiry has seen first-hand its powerful benefits, with examples including a visually-impaired person using a screen reader to access a recruiting site, a person with Muscular Dystrophy using a mouth stick to navigate an application form, and an autistic person using a specialised app to help them travel to an interview.
+
+Unfortunately, it has also heard difficult stories of disabled people unable to look for and obtain work, due to inaccessible technologies, poor digital practices by organisations, and a lack of skills. Disabled people are repeatedly shut out of the very schemes designed to offer a starting point in careers, such as apprenticeships or employment support through the job centre.
+
+The pandemic has changed the way we work and thereby shone an even brighter light on existing digital inequalities. Urgent action is required to ensure the future world of work is accessible to all.
+
+It is against this background that this report makes recommendations to government, education providers and employers – on how to ensure the world of work is accessible to everyone.
+
+1. The Government should appoint and empower a National Assistive Technology Champion.
+
+2A. Education providers should ensure careers education, information, advice and guidance (CEIAG) and disability support and guidance is joined-up so that education leavers know how to access AT and support to enable their transition into employment.
+
+2B. The DfE should produce and promote guidance and resources for education providers on assistive technology and workplaces and preparing for employment.
+
+3. The DfE and DWP should collaborate to ensure that disabled people on work placements/traineeships/apprenticeships are able to use assistive technology from Day One of their placements.
+
+4A. The government should take advantage of existing JobCentre Plus (JCP) structures to identify and remove digital barriers to employment for JCP customers.
+
+4B. The DWP should recognise digital access as a key enabler of employment for all customers, including those who are disabled.
+
+5A. The government should improve targeting of disability support schemes to employers and employees who need them most.
+
+5B. The government should take advantage of existing networks, such as Disability Confident, to skill up employers on digital accessibility and inclusive recruitment practices
+
+5C. Employers should ensure their recruitment and on-boarding practices are digitally accessible and inclusive by following guidance produced by Disability Confident Leaders.
+
+6. The government should measure the success of Access to Work’s grants according to the impact on customers.”
+
+Published July 2021
+
+Download (pdf 1.11 MB)
+
+## Contact
+
+No contact details yet.
+
+## Listed under
+
+- [Read research and reports](https://tka.unremarkable.me/resources/directory/research/)
+- [Research](https://tka.unremarkable.me/resources/directory/kinds/#research)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Talking Technology with VI Labs
+
+Canonical page: https://tka.unremarkable.me/resources/directory/talking-technology-with-vi-labs/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This podcast focuses on technology that supports people who are blind and visually impaired. Our panel of IT Trainers and guest panellists discuss all the latest in mainstream and inclusive technology in a fun and informative manner. V I Labs is the technology function within Vision Ireland, the national sight loss agency in Ireland.
+
+## Contact
+
+- Website: [buzzsprout.com/981793](https://www.buzzsprout.com/981793)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Tech Selector - hosted by Guide Dogs
+
+Canonical page: https://tka.unremarkable.me/resources/directory/tech-selector-hosted-by-guide-dogs/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Technology is a huge part of our everyday lives. But sometimes it can be hard to know where to start or which product is best. The Tech selector is here to help you identify the right mainstream and assistive tech for you. Our reviews have been created by experts from across the sight loss sector so you can find technology to suit your budget, skill level and your own vision impairment.
+
+## Contact
+
+- Website: [guidedogs.org.uk/getting-support/information-and-advice/how-can-technology-help-me/tech-selector](https://www.guidedogs.org.uk/getting-support/information-and-advice/how-can-technology-help-me/tech-selector/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# TechShare Pro
+
+Canonical page: https://tka.unremarkable.me/resources/directory/techshare-pro/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+AbilityNet’s annual TechShare Pro conference gathers the community of people who are creating a digital world accessible to all:
+
+Accessibility professionals and digital inclusion specialists.
+
+People with disabilities from all walks of life.
+
+Global tech companies and other businesses.
+
+Accessibility champions and allies
+
+Decision-makers and influencers in business,
+
+government, and NGOs. ​​
+
+Panellists and delegated from UK, Europe, US, Africa, Asia and Australasia.
+
+## Contact
+
+- Website: [abilitynet.org.uk/techsharepro](https://abilitynet.org.uk/techsharepro)
+
+## Listed under
+
+- [Go to an event](https://tka.unremarkable.me/resources/directory/meet/)
+- [Events](https://tka.unremarkable.me/resources/directory/kinds/#events)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Tek Talk by Accessible World
+
+Canonical page: https://tka.unremarkable.me/resources/directory/tek-talk-by-accessible-world/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+For well over 20 years, Tek Talk has hosted weekly audio presentations on new software, products and tools for blind and visually impaired people across the world.
+
+## Contact
+
+- Website: [accessibleworld.org/series/tektalk](https://www.accessibleworld.org/series/tektalk/)
+
+## Listed under
+
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# The Powell Family Foundation (TPFF)
+
+Canonical page: https://tka.unremarkable.me/resources/directory/powell-family-foundation/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+The aim of The Powell Family Foundation is to support vision impaired children, young people and adults aged 25 and under, to improve their emotional and physical well-being, increase their knowledge and skills, and support their independence through the provision of grants to individuals and charitable organisations.
+
+## Contact
+
+- Website: [tpff.org.uk](https://tpff.org.uk/)
+
+## Listed under
+
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Thomas Pocklington Trust: Education Technology
+
+Canonical page: https://tka.unremarkable.me/resources/directory/thomas-pocklington-trust-education-technology/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+Whether you’re at school, college or university, technology plays a vital role in your education. As a blind or partially sighted student, the right tech can transform the way you access your learning and super-charge your ability to thrive, not just in your studies, but also in your future career.
+
+Knowing what technology is out there, how it can help you and how to use it can be a game-changer; empowering you to learn in a way which is easier, more productive and works for you. This will help you to be more independent, able to overcome the challenges ahead and get to where you want to be in your life.
+
+The good news is, there is a lot of great tech out there which can help. These products, tools and features are often known as accessible or assistive technology.
+
+We understand it can be difficult to know where to start, what tech is right for you and how to get using it. But there’s no need to worry, we have put together a range of helpful guides and resources to help!
+
+The important thing to remember is, exploring and trying out new technology can often take a little getting used to. Learning how the tech works and putting in some practice can make all the difference. So, have an open mind and give things a go!
+
+## Contact
+
+- Website: [pocklington.org.uk/education/technology-education](https://www.pocklington.org.uk/education/technology-education/)
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Learn to use technology](https://tka.unremarkable.me/resources/directory/learn/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Online resources](https://tka.unremarkable.me/resources/directory/kinds/#online-resources)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# TripleTapTech
+
+Canonical page: https://tka.unremarkable.me/resources/directory/tripletaptech/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+TripleTapTech is a dedicated resource for individuals with visual impairments, providing expert advice, support, and training on all things technology. We believe that technology should be accessible to everyone, and we’re committed to helping you harness its power to enhance your independence and quality of life. They can provide one to to one training online or over the phone, through their helpline or via pre-arranged home visits.
+
+## Contact
+
+- Website: [tripletaptech.org](https://tripletaptech.org/)
+- Email: [Info@TripleTapTech.org](mailto:Info@TripleTapTech.org)
+- Phone: 0780 5353 149
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Get help at home](https://tka.unremarkable.me/resources/directory/home/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Support at home](https://tka.unremarkable.me/resources/directory/kinds/#support-at-home)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# UKAAF (UK Association for Accessible Formats)
+
+Canonical page: https://tka.unremarkable.me/resources/directory/ukaaf-uk-association-for-accessible-formats/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+TKA is a Sponsoring Member of UKAAF, the industry association that sets standards and promotes best practice for accessible documents in the UK.
+
+They help organisations understand how to meet the needs of customers and clients with print impairments, and how to source and provide quality accessible documents.
+
+## Contact
+
+- Website: [ukaaf.org](https://www.ukaaf.org/)
+
+## Listed under
+
+- [Work or study in technology](https://tka.unremarkable.me/resources/directory/work/)
+- [Professional bodies](https://tka.unremarkable.me/resources/directory/kinds/#professional-bodies)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# VICTA grant scheme for children and young adults
+
+Canonical page: https://tka.unremarkable.me/resources/directory/victa-grant-scheme-for-children-and-young-adults/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+For visually impaired children and young people aged 8 to 29, VICTA can provide grants for laptops, software and items for independent living for home use.
+
+## Contact
+
+- Website: [victa.org.uk/grants](https://www.victa.org.uk/grants/)
+- Email: [grants@victa.org.uk](mailto:grants@victa.org.uk)
+- Phone: 01908 240 831
+
+## Listed under
+
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Find a grant to pay for it](https://tka.unremarkable.me/resources/directory/pay/)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Grants](https://tka.unremarkable.me/resources/directory/kinds/#grants)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# Visably
+
+Canonical page: https://tka.unremarkable.me/resources/directory/visably/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+This charity (previously known as British Wireless for the Blind Fund) provides audio devices, radios and audiobook players to visually impaired adults and children for free. They also provide support, tips and guides to make the most out of technology and access to information.
+
+## Contact
+
+- Website: [visably.org.uk](https://www.visably.org.uk/)
+- Email: [hello@visably.org.uk](mailto:hello@visably.org.uk)
+- Phone: 01622754757
+
+## Listed under
+
+- [Get advice](https://tka.unremarkable.me/resources/directory/advice/)
+- [Help a child or young person](https://tka.unremarkable.me/resources/directory/young/)
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Advice services](https://tka.unremarkable.me/resources/directory/kinds/#advice-service)
+- [Children and young people](https://tka.unremarkable.me/resources/directory/kinds/#children-young-people)
+- [Products](https://tka.unremarkable.me/resources/directory/kinds/#products)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)
+
+
+---
+
+# VisionAid Technologies
+
+Canonical page: https://tka.unremarkable.me/resources/directory/visionaid-technologies/
+
+> **Preview.** This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up.
+
+VisionAid Technologies Ltd is a family owned &amp; run business who have been providing solutions to assist partially sighted &amp; blind people since 1996.
+
+We have grown to become one of the largest specialist low vision &amp; blindness product suppliers in the UK. Our range of over 1,000 products are carefully tested &amp; selected from over 100 manufacturers around the world.
+
+We pride ourselves on listening to every individual’s specific requirements &amp; understand selecting the best product can seem a daunting task. That’s where our team's 175 years of combined experience, expert advice &amp; completely free, no obligation in-person demonstrations may help, wherever you are located in the UK (free demonstrations are available on most products).
+
+## Contact
+
+- Website: [visionaid.co.uk](https://www.visionaid.co.uk/)
+- Email: [info@visionaid.co.uk](mailto:info@visionaid.co.uk)
+- Phone: 0800 0025555
+
+## Listed under
+
+- [Buy equipment or software](https://tka.unremarkable.me/resources/directory/buy/)
+- [Retailers](https://tka.unremarkable.me/resources/directory/kinds/#retailers)
+
+These details have not been checked since they were copied from the old directory.
+
+[Back to the directory](https://tka.unremarkable.me/resources/directory/)

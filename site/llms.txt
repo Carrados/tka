@@ -22,6 +22,7 @@ While this is a preview, it is not indexed for search and not offered for traini
 - [About us](https://tka.unremarkable.me/about-us/): Who The Talking Kettle Association is, what it does, its history since 1969, and how it is run. Markdown: https://tka.unremarkable.me/about-us/index.md
 - [Contact us](https://tka.unremarkable.me/about-us/contact/): How to contact The Talking Kettle Association. Markdown: https://tka.unremarkable.me/about-us/contact/index.md
 - [Accessibility statement](https://tka.unremarkable.me/accessibility/): How this site is built, what has been checked, what has not yet, and how to report a problem. Markdown: https://tka.unremarkable.me/accessibility/index.md
+- [Directory of services](https://tka.unremarkable.me/resources/directory/): Organisations and resources that help blind and partially sighted people get the most out of technology, by what you want to do. Markdown: https://tka.unremarkable.me/resources/directory/index.md
 
 ## Optional
 
