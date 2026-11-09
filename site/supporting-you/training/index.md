@@ -36,7 +36,7 @@ Training can cover screen readers or magnification with Microsoft Outlook, Excel
 
 ## Ask about training
 
-Email [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call [020 7946 0321](tel:+442079460321) and leave a message.
+Email [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call 020 7946 0321 and leave a message.
 
 ---
 

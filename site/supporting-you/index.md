@@ -21,7 +21,7 @@ We provide advice, support and training for our members and for other blind and 
 
 ## Help when you're stuck
 
-Email us at [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call our helpline on [020 7946 0321](tel:+442079460321) and leave a message. We'll get back to you within 48 hours.
+Email us at [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call our helpline on 020 7946 0321 and leave a message. We'll get back to you within 48 hours.
 
 ## Email discussion list
 

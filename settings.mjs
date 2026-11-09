@@ -7,7 +7,8 @@ export const settings = {
   ORIGIN: 'https://tka.unremarkable.me',
   EMAIL: 'hello@tka.unremarkable.me',
   PHONE: '020 7946 0321',
-  PHONE_LINK: '+442079460321',
+  // Leave PHONE_LINK empty while the number is invented: a real number becomes tap-to-call.
+  PHONE_LINK: '',
   OFFICE: 'Edinburgh',
   FOUNDED: '1969',
   OLD_NAME: 'The British Typewriter Club for the Blind',

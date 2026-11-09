@@ -17,6 +17,8 @@ function fill(text) {
     return S[k];
   });
 }
+// The phone number: a tap-to-call link only when there is a real line behind it.
+S.PHONE_HTML = S.PHONE_LINK ? `<a href="tel:${S.PHONE_LINK}">${S.PHONE}</a>` : S.PHONE;
 const read = p => fill(readFileSync(p, 'utf8'));
 
 const pages = [
@@ -91,7 +93,7 @@ ${p.hidden ? '' : `<link rel="alternate" type="text/markdown" href="${p.path}ind
 <header>
 <div class="bar">
 ${isHome ? `<p class="logo">${logoInner}</p>` : `<p class="logo"><a href="/">${logoInner}</a></p>`}
-<p class="call">Helpline <a href="tel:${S.PHONE_LINK}">${S.PHONE}</a></p>
+<p class="call">Helpline ${S.PHONE_HTML}</p>
 </div>
 <nav aria-label="Main">
 <ul>
@@ -107,7 +109,7 @@ ${previewHtml}${main}
 <div class="org">
 <p class="org-name">${S.NAME}</p>
 <p>Email <a href="mailto:${S.EMAIL}">${S.EMAIL}</a></p>
-<p>Helpline <a href="tel:${S.PHONE_LINK}">${S.PHONE}</a>, leave a message and we'll reply within 48 hours</p>
+<p>Helpline ${S.PHONE_HTML}, leave a message and we'll reply within 48 hours</p>
 </div>
 <p class="credit">This site is <a href="${UNREMARKABLE}">Unremarkable</a><br>
 <a href="${UNREMARKABLE}fix/?page=${encodeURIComponent(url)}">Fix something on this page</a></p>

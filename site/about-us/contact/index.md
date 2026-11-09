@@ -20,7 +20,7 @@ Menu:
 If you would like to talk about how we can help you, please get in touch.
 
 - Email: [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me)
-- Helpline: [020 7946 0321](tel:+442079460321) (leave a message, and we'll get back to you within 48 hours)
+- Helpline: 020 7946 0321 (leave a message, and we'll get back to you within 48 hours)
 
 Our registered office is in Edinburgh, but our team works remotely and we support people across the UK.
 

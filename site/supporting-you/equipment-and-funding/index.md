@@ -19,7 +19,7 @@ Menu:
 
 If you need advice on using technology, or on organisations that provide free equipment and grants for it, we can help.
 
-Email [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call [020 7946 0321](tel:+442079460321) and leave a message.
+Email [hello@tka.unremarkable.me](mailto:hello@tka.unremarkable.me), or call 020 7946 0321 and leave a message.
 
 ## Two schemes that have joined us
 
