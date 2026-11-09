@@ -105,7 +105,21 @@ For members getting ready for paid work, volunteering or work experience. It hel
 1. **An assessment.** We find out the kind of work you are looking for and the IT skills you already have, and agree a learning plan.
 2. **Setting up.** We suggest the software or hardware likely to help most. We can connect to your laptop or PC remotely to install and configure it, and tell you about trusted suppliers if you need to buy anything.
 3. **Five one-hour sessions**, usually a week apart, to build skills and confidence, with tasks between sessions if they help.
-4. **A follow-up** a few weeks later, for anything you still need help with, and our recommendations for learning on your own.
+4. **A follow-up** a few weeks later, for anything you still need help with, and our recommendations for learning on your own and for equipment that might help at work.
+
+Depending on your goals, it can cover the access features built into Windows and Microsoft Office, screen readers such as JAWS or NVDA, Microsoft Office, Zoom and Microsoft Teams, web browsing, and Apple and Android phones and their apps. It is normally delivered online, on Zoom.
+
+### Who it suits
+
+We are flexible, but you are likely to get the most from this course if you:
+
+- have already had some pre-employment support or careers advice, such as help with your CV, interviews or job searching
+- have a laptop or PC running Windows 10 or 11
+- have good keyboard skills, especially for learning a screen reader (if not, we can suggest exercises to build them first)
+- are 18 or over
+- are a member: [joining is free](https://tka.unremarkable.me/membership/)
+
+If that isn't you yet but you are keen to improve your skills, get in touch anyway, and we will see what advice or support we can offer.
 
 ## Technology for Learning
 
@@ -386,6 +400,8 @@ It is built to [Zero Information Casualty version 1.7](https://zeroinformationca
 - **9 November 2026: "Preview" said twice.** The preview note was a landmark named Preview that began with the word Preview, so NVDA read the word twice. It is now a plain note.
 - **9 November 2026: bullets read aloud.** In ordinary bulleted lists, NVDA read the bullet character before each item. The bullets are now drawn by the stylesheet and hidden from screen readers.
 - **9 November 2026: a comma after a link.** "The whole directory as data, for agents" was read with the comma on its own. The line was rewritten so the link comes last.
+- **9 November 2026: headings that skipped a level.** On the News and Events pages, the stories and events were level 3 headings straight under the main heading. They are now level 2. Found in a review by another AI, Codex.
+- **9 November 2026: links lost from the directory.** When the directory was moved over, the links inside entries were dropped, so some entries, such as the smart glasses, had nowhere to go. Eleven links to other organisations are back. Seven links to the charity's own pages and documents are marked as linked in the finished site. Found in the same review.
 - **9 November 2026: no sign of where you are.** Inside a section, such as the directory inside Resources, the menu now says that section is current.
 
 ## Known issues
@@ -1057,11 +1073,8 @@ AbilityNet is a UK-based charity with a global reach - our vision is a digital w
 We’ve been helping older people and disabled people of any age with their technology for 25 years. Could we help you or someone you know?
 
 - We have a network of more than 450 friendly tech volunteers who can help you or someone you are supporting. They can come to your home, or help you on the phone.
-
 - If you are older or disabled, or if you support someone that is, you can call our helpline for independent advice from a technology expert.
-
 - If you're over 65 years of age and looking to build your digital skills, we offer free digital skills sessions in areas in and around London, Birmingham, Manchester, Edinburgh, and Cardiff.
-
 - Our free information resources provide expert information about disability and technology.
 
 ## Contact
@@ -1402,17 +1415,13 @@ BlindAid grants are:
 Subject to criteria, and considered by our grant committee
 
 - Typically up to £400
-
 - Applied for on behalf of the recipient by Social Services, Sensory Teams or other Charities/statutory services.
 
 Grants can be used in many ways, including but not limited to:
 
 - Equipment and gadgets, including colour detectors, talking microwaves etc.
-
 - White Goods
-
 - Accessible computers/laptops
-
 - Domestic items
 
 Please be aware that we can only accept grant applications made by an employee of a statutory organisation or registered charity.
@@ -1499,15 +1508,13 @@ Children not only learn basic programming concepts, such as sequence, iteration,
 
 Most important, any teacher can facilitate Code Jumper lessons without prior computer science experience, and Code Jumper is inclusive of all children across the vision spectrum.
 
-APH is pleased to announce that we will be partnering with HumanWare to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.
+APH is pleased to announce that we will be partnering with [HumanWare](http://www.humanware.com/) to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.
 
 We are also pleased to partner with the following organizations in the promotion and sale of Code Jumper internationally:
 
-- Australia: Vision Australia Vision Australia: Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: Vision Store
-
-- Canada: CNIB Foundation: CNIB
-
-- UK: The Royal National Institute of Blind People (RNIB) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their online shop.
+- Australia: Vision Australia [Vision Australia](https://www.visionaustralia.org/): Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: [Vision Store](https://shop.visionaustralia.org/)
+- Canada: CNIB Foundation: [CNIB](https://www.cnib.ca/en?region=gta)
+- UK: The [Royal National Institute of Blind People (RNIB)](https://www.rnib.org.uk/) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their [online shop](https://shop.rnib.org.uk/).
 
 ## Contact
 
@@ -1609,14 +1616,12 @@ ATech is already a valued and common form of workplace adjustment, and as Connec
 Connect to Success sets out three recommendations for the Government to improve access to employment for disabled jobseekers by incorporating ATech into employment services:
 
 - ATech should be part of the everyday delivery of the new jobs and careers service and be incorporated into local Get Britain Working Plans, including local Connect to Work schemes. Employment support clients should be helped to explore what ATech is right for them and begin using the technology, gaining skills and confidence with it, even before they secure paid work.
-
 - Government should partner with the tech and disability sectors to establish a national Centre for ATech, whose role would include (i) providing strategic guidance to employment support service leaders and (ii) upskilling frontline professionals.
-
 - Special Educational Needs and Disabilities (SEND) and post-16 essential skills provision should recognise ATech as a core employability and life skill for disabled people. ATech should be incorporated in all relevant standards and frameworks related to preparation for adulthood (PfA) SEND provision, and within any proposed National Standards for Personal, Social and Employability Qualifications.
 
-“Connect to Success is a vital and timely contribution to ongoing discussions about employment and the need to ensure more people can enter and thrive in work. The report convincingly outlines the case for reforming employment support services with greater incorporation of technology to break down persistent barriers to employment for disabled people. Assistive and accessible technology (ATech) is already a valued and common form of workplace adjustment, and I hope very much the Government will seize the opportunity of its new Connect to Work scheme to expand access to this technology. By reducing barriers to accessing ATech and developing skills and confidence in its use, employment support services will be better placed to help their disabled clients secure paid work and build successful careers. It’s fantastic that Sir Stephen has made time during the Parliamentary Recess to address this launch event, and I look forward to working with colleagues in Parliament and the wider sector to help ensure ATech becomes an integral part of employment support delivery.” – Lord Shinkwin, All-Party Parliamentary Group for Assistive and Accessible Technology (APPGAT).
+“Connect to Success is a vital and timely contribution to ongoing discussions about employment and the need to ensure more people can enter and thrive in work. The report convincingly outlines the case for reforming employment support services with greater incorporation of technology to break down persistent barriers to employment for disabled people. Assistive and accessible technology (ATech) is already a valued and common form of workplace adjustment, and I hope very much the Government will seize the opportunity of its new Connect to Work scheme to expand access to this technology. By reducing barriers to accessing ATech and developing skills and confidence in its use, employment support services will be better placed to help their disabled clients secure paid work and build successful careers. It’s fantastic that Sir Stephen has made time during the Parliamentary Recess to address this launch event, and I look forward to working with colleagues in Parliament and the wider sector to help ensure ATech becomes an integral part of employment support delivery.” – [Lord Shinkwin](https://www.policyconnect.org.uk/people/lord-shinkwin), All-Party Parliamentary Group for Assistive and Accessible Technology (APPGAT).
 
-Download (docx 384.31 KB)
+The document (Word 384.31 KB) will be linked here in the finished site.
 
 ## Contact
 
@@ -1783,7 +1788,7 @@ The age at which someone experiences sight loss influences the challenges they f
 
 Published 2020.
 
-Download (docx 82.79 KB)
+The document (Word 82.79 KB) will be linked here in the finished site.
 
 ## Contact
 
@@ -1883,7 +1888,7 @@ Trials of the employment assessment toolkit and innovative support strategies pr
 
 The new employment assessment toolkit is helping the RNIB group of charities to re-model the way it delivers pre-employment support with blind and partially sighted people. Designed to assess the particular issues faced by blind and partially sighted people, it serves as a diagnostic tool and is useful for planning the steps required to progress towards work. The RNIB group of charities is embedding the employment assessment toolkit as part of our support to working-age people. Our use of this standardised assessment model means that our pre-employment support for blind and partially sighted people will be even more closely aligned to the specific needs of those we support.
 
-Download (pdf 1.03 MB)
+The document (PDF 1.03 MB) will be linked here in the finished site.
 
 ## Contact
 
@@ -1959,7 +1964,7 @@ This group provides NVDA users different things, add-ons, NVDA versions, discuss
 
 As well as this NVDA supports many languages, including Arabic, Spanish, English, Chinese and another languages. I would advise you to visit their website to know about them if you are a new NVDA user.
 
-http://www.nvaccess.org/
+[http://www.nvaccess.org/](http://www.nvaccess.org/?fbclid=IwZXh0bgNhZW0CMTAAAR1SN0Jh-w80firkhvip2vjJwwkQ63E4P_OO0GQ7tznQII47irH0jzx50QE_aem_ZmFrZWR1bW15MTZieXRlcw)
 
 ## Contact
 
@@ -2479,11 +2484,11 @@ Canonical page: https://tka.unremarkable.me/resources/directory/rayban/
 
 Useful links:
 
-TKA's knowledgebase article
+TKA's knowledgebase article (linked in the finished site)
 
-Meta's Ray-Ban page
+[Meta's Ray-Ban page](https://www.meta.com/gb/ai-glasses/)
 
-Ray-ban's page
+[Ray-ban's page](https://www.ray-ban.com/uk/ray-ban-meta-smart-glasses)
 
 ## Contact
 
@@ -2620,7 +2625,7 @@ Canonical page: https://tka.unremarkable.me/resources/directory/rnib-technology-
 
 The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
 
-The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the Curriculum Framework for Children and Young People with Vision Impairment (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this.
+The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the [Curriculum Framework for Children and Young People with Vision Impairment](https://www.rnib.org.uk/professionals/health-social-care-education-professionals/education-professionals/curriculum-framework-for-children-and-young-people-with-vision-impairment/) (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this.
 
 ## Contact
 
@@ -2684,7 +2689,7 @@ The research also highlighted the importance of individual assessments to identi
 
 Published July 2021.
 
-Download (pdf 1,010.83 KB)
+The document (PDF 1,010.83 KB) will be linked here in the finished site.
 
 ## Contact
 
@@ -2717,9 +2722,7 @@ We provide training in sessions of 1, 2 or 3 hour blocks, depending upon locatio
 Some examples of the assistive technology we train on are:
 
 - Computer software for the visually impaired such as JAWS, ZoomText, Fusion and Supernova
-
 - Braille and Blindness technology such as Notetakers, Braille displays and Braille learning devices such as Mountbatten
-
 - The latest technology for low vision such as OrCam, Envision glasses.
 
 We are expert in training for any age, from School right up to those happily retired!
@@ -2800,7 +2803,7 @@ Canonical page: https://tka.unremarkable.me/resources/directory/sight-loss-and-t
 
 This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of. It brings together existing evidence on the role and uptake of technology and digital by blind and partially sighted people. Details of the sector partners can be found at the end of the briefing.
 
-Download (pdf 1.05 MB)
+The document (PDF 1.05 MB) will be linked here in the finished site.
 
 ## Contact
 
@@ -2851,27 +2854,16 @@ Canonical page: https://tka.unremarkable.me/resources/directory/sight-village/
 Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’. Each year thousands of people visit our events to find out at first hand the latest technology, products and support services available including:
 
 - Audio equipment and services
-
 - Braille equipment and services
-
 - CCTV / Magnification
-
 - Computers
-
 - Daily living equipment
-
 - Education and training
-
 - Information and support services
-
 - Leisure services
-
 - Low vision aids
-
 - Mobility aids
-
 - Peripherals
-
 - Screen enlargers / readers
 
 ## Contact
@@ -2903,9 +2895,7 @@ Sound Without Sight is a new non-profit initiative, aimed at supporting sight-im
 We will support the blind and partially sighted community to access:
 
 - Audio production: recording, editing, mixing, etc.
-
 - Music notation: reading and composing, obtaining accessible scores, screen access technologies, etc.
-
 - Performance: instrumental, vocal, speech; individual or group; beginner or professional.
 
 ## Contact
@@ -2990,7 +2980,7 @@ It is against this background that this report makes recommendations to governme
 
 Published July 2021
 
-Download (pdf 1.11 MB)
+The document (PDF 1.11 MB) will be linked here in the finished site.
 
 ## Contact
 

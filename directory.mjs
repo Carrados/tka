@@ -5,7 +5,26 @@ import { readFileSync } from 'node:fs';
 
 const BASE = '/resources/directory/';
 const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-const firstSentence = s => (s.match(/^.*?[.!?](?=\s|$)/) || [s])[0];
+// Descriptions keep their links as [text](url). Summaries show the words only; entry pages show the links.
+const LINK = /\[([^\]]+)\]\(([^)\s]+)\)/g;
+const plain = s => s.replace(LINK, '$1');
+function inline(s) {
+  let out = '', last = 0;
+  for (const m of s.matchAll(LINK)) {
+    out += esc(s.slice(last, m.index)) + `<a href="${esc(m[2])}">${esc(m[1])}</a>`;
+    last = m.index + m[0].length;
+  }
+  return out + esc(s.slice(last));
+}
+// Lines starting "- " become a list; everything else is a paragraph.
+function describe(lines) {
+  const out = []; let list = [];
+  const flush = () => { if (list.length) { out.push(`<ul>\n${list.map(l => `<li>${inline(l)}</li>`).join('\n')}\n</ul>`); list = []; } };
+  for (const l of lines) { if (l.startsWith('- ')) list.push(l.slice(2)); else { flush(); out.push(`<p>${inline(l)}</p>`); } }
+  flush();
+  return out.join('\n');
+}
+const firstSentence = s => (plain(s).match(/^.*?[.!?](?=\s|$)/) || [plain(s)])[0];
 const byName = (a, b) => a.name.localeCompare(b.name, 'en-GB', { sensitivity: 'base' });
 
 export function directoryPages(fill) {
@@ -89,7 +108,7 @@ ${ways}`,
     pages.push({
       path: `${BASE}${e.slug}/`, h1: e.name,
       description: esc(firstSentence(e.description[0] || e.name)),
-      html: `${e.description.map(p => `<p>${esc(p)}</p>`).join('\n')}
+      html: `${describe(e.description)}
 <h2 id="contact">Contact</h2>
 ${contact.length ? `<ul>\n${contact.join('\n')}\n</ul>` : '<p>No contact details yet.</p>'}
 <h2 id="listed-under">Listed under</h2>

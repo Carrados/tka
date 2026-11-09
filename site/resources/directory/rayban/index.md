@@ -19,11 +19,11 @@ Menu:
 
 Useful links:
 
-TKA's knowledgebase article
+TKA's knowledgebase article (linked in the finished site)
 
-Meta's Ray-Ban page
+[Meta's Ray-Ban page](https://www.meta.com/gb/ai-glasses/)
 
-Ray-ban's page
+[Ray-ban's page](https://www.ray-ban.com/uk/ray-ban-meta-smart-glasses)
 
 ## Contact
 

@@ -93,7 +93,7 @@ Trials of the employment assessment toolkit and innovative support strategies pr
 
 The new employment assessment toolkit is helping the RNIB group of charities to re-model the way it delivers pre-employment support with blind and partially sighted people. Designed to assess the particular issues faced by blind and partially sighted people, it serves as a diagnostic tool and is useful for planning the steps required to progress towards work. The RNIB group of charities is embedding the employment assessment toolkit as part of our support to working-age people. Our use of this standardised assessment model means that our pre-employment support for blind and partially sighted people will be even more closely aligned to the specific needs of those we support.
 
-Download (pdf 1.03 MB)
+The document (PDF 1.03 MB) will be linked here in the finished site.
 
 ## Contact
 

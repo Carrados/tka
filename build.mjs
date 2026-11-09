@@ -23,7 +23,7 @@ function fill(text) {
 S.PHONE_HTML = S.PHONE_LINK ? `<a href="tel:${S.PHONE_LINK}">${S.PHONE}</a>` : S.PHONE;
 // News lists, built from news.mjs: the latest three on the home page, all of them on the News page.
 S.NEWS_LATEST = storyList(fill, 3);
-S.NEWS_ALL = storyList(fill);
+S.NEWS_ALL = storyList(fill, undefined, 2);
 const read = p => fill(readFileSync(p, 'utf8'));
 
 const pages = [

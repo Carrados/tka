@@ -23,15 +23,13 @@ Children not only learn basic programming concepts, such as sequence, iteration,
 
 Most important, any teacher can facilitate Code Jumper lessons without prior computer science experience, and Code Jumper is inclusive of all children across the vision spectrum.
 
-APH is pleased to announce that we will be partnering with HumanWare to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.
+APH is pleased to announce that we will be partnering with [HumanWare](http://www.humanware.com/) to distribute Code Jumper internationally. HumanWare is a leader in assistive technology, with over 30 years of experience in empowering people who are blind or with low vision through innovative solutions.
 
 We are also pleased to partner with the following organizations in the promotion and sale of Code Jumper internationally:
 
-- Australia: Vision Australia Vision Australia: Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: Vision Store
-
-- Canada: CNIB Foundation: CNIB
-
-- UK: The Royal National Institute of Blind People (RNIB) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their online shop.
+- Australia: Vision Australia [Vision Australia](https://www.visionaustralia.org/): Vision Australia is a not-for-profit organisation, recognised as a leading national provider of blindness and low vision products and services in Australia. To purchase Code Jumper, please visit: [Vision Store](https://shop.visionaustralia.org/)
+- Canada: CNIB Foundation: [CNIB](https://www.cnib.ca/en?region=gta)
+- UK: The [Royal National Institute of Blind People (RNIB)](https://www.rnib.org.uk/) – RNIB is one of the UK′s leading sight loss charities and the largest community of blind and partially sighted people. To purchase Code Jumper, please visit their [online shop](https://shop.rnib.org.uk/).
 
 ## Contact
 

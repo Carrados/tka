@@ -22,11 +22,8 @@ AbilityNet is a UK-based charity with a global reach - our vision is a digital w
 We’ve been helping older people and disabled people of any age with their technology for 25 years. Could we help you or someone you know?
 
 - We have a network of more than 450 friendly tech volunteers who can help you or someone you are supporting. They can come to your home, or help you on the phone.
-
 - If you are older or disabled, or if you support someone that is, you can call our helpline for independent advice from a technology expert.
-
 - If you're over 65 years of age and looking to build your digital skills, we offer free digital skills sessions in areas in and around London, Birmingham, Manchester, Edinburgh, and Cardiff.
-
 - Our free information resources provide expert information about disability and technology.
 
 ## Contact

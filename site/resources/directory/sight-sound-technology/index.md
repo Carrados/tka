@@ -26,9 +26,7 @@ We provide training in sessions of 1, 2 or 3 hour blocks, depending upon locatio
 Some examples of the assistive technology we train on are:
 
 - Computer software for the visually impaired such as JAWS, ZoomText, Fusion and Supernova
-
 - Braille and Blindness technology such as Notetakers, Braille displays and Braille learning devices such as Mountbatten
-
 - The latest technology for low vision such as OrCam, Envision glasses.
 
 We are expert in training for any age, from School right up to those happily retired!

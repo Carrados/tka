@@ -19,7 +19,7 @@ Menu:
 
 This briefing has been produced and published on behalf of the technology group of The Sight Loss Alliance, which TKA is part of. It brings together existing evidence on the role and uptake of technology and digital by blind and partially sighted people. Details of the sector partners can be found at the end of the briefing.
 
-Download (pdf 1.05 MB)
+The document (PDF 1.05 MB) will be linked here in the finished site.
 
 ## Contact
 

@@ -47,7 +47,7 @@ It is against this background that this report makes recommendations to governme
 
 Published July 2021
 
-Download (pdf 1.11 MB)
+The document (PDF 1.11 MB) will be linked here in the finished site.
 
 ## Contact
 

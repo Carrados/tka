@@ -87,7 +87,7 @@ figcaption { color: var(--muted); font-size: 1rem; margin-top: 0.5rem; }
 
 .news-list, .events-list { list-style: none; padding: 0; }
 .news-list li, .events-list li { border-top: 1px solid var(--rule); padding: 1rem 0; }
-.news-list h3, .events-list h3 { margin-top: 0; }
+.news-list h2, .news-list h3, .events-list h2 { margin-top: 0; font-size: 1.35rem; }
 .meta { color: var(--muted); font-size: 1rem; margin: 0 0 0.5rem; }
 
 .button { display: inline-block; background: var(--deep); color: #ffffff; font-weight: 700; padding: 0.7rem 1.4rem; text-decoration: none; border-radius: 4px; }
@@ -109,4 +109,4 @@ footer p { margin: 0 0 1rem; }
 /* Text and a picture side by side on wide screens; the picture follows the text on narrow ones. */
 .beside { display: grid; gap: 1.5rem 2.5rem; grid-template-columns: repeat(auto-fit, minmax(min(20rem, 100%), 1fr)); align-items: start; }
 .beside figure { margin: 0; }
-.news-list h3 a { color: var(--teal); }
+.news-list :is(h2, h3) a { color: var(--teal); }

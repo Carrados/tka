@@ -28,17 +28,13 @@ BlindAid grants are:
 Subject to criteria, and considered by our grant committee
 
 - Typically up to £400
-
 - Applied for on behalf of the recipient by Social Services, Sensory Teams or other Charities/statutory services.
 
 Grants can be used in many ways, including but not limited to:
 
 - Equipment and gadgets, including colour detectors, talking microwaves etc.
-
 - White Goods
-
 - Accessible computers/laptops
-
 - Domestic items
 
 Please be aware that we can only accept grant applications made by an employee of a statutory organisation or registered charity.

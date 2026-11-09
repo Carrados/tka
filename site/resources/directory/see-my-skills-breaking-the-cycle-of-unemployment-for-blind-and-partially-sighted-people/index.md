@@ -27,7 +27,7 @@ The research also highlighted the importance of individual assessments to identi
 
 Published July 2021.
 
-Download (pdf 1,010.83 KB)
+The document (PDF 1,010.83 KB) will be linked here in the finished site.
 
 ## Contact
 

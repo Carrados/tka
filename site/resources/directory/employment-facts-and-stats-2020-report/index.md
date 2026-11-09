@@ -31,7 +31,7 @@ The age at which someone experiences sight loss influences the challenges they f
 
 Published 2020.
 
-Download (docx 82.79 KB)
+The document (Word 82.79 KB) will be linked here in the finished site.
 
 ## Contact
 

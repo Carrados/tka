@@ -19,7 +19,7 @@ Menu:
 
 The RNIB provide an overview of the role of technology in the development of a child or young person, the role of the QTVI (Qualified Teachers of children and young people with Vision Impairment), and provide information on some the mainstream and specialist solutions which are available.
 
-The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the Curriculum Framework for Children and Young People with Vision Impairment (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this.
+The use of technology to access learning and the world beyond school is an area of specialist skills development as set out in the [Curriculum Framework for Children and Young People with Vision Impairment](https://www.rnib.org.uk/professionals/health-social-care-education-professionals/education-professionals/curriculum-framework-for-children-and-young-people-with-vision-impairment/) (CFVI) so, while settings would facilitate, the expectation would be that a QTVI would lead on this.
 
 ## Contact
 

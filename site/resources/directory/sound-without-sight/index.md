@@ -22,9 +22,7 @@ Sound Without Sight is a new non-profit initiative, aimed at supporting sight-im
 We will support the blind and partially sighted community to access:
 
 - Audio production: recording, editing, mixing, etc.
-
 - Music notation: reading and composing, obtaining accessible scores, screen access technologies, etc.
-
 - Performance: instrumental, vocal, speech; individual or group; beginner or professional.
 
 ## Contact

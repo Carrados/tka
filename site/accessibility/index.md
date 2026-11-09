@@ -52,6 +52,8 @@ It is built to [Zero Information Casualty version 1.7](https://zeroinformationca
 - **9 November 2026: "Preview" said twice.** The preview note was a landmark named Preview that began with the word Preview, so NVDA read the word twice. It is now a plain note.
 - **9 November 2026: bullets read aloud.** In ordinary bulleted lists, NVDA read the bullet character before each item. The bullets are now drawn by the stylesheet and hidden from screen readers.
 - **9 November 2026: a comma after a link.** "The whole directory as data, for agents" was read with the comma on its own. The line was rewritten so the link comes last.
+- **9 November 2026: headings that skipped a level.** On the News and Events pages, the stories and events were level 3 headings straight under the main heading. They are now level 2. Found in a review by another AI, Codex.
+- **9 November 2026: links lost from the directory.** When the directory was moved over, the links inside entries were dropped, so some entries, such as the smart glasses, had nowhere to go. Eleven links to other organisations are back. Seven links to the charity's own pages and documents are marked as linked in the finished site. Found in the same review.
 - **9 November 2026: no sign of where you are.** Inside a section, such as the directory inside Resources, the menu now says that section is current.
 
 ## Known issues

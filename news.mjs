@@ -41,9 +41,10 @@ export const stories = [
 const BASE = '/news/';
 
 // A list of stories: each headline is a link to the story's own page.
-export function storyList(fill, count = stories.length) {
+// Headline level: 2 where the list sits right under the page's main heading, 3 under a section heading.
+export function storyList(fill, count = stories.length, level = 3) {
   return `<ul class="news-list">
-${stories.slice(0, count).map(s => `<li><h3><a href="${BASE}${s.slug}/">${fill(s.title)}</a></h3>
+${stories.slice(0, count).map(s => `<li><h${level}><a href="${BASE}${s.slug}/">${fill(s.title)}</a></h${level}>
 <p class="meta">${s.date}</p>
 <p>${fill(s.summary)}</p></li>`).join('\n')}
 </ul>`;

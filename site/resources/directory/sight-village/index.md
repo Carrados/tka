@@ -20,27 +20,16 @@ Menu:
 Sight Village is described as 'the UK’s leading exhibition for blind and partially sighted people and for those experiencing sight problems’. Each year thousands of people visit our events to find out at first hand the latest technology, products and support services available including:
 
 - Audio equipment and services
-
 - Braille equipment and services
-
 - CCTV / Magnification
-
 - Computers
-
 - Daily living equipment
-
 - Education and training
-
 - Information and support services
-
 - Leisure services
-
 - Low vision aids
-
 - Mobility aids
-
 - Peripherals
-
 - Screen enlargers / readers
 
 ## Contact
