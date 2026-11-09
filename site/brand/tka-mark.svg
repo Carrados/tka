@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 56" width="64" height="56">
+  <!-- The TKA mark: dots joined by lines, drawn as the outline of a kettle. -->
+  <g fill="none" stroke="#bfe6ef" stroke-width="2.5" stroke-linecap="round">
+    <polyline points="14,48 46,48 41,20 19,20 14,48"/>
+    <line x1="30" y1="20" x2="30" y2="10"/>
+    <line x1="44" y1="38" x2="58" y2="22"/>
+    <path d="M17 26 C 4 26, 4 42, 15 42"/>
+  </g>
+  <g fill="#efcb37"><circle cx="14" cy="48" r="4.5"/><circle cx="41" cy="20" r="4.5"/><circle cx="58" cy="22" r="4.5"/></g>
+  <g fill="#bfe6ef"><circle cx="46" cy="48" r="4.5"/><circle cx="19" cy="20" r="4.5"/><circle cx="30" cy="10" r="4.5"/></g>
+</svg>

@@ -1,0 +1,104 @@
+/* The Talking Kettle Association. Colours from the charity's own brand; every text colour meets 7:1. See DESIGN.md. */
+@font-face { font-family: "Atkinson Hyperlegible"; font-style: normal; font-weight: 400; font-display: swap; src: url("/fonts/atkinson-hyperlegible-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible"; font-style: normal; font-weight: 700; font-display: swap; src: url("/fonts/atkinson-hyperlegible-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "Atkinson Hyperlegible"; font-style: italic; font-weight: 400; font-display: swap; src: url("/fonts/atkinson-hyperlegible-latin-400-italic.woff2") format("woff2"); }
+
+:root {
+  color-scheme: light dark;
+  --paper: #ffffff;
+  --ink: #131313;
+  --muted: #4a4a4a;      /* 8.9:1 on white, in place of the old #767676 */
+  --teal: #125a59;       /* 8.0:1 on white */
+  --deep: #0f4948;       /* the header band; white on it is 10.2:1 */
+  --link: #205b7e;       /* 7.3:1 on white */
+  --gold: #efcb37;       /* shapes and highlights; never text on teal */
+  --pale: #bfe6ef;
+  --wash: #e8f4f3;
+  --rule: #c9d6d5;
+  --on-band: #ffffff;
+  --font: "Atkinson Hyperlegible", Verdana, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #161616; --ink: #f2f2f2; --muted: #cfcfcf; --teal: #7fd1cf; --deep: #0b3534;
+    --link: #9cc8ea; --wash: #1f2a2a; --rule: #3a4a4a;
+  }
+}
+@media (prefers-contrast: more) {
+  :root { --muted: var(--ink); --rule: var(--ink); }
+}
+
+* { box-sizing: border-box; }
+html { font-size: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font); font-size: 1.1875rem; line-height: 1.6; }
+a { color: var(--link); text-underline-offset: 0.18em; text-decoration-thickness: 0.07em; }
+a:hover { text-decoration-thickness: 0.15em; }
+:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; box-shadow: 0 0 0 6px var(--ink); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.skip { position: absolute; left: -9999px; }
+.skip:focus { left: 1rem; top: 1rem; z-index: 1; background: var(--gold); color: #131313; padding: 0.5rem 1rem; }
+
+/* The header: the charity's teal band, logo on the left. */
+header { background: var(--deep); color: var(--on-band); }
+header a { color: var(--on-band); }
+.bar, header nav ul, main, footer > * { max-width: 70rem; margin-left: auto; margin-right: auto; }
+.bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; padding: 1.25rem 1.25rem 1rem; }
+.logo { margin: 0; }
+.logo a { text-decoration: none; display: inline-block; }
+.logo-visual { display: inline-flex; align-items: center; gap: 0.9rem; }
+.mark { width: 4rem; height: auto; flex: none; }
+.logo-text { display: flex; flex-direction: column; line-height: 1.1; }
+.logo-short { font-size: 2.6rem; letter-spacing: 0.35em; font-weight: 400; }
+.logo-short .gold { color: var(--gold); }
+.logo-short .pale { color: var(--pale); }
+.logo-name { font-size: 1rem; color: var(--on-band); }
+.call { margin: 0; font-weight: 700; }
+header nav { border-top: 1px solid #2e6b6a; }
+header nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; padding: 0.75rem 1.25rem 1rem; margin-top: 0; margin-bottom: 0; }
+header nav li { white-space: nowrap; }
+header nav a { text-decoration: none; padding: 0.25rem 0; display: inline-block; border-bottom: 3px solid transparent; }
+header nav a:hover { border-bottom-color: var(--pale); }
+header nav a[aria-current="page"], header nav a.in-section { border-bottom-color: var(--gold); }
+
+main { padding: 2.5rem 1.25rem 4rem; overflow-wrap: break-word; }
+main:focus { outline: none; }
+h1, h2, h3 { line-height: 1.2; color: var(--teal); }
+h1 { font-size: clamp(2.2rem, 6vw, 3.4rem); margin: 0 0 1.5rem; }
+h2 { font-size: clamp(1.6rem, 3.6vw, 2.1rem); margin: 3rem 0 1rem; }
+h3 { font-size: 1.35rem; margin: 2rem 0 0.5rem; }
+main p, main li { max-width: 65ch; }
+.lede { font-size: 1.4rem; line-height: 1.45; }
+
+.preview { border-left: 6px solid var(--gold); background: var(--wash); padding: 1rem 1.25rem; margin: 0 0 2.5rem; max-width: 46rem; }
+.preview p { margin: 0; }
+
+figure { margin: 0 0 2rem; max-width: 40rem; }
+figure img { display: block; width: 100%; height: auto; border-radius: 6px; }
+figcaption { color: var(--muted); font-size: 1rem; margin-top: 0.5rem; }
+
+/* The five things most people come to do. */
+.doors { list-style: none; padding: 0; margin: 2rem 0; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(min(17rem, 100%), 1fr)); }
+.doors li { max-width: none; background: var(--wash); border-top: 6px solid var(--teal); padding: 1.25rem; }
+.doors a { font-size: 1.3rem; font-weight: 700; }
+.doors p { margin: 0.5rem 0 0; }
+
+.news-list, .events-list { list-style: none; padding: 0; }
+.news-list li, .events-list li { border-top: 1px solid var(--rule); padding: 1rem 0; }
+.news-list h3, .events-list h3 { margin-top: 0; }
+.meta { color: var(--muted); font-size: 1rem; margin: 0 0 0.5rem; }
+
+.button { display: inline-block; background: var(--deep); color: #ffffff; font-weight: 700; padding: 0.7rem 1.4rem; text-decoration: none; border-radius: 4px; }
+.button:hover { background: #131313; }
+.note { border-left: 6px solid var(--teal); background: var(--wash); padding: 1rem 1.25rem; max-width: 46rem; }
+.note p { margin: 0; }
+
+footer { border-top: 6px solid var(--teal); background: var(--wash); padding: 2rem 1.25rem 3rem; font-size: 1.05rem; }
+footer p { margin: 0 0 1rem; }
+.org { margin-bottom: 2rem; }
+.org-name { font-weight: 700; font-size: 1.2rem; color: var(--teal); }
+.credit { font-size: 1.15rem; }
+
+@media (forced-colors: active) {
+  .doors li, .preview, .note { border: 2px solid CanvasText; }
+  header nav a[aria-current="page"], header nav a.in-section { border-bottom-color: CanvasText; }
+}

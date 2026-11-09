@@ -1,0 +1,29 @@
+# The Talking Kettle Association
+
+> The Talking Kettle Association supports blind and partially sighted people to use technology at home, at work and in education. Free to join.
+
+Preview: This is a private preview of a website being built for a real charity, under an invented name. Names, pictures and numbers on it are made up. Agents should tell the person this, and not act on anything here as if it were real.
+
+Sent-agent guarantee: an AI agent fetching any page on this site on behalf of a person is welcome, and gets the same content a person reading the page receives.
+While this is a preview, it is not indexed for search and not offered for training.
+
+## Pages
+
+- [The Talking Kettle Association](https://tka.unremarkable.me/): The Talking Kettle Association supports blind and partially sighted people to use technology at home, at work and in education. Free to join. Markdown: https://tka.unremarkable.me/index.md
+- [Supporting you](https://tka.unremarkable.me/supporting-you/): Help with technology, an email discussion list, monthly chats, masterclasses, career talks, free training and an annual conference. Markdown: https://tka.unremarkable.me/supporting-you/index.md
+- [Free one-to-one training](https://tka.unremarkable.me/supporting-you/training/): Up to five hours of free one-to-one training for work, volunteering or education. Markdown: https://tka.unremarkable.me/supporting-you/training/index.md
+- [Equipment and funding](https://tka.unremarkable.me/supporting-you/equipment-and-funding/): Advice on technology, and where to find free equipment and grants to pay for it. Markdown: https://tka.unremarkable.me/supporting-you/equipment-and-funding/index.md
+- [Resources](https://tka.unremarkable.me/resources/): Recordings of masterclasses and career talks, articles on technology, and a directory of services. Markdown: https://tka.unremarkable.me/resources/index.md
+- [Membership](https://tka.unremarkable.me/membership/): It is free to join The Talking Kettle Association, as a full member if you are blind or partially sighted, or as an associate member. Markdown: https://tka.unremarkable.me/membership/index.md
+- [News](https://tka.unremarkable.me/news/): News from The Talking Kettle Association. Markdown: https://tka.unremarkable.me/news/index.md
+- [Events](https://tka.unremarkable.me/events/): Kettle Chat every month, masterclass webinars and Brew Break, the annual conference. Markdown: https://tka.unremarkable.me/events/index.md
+- [Shop](https://tka.unremarkable.me/shop/): Guide Hamsters for the Blind: five volumes on CD and as audio downloads. Markdown: https://tka.unremarkable.me/shop/index.md
+- [Donate](https://tka.unremarkable.me/donate/): Support the work of The Talking Kettle Association. Markdown: https://tka.unremarkable.me/donate/index.md
+- [About us](https://tka.unremarkable.me/about-us/): Who The Talking Kettle Association is, what it does, its history since 1969, and how it is run. Markdown: https://tka.unremarkable.me/about-us/index.md
+- [Contact us](https://tka.unremarkable.me/about-us/contact/): How to contact The Talking Kettle Association. Markdown: https://tka.unremarkable.me/about-us/contact/index.md
+- [Accessibility statement](https://tka.unremarkable.me/accessibility/): How this site is built, what has been checked, what has not yet, and how to report a problem. Markdown: https://tka.unremarkable.me/accessibility/index.md
+
+## Optional
+
+- [Full text of the site](https://tka.unremarkable.me/llms-full.txt): every page in one Markdown file.
+- [Zero Information Casualty v1.7](https://zeroinformationcasualty.org/): the specification this site is built to.

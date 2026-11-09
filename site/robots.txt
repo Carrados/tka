@@ -1,2 +1,15 @@
+# Sent agents: a person asked, and is waiting. Welcome on every page.
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# Everything else, including search and training crawlers: not while this is a private preview.
 User-agent: *
 Disallow: /
+
+Content-Signal: search=no, ai-input=yes, ai-train=no
