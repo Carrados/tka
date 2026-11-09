@@ -42,7 +42,7 @@ ${Object.entries(needNames).map(([id, label]) => {
 <ul>
 <li><a href="${BASE}kinds/">By kind of organisation</a></li>
 <li><a href="${BASE}a-to-z/">A to Z</a></li>
-<li><a href="${BASE}directory.json">The whole directory as data</a>, for agents and anyone who wants to use it</li>
+<li>For agents, and anyone who wants it: <a href="${BASE}directory.json">the whole directory as data</a></li>
 </ul>
 <h2 id="suggest">Suggest an organisation</h2>
 <p>Know an organisation that should be here, or found one that has changed? Use "Fix something on this page" at the foot of any directory page, and tell us.</p>`,

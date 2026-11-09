@@ -67,6 +67,9 @@ h1 { font-size: clamp(2.2rem, 6vw, 3.4rem); margin: 0 0 1.5rem; }
 h2 { font-size: clamp(1.6rem, 3.6vw, 2.1rem); margin: 3rem 0 1rem; }
 h3 { font-size: 1.35rem; margin: 2rem 0 0.5rem; }
 main p, main li { max-width: 65ch; }
+/* Bullets drawn by the stylesheet with empty alt text, so a screen reader never reads the bullet character (listening test, 9 November 2026). */
+main ul:not([class]) { list-style: none; padding-left: 1.4rem; }
+main ul:not([class]) > li::before { content: "2" / ""; display: inline-block; width: 1.4rem; margin-left: -1.4rem; color: var(--teal); }
 .lede { font-size: 1.4rem; line-height: 1.45; }
 
 .preview { border-left: 6px solid var(--gold); background: var(--wash); padding: 1rem 1.25rem; margin: 0 0 2.5rem; max-width: 46rem; }

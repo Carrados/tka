@@ -80,7 +80,7 @@ function layout(p, main) {
     const here = m.path === p.path;
     const inSection = !here && m.path !== '/' && section && m.path === `/${section}/`;
     // The page you are on is named in the menu but is not a link to itself (rulebook rule 2).
-    return here ? `<li><a aria-current="page">${m.nav}</a></li>` : `<li><a href="${m.path}"${inSection ? ' class="in-section"' : ''}>${m.nav}</a></li>`;
+    return here ? `<li><a aria-current="page">${m.nav}</a></li>` : `<li><a href="${m.path}"${inSection ? ' class="in-section" aria-current="true"' : ''}>${m.nav}</a></li>`;
   }).join('\n');
   return `<!doctype html>
 <html lang="en-GB">

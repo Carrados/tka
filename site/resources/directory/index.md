@@ -38,7 +38,7 @@ Organisations and resources that help blind and partially sighted people get the
 
 - [By kind of organisation](https://tka.unremarkable.me/resources/directory/kinds/)
 - [A to Z](https://tka.unremarkable.me/resources/directory/a-to-z/)
-- [The whole directory as data](https://tka.unremarkable.me/resources/directory/directory.json), for agents and anyone who wants to use it
+- For agents, and anyone who wants it: [the whole directory as data](https://tka.unremarkable.me/resources/directory/directory.json)
 
 ## Suggest an organisation
 
