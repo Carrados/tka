@@ -1,0 +1,7 @@
+{
+  // The Talking Kettle Association: a private shadow of a real charity's site, built by Unremarkable.
+  "name": "tka",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./site", "not_found_handling": "404-page" },
+  "routes": [{ "pattern": "tka.unremarkable.me", "custom_domain": true }]
+}
