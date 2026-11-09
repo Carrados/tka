@@ -16,6 +16,24 @@ Every page takes these from one place in the build:
 
 Swapping to the real charity means changing these settings and rebuilding. Never find-and-replace.
 
+## Every real name is replaced by an invented one
+
+Decided 9 November 2026. Wherever a real name appears in the charity's content, it's replaced by an invented one, and the same invented name is used every time that real name appears, on every page.
+
+- **Covered:** people (trustees, staff, members, speakers, authors), the charity and its own branded names (events, courses, products, webinars), funders and partner organisations, and email addresses and web addresses that contain any of those.
+- **Not covered:** the technology the content is about, such as screen readers, phones, apps and smart glasses, and the companies that make them. Those stay as they are, because the advice is about them.
+- **Invented names are checked** so they don't belong to a real person or organisation in this field.
+- **The names map is private.** It pairs each real name with its invented one, so it's kept outside this public repository, in the gitignored `research/` folder. If the charity adopts the site, the map turns every name back in one pass.
+
+## Every image is a drawn SVG
+
+Decided 9 November 2026. Wherever the charity's site has a photograph or image, this site has an SVG drawn in code in its place.
+
+- The drawing shows what the photo shows, in the site's colours: a person at a conference wearing smart glasses is drawn as a person at a conference wearing smart glasses.
+- Each drawing gets alt text written for it, based on the photo's original alt text, with any real names replaced.
+- No photograph of a real person appears on this site.
+- If the charity adopts the site, its own photographs can replace the drawings one by one, or the drawings can stay.
+
 ## Colours
 
 Taken from the charity's own brand: its colours, not its theme code, which belongs to its web designer. Measured contrast; Unremarkable's standard is AAA (7:1) for all text.
@@ -57,13 +75,13 @@ The charity's logo: on the teal band, a small mark of dots joined by lines, in g
 - The menu: Home, Supporting You, Resources, Membership, News, Events, Shop, Donate, About us, with **Accessibility statement first**, and linked nowhere else.
 - The kinds of page: news, events (the monthly webinar, masterclasses, the annual conference), the directory and its 14 types, membership levels, trustees and staff, history, reports and accounts, safeguarding, complaints, discussion list guidelines.
 - The charity's own words, as written. Typos are fixed and reported; nothing is rewritten without asking.
-- Photos with their existing alt text, checked.
+- Each photo's subject, as a drawn SVG (see above).
 - The charity's contact details and membership pitch, above the standard footer.
 
 ## Not mirrored
 
 - **Funders' logos.** Real organisations mustn't appear to back a made-up one. A space says where they go.
-- **Real people's names and photos** (trustees, staff, tributes), until the charity agrees or the site is theirs.
+- **Real names and photographs.** Invented names and drawings take their place (see above).
 - **The contrast switcher.** System settings instead.
 - **The cookie banner.** The site sets no cookies, so it needs none.
 - **The shop, basket and accounts**, until a decision is made about what the shop sells.
