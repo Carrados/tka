@@ -44,6 +44,7 @@ Taken from the charity's own brand: its colours, not its theme code, which belon
 | Teal | #125a59 | brand colour, header band | 8.0:1 on white |
 | Dark teal | #0f4948 | headings, hover | 10.2:1 on white |
 | Blue | #205b7e | links | 7.3:1 on white |
+| Dark blue | #1b4f6e | links on the pale wash (footer, notes, the five doors) | 7.8:1 on the wash, where the blue is only 6.5:1 |
 | Gold | #efcb37 | highlights, logo, buttons on ink | 11.7:1 on ink |
 | Pale blue | to be measured from the logo | logo | |
 

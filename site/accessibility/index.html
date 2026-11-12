@@ -54,7 +54,7 @@ This is a private preview of a website being built for a real charity, under an 
 <p>It is built to <a href="https://zeroinformationcasualty.org/">Zero Information Casualty version 1.7</a>, and aims to meet WCAG 2.2 at level AA, with all text meeting AAA contrast.</p>
 
 <h2 id="how-it-is-built">How it is built</h2>
-<ul>
+<ul role="list">
 <li>Every page is plain HTML. Nothing depends on JavaScript, and the site uses none.</li>
 <li>One main heading on every page, headings in order, landmarks, and a skip link to the main content.</li>
 <li>The logo is read once, as the charity's name.</li>
@@ -67,14 +67,14 @@ This is a private preview of a website being built for a real charity, under an 
 </ul>
 
 <h2 id="checked">What has been checked</h2>
-<ul>
+<ul role="list">
 <li><strong>9 November 2026, the directory's front page, heard with NVDA 2026.3.1</strong>, reading through and tabbing. The ten ways in, each with its number of entries, read as one list. Three problems were found, and all are fixed (below).</li>
 <li><strong>9 November 2026, the home page, heard with NVDA 2026.3.1</strong>, reading from top to bottom and moving through it with Tab, by someone who uses a screen reader every day. Headings, lists, landmarks, the drawing and its caption, and the order of the links were all as intended. Two problems were found, and both are fixed (below).</li>
 <li><strong>9 November 2026:</strong> the build checks that no placeholder is left unfilled, and every text colour was measured.</li>
 </ul>
 
 <h2 id="not-yet-checked">Not yet checked</h2>
-<ul>
+<ul role="list">
 <li>Listening to every other kind of page with a screen reader: the inside pages, the directory and its entries. The results will be written here with dates.</li>
 <li>VoiceOver on iPhone and Mac.</li>
 <li>Phone widths with text enlarged.</li>
@@ -82,7 +82,7 @@ This is a private preview of a website being built for a real charity, under an 
 </ul>
 
 <h2 id="found-and-fixed">Found and fixed</h2>
-<ul>
+<ul role="list">
 <li><strong>9 November 2026: a link to the page you were on.</strong> In the menu, the current page was a link to itself, so NVDA said "same page link, current page, Home". It is now named as the current page, but is no longer a link.</li>
 <li><strong>9 November 2026: "Preview" said twice.</strong> The preview note was a landmark named Preview that began with the word Preview, so NVDA read the word twice. It is now a plain note.</li>
 <li><strong>9 November 2026: bullets read aloud.</strong> In ordinary bulleted lists, NVDA read the bullet character before each item. The bullets are now drawn by the stylesheet and hidden from screen readers.</li>
@@ -90,6 +90,9 @@ This is a private preview of a website being built for a real charity, under an 
 <li><strong>9 November 2026: headings that skipped a level.</strong> On the News and Events pages, the stories and events were level 3 headings straight under the main heading. They are now level 2. Found in a review by another AI, Codex.</li>
 <li><strong>9 November 2026: links lost from the directory.</strong> When the directory was moved over, the links inside entries were dropped, so some entries, such as the smart glasses, had nowhere to go. Eleven links to other organisations are back. Seven links to the charity's own pages and documents are marked as linked in the finished site. Found in the same review.</li>
 <li><strong>9 November 2026: no sign of where you are.</strong> Inside a section, such as the directory inside Resources, the menu now says that section is current.</li>
+<li><strong>12 November 2026: footer links below 7:1.</strong> The link blue measured 6.5:1 on the pale footer, short of the 7:1 this statement promises for all text. Links on that pale background now use a darker blue, at 7.8:1. Found in an accessibility review on 12 November 2026.</li>
+<li><strong>12 November 2026: sideways scrolling with large text on a phone.</strong> With text at double size on a narrow screen, the logo, the "Accessibility statement" menu item and the footer email address ran off the right edge. They now wrap. Every page was checked at 320 and 375 pixels wide with text at one and a half and twice its size, in light and dark. Found in the same review.</li>
+<li><strong>12 November 2026: lists Safari might not announce.</strong> Lists whose bullets are hidden or drawn by the stylesheet, such as the five things on the home page, now say explicitly that they are lists, because Safari can stop treating them as lists. This was a risk found in the same review, not a problem anyone heard.</li>
 </ul>
 
 <h2 id="known-issues">Known issues</h2>
