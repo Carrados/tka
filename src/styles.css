@@ -11,6 +11,7 @@
   --teal: #125a59;       /* 8.0:1 on white */
   --deep: #0f4948;       /* the header band; white on it is 10.2:1 */
   --link: #205b7e;       /* 7.3:1 on white */
+  --link-on-wash: #1b4f6e; /* 7.8:1 on the wash; the brand blue is only 6.5:1 there */
   --gold: #efcb37;       /* shapes and highlights; never text on teal */
   --pale: #bfe6ef;
   --wash: #e8f4f3;
@@ -21,7 +22,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --paper: #161616; --ink: #f2f2f2; --muted: #cfcfcf; --teal: #7fd1cf; --deep: #0b3534;
-    --link: #9cc8ea; --wash: #1f2a2a; --rule: #3a4a4a;
+    --link: #9cc8ea; --link-on-wash: #9cc8ea; --wash: #1f2a2a; --rule: #3a4a4a;
   }
 }
 @media (prefers-contrast: more) {
@@ -45,7 +46,7 @@ header a { color: var(--on-band); }
 .bar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem 2rem; padding: 1.25rem 1.25rem 1rem; }
 .logo { margin: 0; }
 .logo a { text-decoration: none; display: inline-block; }
-.logo-visual { display: inline-flex; align-items: center; gap: 0.9rem; }
+.logo-visual { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 0.9rem; }
 .mark { width: 4rem; height: auto; flex: none; }
 .logo-text { display: flex; flex-direction: column; line-height: 1.1; }
 .logo-short { font-size: 2.6rem; letter-spacing: 0.35em; font-weight: 400; }
@@ -55,7 +56,6 @@ header a { color: var(--on-band); }
 .call { margin: 0; font-weight: 700; }
 header nav { border-top: 1px solid #2e6b6a; }
 header nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; padding: 0.75rem 1.25rem 1rem; margin-top: 0; margin-bottom: 0; }
-header nav li { white-space: nowrap; }
 header nav a { text-decoration: none; padding: 0.25rem 0; display: inline-block; border-bottom: 3px solid transparent; }
 header nav a:hover { border-bottom-color: var(--pale); }
 header nav a[aria-current="page"], header nav a.in-section { border-bottom-color: var(--gold); }
@@ -95,7 +95,9 @@ figcaption { color: var(--muted); font-size: 1rem; margin-top: 0.5rem; }
 .note { border-left: 6px solid var(--teal); background: var(--wash); padding: 1rem 1.25rem; max-width: 46rem; }
 .note p { margin: 0; }
 
-footer { border-top: 6px solid var(--teal); background: var(--wash); padding: 2rem 1.25rem 3rem; font-size: 1.05rem; }
+footer { border-top: 6px solid var(--teal); background: var(--wash); padding: 2rem 1.25rem 3rem; font-size: 1.05rem; overflow-wrap: anywhere; }
+/* Links on the wash use a darker blue so they keep 7:1. */
+footer a, .note a, .preview a, .doors a { color: var(--link-on-wash); }
 footer p { margin: 0 0 1rem; }
 .org { margin-bottom: 2rem; }
 .org-name { font-weight: 700; font-size: 1.2rem; color: var(--teal); }

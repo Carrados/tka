@@ -78,6 +78,10 @@ const MARK = readFileSync('brand/tka-mark.svg', 'utf8').replace(/<!--[\s\S]*?-->
 // The logo: the mark and the short name, drawn; one accessible name, the full name, read once.
 const logoInner = `<span class="visually-hidden">${S.NAME}</span><span class="logo-visual" aria-hidden="true">${MARK}<span class="logo-text"><span class="logo-short">${[...S.SHORT].map((c, i) => `<span class="${i % 2 ? 'pale' : 'gold'}">${c}</span>`).join('')}</span><span class="logo-name">${S.NAME}</span></span></span>`;
 
+// Lists in the page keep role="list": the stylesheet removes or redraws their bullets, and Safari drops list semantics
+// from a list styled list-style: none outside navigation (TKA accessibility review, 12 November 2026).
+const keepListRole = html => html.replace(/<ul(?![^>]*\brole=)(?=[\s>])/g, '<ul role="list"');
+
 function layout(p, main) {
   const url = S.ORIGIN + p.path;
   const isHome = p.path === '/';
@@ -116,7 +120,7 @@ ${nav}
 </header>
 <main id="main" tabindex="-1">
 <h1>${p.h1}</h1>
-${previewHtml}${main}
+${previewHtml}${keepListRole(main)}
 </main>
 <footer>
 <div class="org">

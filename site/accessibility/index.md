@@ -55,6 +55,9 @@ It is built to [Zero Information Casualty version 1.7](https://zeroinformationca
 - **9 November 2026: headings that skipped a level.** On the News and Events pages, the stories and events were level 3 headings straight under the main heading. They are now level 2. Found in a review by another AI, Codex.
 - **9 November 2026: links lost from the directory.** When the directory was moved over, the links inside entries were dropped, so some entries, such as the smart glasses, had nowhere to go. Eleven links to other organisations are back. Seven links to the charity's own pages and documents are marked as linked in the finished site. Found in the same review.
 - **9 November 2026: no sign of where you are.** Inside a section, such as the directory inside Resources, the menu now says that section is current.
+- **12 November 2026: footer links below 7:1.** The link blue measured 6.5:1 on the pale footer, short of the 7:1 this statement promises for all text. Links on that pale background now use a darker blue, at 7.8:1. Found in an accessibility review on 12 November 2026.
+- **12 November 2026: sideways scrolling with large text on a phone.** With text at double size on a narrow screen, the logo, the "Accessibility statement" menu item and the footer email address ran off the right edge. They now wrap. Every page was checked at 320 and 375 pixels wide with text at one and a half and twice its size, in light and dark. Found in the same review.
+- **12 November 2026: lists Safari might not announce.** Lists whose bullets are hidden or drawn by the stylesheet, such as the five things on the home page, now say explicitly that they are lists, because Safari can stop treating them as lists. This was a risk found in the same review, not a problem anyone heard.
 
 ## Known issues
 
